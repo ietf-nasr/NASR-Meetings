@@ -1,6 +1,6 @@
 ## NASR Side Meeting 4 November 2024 - IETF 121 Dublin
 
-No signature taken but around XX people present in the room and online
+No signature taken but around 30 people present in the room and online
 
 ### Draft presentations:
 - **[Handling Multiple Verifiers in the RATS Architecture](https://datatracker.ietf.org/doc/draft-zhang-rats-multiverifiers/)**
