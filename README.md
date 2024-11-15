@@ -20,7 +20,7 @@ Attendance: No blue sheets - counted around 30 attendees
     - NASR & IAB Statement
     - NASR Document updates
 
-    Slides proposed by Peter (Liu Chunchi) can be found **[here](NASR-121-Side-Meeting-Next-Steps.pdf)** 
+    Slides proposed by Peter (Liu Chunchi) can be found **[here](/Material/NASR-121-Side-Meeting-Next-Steps.pdf)** 
 
 #### Minutes
 
