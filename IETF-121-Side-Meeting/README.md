@@ -12,7 +12,7 @@ Attendance: No blue sheets - counted around 30 attendees
    [Handling Multiple Verifiers in the RATS Architecture](https://datatracker.ietf.org/doc/draft-zhang-rats-multiverifiers/)
    (15 Minutes) 
 
-   Slides of the presentation available **[here](/Material/RATS-Multiple-Verifiers.pdf)**
+   Slides of the presentation available **[here](/IETF-121-Side-Meeting/Material/RATS-Multiple-Verifiers.pdf)**
 
 3. All: Discussion on the following points
     - NASR  Scope 
