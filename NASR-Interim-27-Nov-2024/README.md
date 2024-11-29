@@ -19,8 +19,6 @@
 - [Minutes NASR 27 November 2024](./Material/)
 
 ### Recordings
-- [Audio Recording (66M)]()
-- [Video Recording (130M)]()
 - [Chat Recording](./Material/GMT20241127-145156_RecordingnewChat.txt)
 - [Audio Transcript](./Material/GMT20241127-145156_Recording.transcript.vtt) 
 
