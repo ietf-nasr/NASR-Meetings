@@ -1,6 +1,6 @@
 ## NASR Interim 27 November 2024 15:00 UTC
 
-- Calendar Invitation & Conference Link: **[.ics file](/NASR-Meetings/NASR-Interim-27-Nov-2024/Material/NASR-27112024.ics)**
+- Calendar Invitation & Conference Link: **[.ics file](/NASR-Interim-27-Nov-2024/Material/NASR-27112024.ics)**
 
 ### Agenda
 
@@ -11,12 +11,12 @@
 
 ### Materials
 
-- [Chairs' Slides](/NASR-Meetings/NASR-Interim-27-Nov-2024/Material/NASR-Side-Meeting-27-11-2024.pdf)
+- [Chairs' Slides](/NASR-Interim-27-Nov-2024/Material/NASR-Side-Meeting-27-11-2024.pdf)
 - [Generic POT GitHub Repository](https://github.com/liuchunchi/Generic-POT)
 
 ### Minutes
 
-- [Minutes NASR 27 November 2024](/NASR-Meetings/NASR-Interim-27-Nov-2024/Material/NASR-Minutes-27112024.md)
+- [Minutes NASR 27 November 2024](/NASR-Interim-27-Nov-2024/Material/NASR-Minutes-27112024.md)
 
 ### Recordings
 - [Audio Recording (66M)](./Material/GMT20241127-145156_Recording.m4a)
