@@ -1,0 +1,12 @@
+00:04:38	Nancy:	It’s me….I’m trying to use my phone as I have to get on my car to drive but the phone doesn’t let me unmute?
+00:40:01	Antoine Fressancourt:	Nice concept in my view, and I didn't expect the document to address the topic you mentionned from the title you gave on the mailing list :)
+00:51:57	Michael Richardson:	CRISP
+00:52:33	Michael Richardson:	That's potato chips in the US(S)A and Canada :-)
+00:52:54	Michael Richardson:	ROFL... Michael will ATTEST to this. Remotely.
+00:54:23	Michael Richardson:	Toerless: there are circles of dependancies here.
+00:56:02	Michael Richardson:	I think that Toerless raises an interesting scope question, which I think the charter doesn't need to solve, but the problem statement does.
+01:02:58	Nancy:	I’m going to have to drop….
+01:03:24	Nancy:	Toerless does bring some valid concerns
+01:03:41	Jun Zhang:	for trusted links, does it use encrption of packets on it to ensure its trustworthiness?
+01:03:54	Nancy:	Replying to "I think that Toerles…"
++1
