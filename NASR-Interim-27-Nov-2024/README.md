@@ -16,7 +16,7 @@
 
 ### Minutes
 
-- [Minutes NASR 27 November 2024](./Material/)
+- [Minutes NASR 27 November 2024](./Material/NASR-Minutes-27112024.md)
 
 ### Recordings
 - [Chat Recording](./Material/GMT20241127-145156_RecordingnewChat.txt)
