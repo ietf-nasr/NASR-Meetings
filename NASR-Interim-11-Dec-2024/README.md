@@ -3,7 +3,20 @@
 
 ### Agenda
 
+1. Nancy & Luigi: Meeting opening ( 5 Minutes)
+    - Any Comment on last meeting minutes?
+    - GitHub Overview
+        - https://github.com/ietf-nasr
+
+2. Overview existing Pull Requests on Charter
+    - https://github.com/ietf-nasr/NASR-Charter
+
+3. AOB
+
 ### Materials
+
+- [Chairs' Slides](./Material/NASR-Side-Meeting-11-12-2024.pdf)
+- [GitHub CHarter Repository](https://github.com/ietf-nasr/NASR-Meetings)
 
 ### Minutes
 
