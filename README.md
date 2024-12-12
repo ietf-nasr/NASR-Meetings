@@ -2,20 +2,21 @@
 
 This repository contains material and pointers to past and future NASR meetings.
 
-## Next Upcoming Meetings:
+## Next Upcoming Meeting:
 
-- #### NASR Interim Meeting [11 December 2024 UTC 04:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2024-12-11&sln=4-5&hf=1)
-    - Note that in some time zones this is late Tuesday evening
-    - Calendar Invitation & Conference Link: **[.ics file](./NASR-Interim-11-Dec-2024/Material/NASR-11122024.ics)**
-    - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-11-Dec-2024/README.md)
+
+- #### NASR Interim Meeting - [8 January UTC 15:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2025-1-8&sln=15-16&hf=1)
+
+    - Calendar Invitation & Conference Link: **[.ics file](./NASR-Interim-08-Jan-2025/Material/NASR-08012025.ics)** 
+         - **Note: For some time zones it will be very early Thursday morning (9 January 2025)** 
+        ![image Meeting Time Zone](./NASR-Interim-08-Jan-2025/Material/NASR-08012025-TZ.png)
+
+    - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-08-Jan-2025/README.md)
+
 
 ---
 
 ### Planned Meetings
-
-- #### NASR Interim Meeting - [8 January UTC 15:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2025-1-8&sln=15-16&hf=1)
-    - Calendar Invitation & Conference Link: **[.ics file](./NASR-Interim-08-Jan-2025/Material/NASR-08012025.ics)** 
-    - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-08-Jan-2025/README.md)
 
 - #### NASR Interim Meeting - [22 January 2025 UTC 04:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2025-1-22&sln=4-5&hf=1) 
     - Note that in some time zones this is late Tuesday evening
@@ -35,6 +36,10 @@ This repository contains material and pointers to past and future NASR meetings.
 ---
 
 ### Past Meetings
+
+- #### NASR Interim Meeting [11 December 2024 UTC 04:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2024-12-11&sln=4-5&hf=1)
+  
+    - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-11-Dec-2024/README.md)
 
 - #### NASR Interim Meeting - 27 November 2024
     - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-27-Nov-2024/README.md)

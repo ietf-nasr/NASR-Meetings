@@ -16,11 +16,17 @@
 ### Materials
 
 - [Chairs' Slides](./Material/NASR-Side-Meeting-11-12-2024.pdf)
-- [GitHub CHarter Repository](https://github.com/ietf-nasr/NASR-Meetings)
+- [GitHub Charter Repository](https://github.com/ietf-nasr/NASR-Charter)
 
 ### Minutes
 
+- [Minutes NASR Meeting 11 December 2024](): **Coming Soon**
+
 ### Recordings
+
+- [Chat Recording](./Material/GMT20241211-035753_RecordingnewChat.txt)
+- [Audio Transcript](./Material/GMT20241211-035753_Recording.transcript.vtt) 
+    
 
 
 

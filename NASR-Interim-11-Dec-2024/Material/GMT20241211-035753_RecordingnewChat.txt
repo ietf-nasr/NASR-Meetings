@@ -1,0 +1,12 @@
+00:33:44	Net1923_Meiling Chen:	sorry ,I cannot speek
+00:34:34	Net1923_Meiling Chen:	I will email the service model github to mail list
+00:34:55	Luigi Iannone:	Reacted to "I will email the ser..." with 👍
+00:35:26	Net1923_Meiling Chen:	Where does the path information data come from? My suggestion is to collect the security attributes of nodes through BGP-LS. We only need some extensions. Who decides the forwarding path? We use the controller to decide. Of course, this is in the same domain. Do we need to clarify what specific functions are needed to implement the NASR controller?
+00:36:26	Ray Atarashi:	Reacted to "I will email the ser..." with 👍
+00:37:44	Net1923_Meiling Chen:	Yes, Thank you Luigi
+00:38:20	Luigi Iannone:	Reacted to "Yes, Thank you Luigi" with 👍
+00:39:32	Net1923_Meiling Chen:	Diego, why need to exchange the evidence, inter-domain just need a baseline
+00:40:16	Net1923_Meiling Chen:	do we need to consider multi-domain, just two-domain.
+00:40:52	Net1923_Meiling Chen:	n to n is more complex, we can just focus on 1 to 1 domain, right?
+00:43:26	Net1923_Meiling Chen:	For example, in an audit scenario, the objective is only the source and purpose, rather than a fully/all possible path.
+00:46:15	Net1923_Meiling Chen:	Agreed, our goal is to form a working group

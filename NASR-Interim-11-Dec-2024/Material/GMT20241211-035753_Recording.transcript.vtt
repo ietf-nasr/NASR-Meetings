@@ -1,0 +1,1906 @@
+WEBVTT
+
+1
+00:03:23.230 --> 00:03:24.520
+Luigi Iannone: Hello!
+
+2
+00:03:25.350 --> 00:03:29.970
+Luigi Iannone: We will wait a few minutes for people to join in before starting. Okay.
+
+3
+00:03:32.590 --> 00:03:33.230
+Peter Chunchi Liu: Yes.
+
+4
+00:04:39.280 --> 00:04:40.230
+Yutaka OIWA: Hello!
+
+5
+00:04:43.270 --> 00:04:44.570
+Luigi Iannone: Hello, you Tucker!
+
+6
+00:04:45.270 --> 00:04:46.269
+Yutaka OIWA: I don't know.
+
+7
+00:04:47.410 --> 00:04:49.299
+Yutaka OIWA: What time are you in?
+
+8
+00:04:50.030 --> 00:04:52.589
+Yutaka OIWA: This is 5 o'clock in the morning here in Europe.
+
+9
+00:04:52.590 --> 00:04:56.135
+Yutaka OIWA: Oh, oh, it's not playing.
+
+10
+00:04:58.720 --> 00:05:00.149
+Luigi Iannone: Early. Wake up.
+
+11
+00:05:00.720 --> 00:05:05.600
+Luigi Iannone: I better do not open my webcam, so you don't have to see me in the morning.
+
+12
+00:05:09.900 --> 00:05:20.709
+Luigi Iannone: By the way you took. I saw your mail. I will give you. I will add you to the depository so that you can do direct pull request. Okay, I will do it later on.
+
+13
+00:05:20.710 --> 00:05:21.270
+Yutaka OIWA: Yep.
+
+14
+00:05:29.890 --> 00:05:32.990
+Luigi Iannone: Wait another couple of minutes, and then we will start. Okay.
+
+15
+00:06:43.410 --> 00:06:48.580
+Luigi Iannone: Okay, maybe we can start welcome everybody.
+
+16
+00:06:52.120 --> 00:07:01.760
+Luigi Iannone: the agenda for today. It's actually pretty simple. I wanted to go quickly over the Github, so to make sure that everybody knows what is there.
+
+17
+00:07:02.280 --> 00:07:06.299
+Luigi Iannone: and then we can start the discussion over the
+
+18
+00:07:06.750 --> 00:07:19.910
+Luigi Iannone: the charter. I saw this morning that already there are a few emails you discussing over the changes changes proposed by Peter. I actually created a couple of more
+
+19
+00:07:19.970 --> 00:07:23.770
+Luigi Iannone: we request late yesterday. But the the
+
+20
+00:07:24.180 --> 00:07:35.354
+Luigi Iannone: they're just how to say small change proposed changes. We will go over them as well, but the the bulk is discussing the the changes that Peter
+
+21
+00:07:35.950 --> 00:07:46.119
+Luigi Iannone: has proposed. So not to go on, I will switch actually to the key tab.
+
+22
+00:07:50.380 --> 00:07:54.840
+Luigi Iannone: Are you able to to read comfortably the
+
+23
+00:07:55.300 --> 00:08:06.280
+Luigi Iannone: okay? As I said, the last time I I created an organization in their organization there are 3 main repositories. So the Github Github is just
+
+24
+00:08:06.360 --> 00:08:16.070
+Luigi Iannone: for the organization itself the meetings. I added all the meetings that we have. So
+
+25
+00:08:16.820 --> 00:08:23.120
+Luigi Iannone: this one is today, the planet entering meetings that we have until the next itf.
+
+26
+00:08:23.160 --> 00:08:26.110
+Luigi Iannone: and there are links to past meetings.
+
+27
+00:08:27.920 --> 00:08:34.515
+Luigi Iannone: And for each and every meeting meeting there is a a calendar file, so that for you should be easy to
+
+28
+00:08:35.578 --> 00:08:46.831
+Luigi Iannone: to add the for in your calendar, so you know, don't forget to wake up early or go late to bed, depending on your time zones. Okay?
+
+29
+00:08:47.620 --> 00:08:53.520
+Luigi Iannone: And the other main repository is about the charter.
+
+30
+00:08:55.940 --> 00:08:57.619
+Luigi Iannone: Here we go.
+
+31
+00:08:58.890 --> 00:09:00.070
+Luigi Iannone: The
+
+32
+00:09:00.320 --> 00:09:09.519
+Luigi Iannone: original file is the one that was submitted and prepared early this year, I mean before the the official buff.
+
+33
+00:09:09.770 --> 00:09:15.883
+Luigi Iannone: and we can work on that based on on proposal changes with pull request.
+
+34
+00:09:17.910 --> 00:09:26.860
+Luigi Iannone: the most important, I would say by now is the one so submitted by Peter, which
+
+35
+00:09:26.970 --> 00:09:31.930
+Luigi Iannone: you can find here on your screen. Now, my screen sharing
+
+36
+00:09:32.532 --> 00:09:39.610
+Luigi Iannone: Peter, do you? You want to go over quickly on the changes that you you proposed
+
+37
+00:09:39.640 --> 00:09:41.550
+Luigi Iannone: in order to start the discussion.
+
+38
+00:09:42.400 --> 00:09:48.337
+Peter Chunchi Liu: Yes, yes, thank you, Luigi and I I saw Diego has joined. Thank you for joining in this
+
+39
+00:09:48.800 --> 00:09:51.140
+Peter Chunchi Liu: challenging hours in Europe.
+
+40
+00:09:51.585 --> 00:09:56.160
+Diego Lopez: Okay, there are even worse hours. Don't don't worry, thank you.
+
+41
+00:09:56.937 --> 00:10:24.852
+Peter Chunchi Liu: Right? So quickly go through my changes. Actually, I made the changes per few you know principles or so. So the 1st one is that I changed, you know, from the last buff changed from the goal of this working group, from from you know, routing only on top of trusted devices becomes. We want proofs, you know. Prove proving. You know the
+
+42
+00:10:25.670 --> 00:10:45.250
+Peter Chunchi Liu: that our our data will be and has been, you know, forwarded on security qualifying devices. So I think the the focus slightly changes from orchestration and path computation into
+
+43
+00:10:45.250 --> 00:10:57.020
+Peter Chunchi Liu: proof generation. So how do we collect the trustworthiness information of the underlying devices and links?
+
+44
+00:10:57.190 --> 00:11:04.450
+Peter Chunchi Liu: So in this case you can maybe scroll down a little bit, Luigi, into the
+
+45
+00:11:04.800 --> 00:11:07.089
+Peter Chunchi Liu: a little bit more, a little bit more.
+
+46
+00:11:07.440 --> 00:11:10.770
+Peter Chunchi Liu: I'll come back. So a little bit more.
+
+47
+00:11:11.759 --> 00:11:32.439
+Peter Chunchi Liu: So there's out of scope. Line 28, I said. The path. Computation according to client security requirements is a due elsewhere. So in this case we assume that we should provide some kind of you know, client service model to present to the client
+
+48
+00:11:32.440 --> 00:11:43.260
+Peter Chunchi Liu: to show like this like a menu. These are the security items that we can provide from the operator perspective. And you can choose these items.
+
+49
+00:11:43.680 --> 00:12:09.350
+Peter Chunchi Liu: and if you, after you have chosen your preferred security items, the operator will orchestrate this path, but this will you know, belong, you know, somewhere in the routing area. But since we're placed in the security area, and our topic is slightly, you know, in between security and operations. Visualization.
+
+50
+00:12:09.420 --> 00:12:13.639
+Peter Chunchi Liu: This part of path computation should somehow it might.
+
+51
+00:12:14.070 --> 00:12:22.210
+Peter Chunchi Liu: Humble opinion is something that we can do like a separate draft in a separate working group like Pce or Spring.
+
+52
+00:12:22.530 --> 00:12:32.470
+Peter Chunchi Liu: This should be still in total, a full solution in total. But it's just not here. So just this is just a just a thinking.
+
+53
+00:12:33.450 --> 00:12:39.479
+Peter Chunchi Liu: And basically, if we can go up
+
+54
+00:12:41.730 --> 00:12:44.150
+Peter Chunchi Liu: do we? Yes, I'm gonna go up.
+
+55
+00:12:44.530 --> 00:12:50.450
+Peter Chunchi Liu: So that's the main change from orchestrating the path
+
+56
+00:12:50.470 --> 00:13:01.669
+Peter Chunchi Liu: into proving that a orchestrated path have desired security, attributes and statuses.
+
+57
+00:13:01.730 --> 00:13:10.869
+Peter Chunchi Liu: So when I say, attributes and statuses that includes the security, configuration, the security functions that enabled.
+
+58
+00:13:10.930 --> 00:13:26.109
+Peter Chunchi Liu: and, for example, like, is it properly configured into the you know, the the latest, the security versions? Is it Ipsec or Macsec enabled these kind of information.
+
+59
+00:13:27.270 --> 00:13:38.900
+Peter Chunchi Liu: And also I kind of changed the trustworthiness into a more conservative term like I changed trustworthy, trustworthy
+
+60
+00:13:39.060 --> 00:13:41.310
+Peter Chunchi Liu: to security qualify.
+
+61
+00:13:41.380 --> 00:13:43.719
+Peter Chunchi Liu: So we we don't want to
+
+62
+00:13:43.950 --> 00:13:54.170
+Peter Chunchi Liu: be very subjective to define, like what is trust and what is not, which could, you know, lead to a lot of controversy and arguments?
+
+63
+00:13:54.210 --> 00:13:56.029
+Peter Chunchi Liu: So in this case.
+
+64
+00:13:56.420 --> 00:14:06.420
+Peter Chunchi Liu: we, as operators and vendors, only want to provide a connection service to the client that meets his security requests.
+
+65
+00:14:07.080 --> 00:14:07.860
+Peter Chunchi Liu: Okay?
+
+66
+00:14:08.100 --> 00:14:18.870
+Peter Chunchi Liu: And for line 22, that that's number. That's the change. Number 2. So number one is to change the orchestration into generating proofs, security proofs.
+
+67
+00:14:18.900 --> 00:14:25.480
+Peter Chunchi Liu: and number 2 is that changing the term from trustworthy to security qualifying.
+
+68
+00:14:25.690 --> 00:14:29.520
+Peter Chunchi Liu: And the number 3 is that, you know, line 22.
+
+69
+00:14:29.880 --> 00:14:37.329
+Peter Chunchi Liu: I kind of mentioned like for what? What domains that we are operating.
+
+70
+00:14:37.470 --> 00:14:40.830
+Peter Chunchi Liu: So in here, like initial sorry.
+
+71
+00:14:41.370 --> 00:14:50.899
+Peter Chunchi Liu: Initially, we work on a simple source, routing path in one limited domain, and also.
+
+72
+00:14:51.120 --> 00:15:03.719
+Peter Chunchi Liu: as we discussed before, like connecting this single path in 2 different domains. So we will need some kind of inter ISP message format.
+
+73
+00:15:04.050 --> 00:15:04.990
+Peter Chunchi Liu: Okay?
+
+74
+00:15:05.270 --> 00:15:08.910
+Peter Chunchi Liu: So these are the 3 main changes from my side
+
+75
+00:15:08.970 --> 00:15:15.110
+Peter Chunchi Liu: and reflecting on the work items, can you slide a little bit down
+
+76
+00:15:18.746 --> 00:15:22.643
+Peter Chunchi Liu: right? So regarding on the work items
+
+77
+00:15:23.250 --> 00:15:27.229
+Peter Chunchi Liu: so we still have Nas use cases and requirements.
+
+78
+00:15:27.360 --> 00:15:35.560
+Peter Chunchi Liu: And we also have Nazar architecture. That is basically a if you're familiar with rats working group.
+
+79
+00:15:35.610 --> 00:15:43.730
+Peter Chunchi Liu: So they have annotation results for each different device. So basically, our NASA architecture is.
+
+80
+00:15:43.850 --> 00:15:52.739
+Peter Chunchi Liu: how do we collect them? How do we collect each individual device's attestation results or evidences such that they can combine
+
+81
+00:15:52.760 --> 00:16:02.509
+Peter Chunchi Liu: into one group attestation result for a network path. So this is the nether architecture.
+
+82
+00:16:03.940 --> 00:16:22.669
+Peter Chunchi Liu: document and the the service model, I think. I mentioned mailing is working on is a document that looks like a menu in the restaurant, right? So these are the security items or services that an operator can provide to the clients, and the clients can choose from it.
+
+83
+00:16:23.060 --> 00:16:28.929
+Peter Chunchi Liu: and line number 39 is the path annotation claim set.
+
+84
+00:16:28.980 --> 00:16:40.389
+Peter Chunchi Liu: So we will need. We mentioned, like in as architecture, there's like a procedure to aggregate and combine each individual device's security proofs.
+
+85
+00:16:40.510 --> 00:17:04.570
+Peter Chunchi Liu: So it would need some if coding and formatting format. So how do we define a path, level attestation claim set in a very similar to the rats working group? The entity attestation token. So what does it look like? What's this format? What is the encoding format?
+
+86
+00:17:05.230 --> 00:17:11.900
+Peter Chunchi Liu: And the last one is proof of transit. So these are my proposed changes. And you know.
+
+87
+00:17:12.030 --> 00:17:14.870
+Peter Chunchi Liu: guys, what do you look? What do you think.
+
+88
+00:17:19.050 --> 00:17:26.550
+Luigi Iannone: If I may start. there are in general good changes is
+
+89
+00:17:27.140 --> 00:17:30.155
+Luigi Iannone: progress for the world. In my opinion, the fact that we
+
+90
+00:17:30.500 --> 00:17:42.780
+Luigi Iannone: we drop the orchestration pattern path routing part is, I think, important is good. The suggestion that yes, Yutaka.
+
+91
+00:17:43.470 --> 00:17:48.029
+Yutaka OIWA: I am completely objective to that conclusion. So.
+
+92
+00:17:48.280 --> 00:17:57.299
+Yutaka OIWA: as I, my memory is about the last officer between precedent so
+
+93
+00:17:58.250 --> 00:18:01.485
+Yutaka OIWA: and so there are so many new
+
+94
+00:18:02.762 --> 00:18:06.299
+Yutaka OIWA: output outside people. Who are really yeah.
+
+95
+00:18:07.704 --> 00:18:10.670
+Yutaka OIWA: interested in the whole service model.
+
+96
+00:18:10.810 --> 00:18:17.330
+Yutaka OIWA: Not just limited to the single domain. So people and ha! They are interested in how
+
+97
+00:18:17.820 --> 00:18:21.359
+Yutaka OIWA: they can actually use that. So
+
+98
+00:18:21.850 --> 00:18:28.160
+Yutaka OIWA: as I I sent in the mailing list today, seeing this separate
+
+99
+00:18:29.041 --> 00:18:31.728
+Yutaka OIWA: just received. So dropping
+
+100
+00:18:32.570 --> 00:18:36.260
+Yutaka OIWA: that is a completely opposite
+
+101
+00:18:36.820 --> 00:18:41.190
+Yutaka OIWA: is a tendency of the both comments. I I believe so.
+
+102
+00:18:41.760 --> 00:18:45.749
+Luigi Iannone: I mean it, didn't you? You took out? Wait, wait a minute.
+
+103
+00:18:45.880 --> 00:18:54.409
+Luigi Iannone: if I may. There is a difference between routing and interdomain. NASA. Solution.
+
+104
+00:18:55.360 --> 00:18:59.890
+Luigi Iannone: You don't need the 1st to have the second, in my opinion.
+
+105
+00:19:00.377 --> 00:19:26.800
+Luigi Iannone: And there is already some wording in the current charter that is there about NASA will work in the future in order to extend the mechanism to inter domain and complex topologies. Right we can keep that. I mean the fact that you have another solution, that you can use it inter domain.
+
+106
+00:19:27.090 --> 00:19:28.390
+Luigi Iannone: This one thing.
+
+107
+00:19:29.030 --> 00:19:31.330
+Yutaka OIWA: But we we don't need.
+
+108
+00:19:31.590 --> 00:19:37.060
+Luigi Iannone: Define the path in each and every domain. This can be left still
+
+109
+00:19:37.790 --> 00:19:43.870
+Luigi Iannone: to some, for each ISP to solve with pce, or something else.
+
+110
+00:19:45.170 --> 00:19:54.480
+Yutaka OIWA: In my comments, so louding Protocol is out of the scope, do elsewhere, but orchestration cannot be separated, so
+
+111
+00:19:54.540 --> 00:19:58.699
+Yutaka OIWA: we should not include at least orchestration time. There.
+
+112
+00:20:03.146 --> 00:20:07.389
+Luigi Iannone: Do you mean that Nasser should work as well on the orchestration itself?
+
+113
+00:20:08.870 --> 00:20:11.379
+Yutaka OIWA: At least to some extent.
+
+114
+00:20:11.420 --> 00:20:21.750
+Yutaka OIWA: So because that is my view is that what to verify with another
+
+115
+00:20:21.980 --> 00:20:30.579
+Yutaka OIWA: is in current implementation tightly related to orchestration, it cannot be separately implemented. So
+
+116
+00:20:31.700 --> 00:20:35.439
+Yutaka OIWA: that's my view of the current implementation in the year, right?
+
+117
+00:20:35.450 --> 00:20:41.717
+Yutaka OIWA: Internet service operators. So so yeah, so like
+
+118
+00:20:42.730 --> 00:20:47.159
+Yutaka OIWA: Rip or Ospf or Bcp. Is completely out of scope.
+
+119
+00:20:47.880 --> 00:20:56.530
+Yutaka OIWA: But but they provide is currently managed mostly in the orchestration domain. So
+
+120
+00:20:56.760 --> 00:21:00.620
+Yutaka OIWA: that's why I am arguing with that. Addition.
+
+121
+00:21:00.960 --> 00:21:04.099
+Yutaka OIWA: we should be more careful about what
+
+122
+00:21:04.550 --> 00:21:09.200
+Yutaka OIWA: to be removed within what should be integrated.
+
+123
+00:21:10.830 --> 00:21:11.590
+Yutaka OIWA: Click.
+
+124
+00:21:12.080 --> 00:21:15.559
+Diego Lopez: But but but I would say, if I if I may.
+
+125
+00:21:16.741 --> 00:21:28.789
+Diego Lopez: I would say that in that in that respect the the charter is not. I mean, it's not explicitly forwarding that we discussed the organization.
+
+126
+00:21:28.850 --> 00:21:36.889
+Diego Lopez: What he's saying is that we are not going to focus on on orchestration at the beginning. And and I think what is important is that
+
+127
+00:21:37.010 --> 00:21:52.059
+Diego Lopez: for the moment, what we're trying to focus necessary on the how data about the the path flows. I mean how we we may saying, well, in this path you have this property and this other property.
+
+128
+00:21:52.150 --> 00:21:55.159
+Diego Lopez: and they are they are there, and they are verifiable.
+
+129
+00:21:55.540 --> 00:21:58.130
+Diego Lopez: The decisions that you take on that
+
+130
+00:21:58.280 --> 00:22:01.400
+Diego Lopez: are put for the moment out of scope.
+
+131
+00:22:01.560 --> 00:22:08.890
+Diego Lopez: It's it's not saying that you cannot use it for orchestration is that we are not going to specify how you express
+
+132
+00:22:09.840 --> 00:22:14.329
+Diego Lopez: your orchestration decisions in terms of NASA. Because, NASA,
+
+133
+00:22:15.330 --> 00:22:17.460
+Diego Lopez: we are trying to focus it on the
+
+134
+00:22:18.100 --> 00:22:27.499
+Diego Lopez: on the information towards the orchestrator, and not the the information that comes from the orchestrator, because we are focusing on the properties of the path
+
+135
+00:22:27.580 --> 00:22:31.059
+Diego Lopez: and not on, the on, the, on, the control of the path.
+
+136
+00:22:31.630 --> 00:22:32.889
+Yutaka OIWA: Yeah, yeah, yeah, yeah, I.
+
+137
+00:22:32.890 --> 00:22:39.680
+Diego Lopez: And in that sense, in that sense, we are. We are exposing data and to to make the decision.
+
+138
+00:22:40.630 --> 00:22:43.829
+Diego Lopez: What we are limiting in the, in the scope is
+
+139
+00:22:44.520 --> 00:22:50.520
+Diego Lopez: from where the or how the how the the information is built.
+
+140
+00:22:50.980 --> 00:22:54.369
+Diego Lopez: It's built in that within a single domain.
+
+141
+00:22:54.910 --> 00:23:01.460
+Diego Lopez: What group sing because we are not. We are not trying to start the discussion about the trust
+
+142
+00:23:01.530 --> 00:23:21.370
+Diego Lopez: cross domains in your domain. You tell me something about your your environment, and then how I establish trust with your domain is something that is kept out for the moment. This important is for the moment, and I think that, being starting with a narrow scope.
+
+143
+00:23:21.500 --> 00:23:23.560
+Diego Lopez: Buddha law was a better.
+
+144
+00:23:26.120 --> 00:23:27.029
+Yutaka OIWA: Is he?
+
+145
+00:23:27.150 --> 00:23:35.419
+Yutaka OIWA: I repeated the saying that should be done concurrently, at least concurrently. So who decided?
+
+146
+00:23:35.840 --> 00:23:45.770
+Yutaka OIWA: I about that? So yes, that is, yeah, that is, yeah. I understand that your
+
+147
+00:23:46.310 --> 00:23:54.030
+Yutaka OIWA: about a 2 year program. But I'm still thinking how Reese
+
+148
+00:23:54.910 --> 00:24:01.645
+Yutaka OIWA: can use this and important point us, and I sent to the email that so important point is,
+
+149
+00:24:03.709 --> 00:24:12.700
+Yutaka OIWA: yeah, we need some information from orchestration layer, not not directly from the website like,
+
+150
+00:24:14.552 --> 00:24:20.270
+Yutaka OIWA: what were the how can you say so?
+
+151
+00:24:27.700 --> 00:24:36.929
+Peter Chunchi Liu: So you talk. We were kind of agreed on like we work on top of, you know, remote attestation working groups outputs.
+
+152
+00:24:37.438 --> 00:24:42.489
+Peter Chunchi Liu: So I I think that's a agreement that we made before so exposed.
+
+153
+00:24:43.552 --> 00:24:50.049
+Yutaka OIWA: Where? Where we what do you mean by before? So
+
+154
+00:24:53.780 --> 00:24:58.769
+Yutaka OIWA: I I attended for for a long time about NASA and I.
+
+155
+00:25:00.210 --> 00:25:06.360
+Yutaka OIWA: I do not remember. We we will use that
+
+156
+00:25:06.520 --> 00:25:10.990
+Yutaka OIWA: that we agreed. But we are to.
+
+157
+00:25:12.742 --> 00:25:22.710
+Yutaka OIWA: I'm I'm not proposing completely new items. So I I really like the email authorization things. And
+
+158
+00:25:23.230 --> 00:25:32.480
+Yutaka OIWA: we are just discussing how that can putting severe values to the a user. So yeah.
+
+159
+00:25:32.560 --> 00:25:38.020
+Yutaka OIWA: I'm just discussing about how we can use that result.
+
+160
+00:25:38.670 --> 00:25:47.070
+Diego Lopez: No, yeah. But but that's how is something is
+
+161
+00:25:47.560 --> 00:25:57.999
+Diego Lopez: what what we can standardize, or what we can build a standard on is is on on the on the information you can send.
+
+162
+00:25:58.310 --> 00:26:07.059
+Diego Lopez: the decisions is, it's like when you when you are having an Sd. And you're having an Sd. And controller. You rely on the application.
+
+163
+00:26:07.340 --> 00:26:20.520
+Diego Lopez: on the sorry, on the on the protocol. What you can change between the controller, but on the on the logic of the of the Controller. Standardizing. This is complicated. We can consider
+
+164
+00:26:20.520 --> 00:26:44.309
+Diego Lopez: that's something that for the document of the use cases and and we are not stopping the discussion on the use cases on this in the document on use cases, we can for sure, we can mention, the the logic for making some decisions about routing through a path that has certain properties, or about deciding the most the safest of
+
+165
+00:26:44.860 --> 00:26:51.340
+Diego Lopez: better path. And this is something that on the on the use cases we can do. We can discuss about that
+
+166
+00:26:51.360 --> 00:26:56.309
+Diego Lopez: mandating or having a document that talks about this logic
+
+167
+00:26:56.410 --> 00:27:09.699
+Diego Lopez: that goes beyond the use case is something that at least at this stage, I I think that it would make you know the area directors or other all there in the in the Itf community uneasy, at least
+
+168
+00:27:10.250 --> 00:27:29.919
+Diego Lopez: so so I think that in the use cases in the use case and the and the considerations about the use case the use cases. We are not saying that we you cannot. We cannot address an orchestrator that is natural, aware, and that chooses the best path, etc. And this is something that we can focus there. And this could be part of the of the work
+
+169
+00:27:30.010 --> 00:27:32.550
+Diego Lopez: of the initial work to be done
+
+170
+00:27:32.850 --> 00:27:40.910
+Diego Lopez: without any any problem because it's a use case. It's a clear use case that you take NASA for for orchestration, or or
+
+171
+00:27:41.350 --> 00:27:46.060
+Diego Lopez: or for rather other routing decisions.
+
+172
+00:27:46.930 --> 00:27:56.520
+Diego Lopez: I think that's that's more than okay. But this I believe it's good that we don't make an express mention to orchestration in the in the chatter.
+
+173
+00:27:57.880 --> 00:28:02.170
+Diego Lopez: you know, because otherwise we we risk a strong.
+
+174
+00:28:02.170 --> 00:28:13.006
+Yutaka OIWA: Yeah, i i i understand your point. So we I. My proposal is not mentioned in both positive and negative way, just saying about that.
+
+175
+00:28:15.120 --> 00:28:18.140
+Diego Lopez: Okay, so what would your chance saying in there.
+
+176
+00:28:20.260 --> 00:28:34.220
+Yutaka OIWA: And maybe maybe I can make some counter proposal for that. I understand your point, and we are not standardizing the behavior of the orchestration that I completely agree.
+
+177
+00:28:34.510 --> 00:28:45.140
+Yutaka OIWA: So so I can. I will make some update updated proposal for
+
+178
+00:28:45.190 --> 00:28:49.490
+Yutaka OIWA: how I think it should be later.
+
+179
+00:28:49.670 --> 00:28:52.669
+Yutaka OIWA: I just see? So this
+
+180
+00:28:55.020 --> 00:29:01.430
+Yutaka OIWA: Peter's proposal just this morning. So oh, yeah.
+
+181
+00:29:01.430 --> 00:29:06.330
+Luigi Iannone: Adapt. I mean, there is 2 things. One is
+
+182
+00:29:06.340 --> 00:29:26.010
+Luigi Iannone: some wording in in the charter that you can propose. Obviously, the second is about the the. As Diego was mentioning the use cases and problem statement document you, you can propose text for that document which includes what? What your specific use case.
+
+183
+00:29:26.010 --> 00:29:27.460
+Yutaka OIWA: Yeah, yeah, yeah, yeah, yeah, yeah.
+
+184
+00:29:27.460 --> 00:29:31.920
+Luigi Iannone: Now, then, we have to be a little bit careful on the
+
+185
+00:29:31.940 --> 00:29:38.071
+Luigi Iannone: how we show the priority that we give to the different use cases and solutions.
+
+186
+00:29:38.700 --> 00:29:46.149
+Luigi Iannone: vis-a-vis of the Isg, just not to give the impression that we really want to do everything at once.
+
+187
+00:29:46.360 --> 00:29:47.630
+Luigi Iannone: Okay.
+
+188
+00:29:47.780 --> 00:30:16.279
+Luigi Iannone: which doesn't mean that we. We do not have to work at all on your use case, but you are free and welcome to work on your Us. Case and propose solution for your your use case in parallel. As you said, it's just that we needed to prioritize a little bit the works in, not give the impression that we we, we have a large scope where and we want to so solve everything at once.
+
+189
+00:30:17.420 --> 00:30:21.230
+Yutaka OIWA: Hmm, yeah.
+
+190
+00:30:21.230 --> 00:30:21.890
+Ray Atarashi: Hello!
+
+191
+00:30:21.890 --> 00:30:25.730
+Yutaka OIWA: The it it address, and please.
+
+192
+00:30:26.210 --> 00:30:27.117
+Ray Atarashi: I'm so sorry.
+
+193
+00:30:27.550 --> 00:30:29.220
+Ray Atarashi: Can I speak something?
+
+194
+00:30:30.170 --> 00:30:30.990
+Luigi Iannone: Sure.
+
+195
+00:30:30.990 --> 00:30:47.079
+Ray Atarashi: Okay, my name is Japan. I'm working at the and I also agree the orchestration is to scope. But the. We need the some information about our orchestrator.
+
+196
+00:30:47.240 --> 00:30:52.299
+Ray Atarashi: and I also proposed that that's some kind of a news quiz.
+
+197
+00:30:52.420 --> 00:30:55.670
+Ray Atarashi: I got ISP's point of view.
+
+198
+00:30:55.860 --> 00:31:01.990
+Ray Atarashi: and in this discussion. I I need in in this point. In this time.
+
+199
+00:31:02.040 --> 00:31:06.510
+Ray Atarashi: I agree to that. How to death?
+
+200
+00:31:06.620 --> 00:31:13.805
+Ray Atarashi: Some, how can I say that? Yeah, we need we? We need some some element or some
+
+201
+00:31:14.350 --> 00:31:23.299
+Ray Atarashi: database like element to exchange the information from the orchestrator.
+
+202
+00:31:24.790 --> 00:31:29.750
+Ray Atarashi: I think this kind of element is needed at the service model.
+
+203
+00:31:30.090 --> 00:31:40.151
+Ray Atarashi: So I, I'd like to contribute to the discuss it at service model to think about
+
+204
+00:31:40.650 --> 00:31:45.182
+Ray Atarashi: the information modeling at the let's obvious. Yeah.
+
+205
+00:31:46.980 --> 00:31:51.480
+Ray Atarashi: So and also the use cases.
+
+206
+00:31:53.080 --> 00:31:54.670
+Diego Lopez: So.
+
+207
+00:31:54.670 --> 00:31:59.519
+Yutaka OIWA: Okay? Can a proposal, then.
+
+208
+00:32:00.333 --> 00:32:04.509
+Yutaka OIWA: can I see the schedule for the next meetings?
+
+209
+00:32:05.330 --> 00:32:08.150
+Luigi Iannone: Yes, give me a second. Yep.
+
+210
+00:32:13.630 --> 00:32:28.870
+Peter Chunchi Liu: We mentioned, like the service model thing is the thing that we, we exchange information between operators and clients. And there's something that mailing is actively working on. She has a github repo that you can contribute text to.
+
+211
+00:32:30.890 --> 00:32:31.400
+Yutaka OIWA: And that's.
+
+212
+00:32:31.400 --> 00:32:37.359
+Diego Lopez: What I was about to say that what Ray was mentioning is precisely the service model. Yeah.
+
+213
+00:32:39.770 --> 00:32:49.309
+Yutaka OIWA: Okay. And next is January. Okay? So 8, how about next next meeting?
+
+214
+00:32:50.550 --> 00:32:51.440
+Luigi Iannone: Give me a second.
+
+215
+00:32:52.960 --> 00:32:53.890
+Yutaka OIWA: Sitkant.
+
+216
+00:32:54.680 --> 00:33:00.810
+Luigi Iannone: So the next one after the 8th of January is the 20 second of January.
+
+217
+00:33:01.150 --> 00:33:02.869
+Luigi Iannone: Same time, like today.
+
+218
+00:33:03.390 --> 00:33:04.470
+Diego Lopez: Okay.
+
+219
+00:33:05.050 --> 00:33:05.590
+Diego Lopez: Lovely.
+
+220
+00:33:06.676 --> 00:33:07.630
+Luigi Iannone: Oh, yeah.
+
+221
+00:33:07.630 --> 00:33:08.629
+Yutaka OIWA: Yeah, yeah, okay.
+
+222
+00:33:08.630 --> 00:33:09.150
+Luigi Iannone: Okay.
+
+223
+00:33:10.870 --> 00:33:11.340
+Yutaka OIWA: Then.
+
+224
+00:33:13.320 --> 00:33:16.750
+Peter Chunchi Liu: We can postpone a little bit like 2. 2 h later, if.
+
+225
+00:33:17.210 --> 00:33:31.670
+Diego Lopez: No, no, no, no, that it's not that bad. Don't, don't worry. I. Personally, I wake up very, very, very often at this time, because I have to take an early train to Madrid, so don't worry about at least for me, not.
+
+226
+00:33:31.945 --> 00:33:35.520
+Luigi Iannone: Same for me. And there is a second thing. We have a schedule
+
+227
+00:33:35.800 --> 00:33:45.649
+Luigi Iannone: took some time to set up the schedule. Let's not change it so that not confuse even more the things I would
+
+228
+00:33:45.810 --> 00:33:56.180
+Luigi Iannone: leave it. As it is, I mean, it's not ideal for everyone, for every meeting meeting, but it's a little bit of an effort. It's not big deal to me, at least.
+
+229
+00:33:58.070 --> 00:33:59.510
+Peter Chunchi Liu: Got it? Thanks.
+
+230
+00:34:00.430 --> 00:34:03.440
+Yutaka OIWA: Yeah. Oh, okay, for the
+
+231
+00:34:06.150 --> 00:34:15.290
+Yutaka OIWA: use case document. I led it. And told how we can a context
+
+232
+00:34:15.290 --> 00:34:17.840
+Yutaka OIWA: give it something like that. But
+
+233
+00:34:17.960 --> 00:34:24.800
+Yutaka OIWA: current. My observation is that we can have more how to say.
+
+234
+00:34:27.610 --> 00:34:35.999
+Yutaka OIWA: Document, another document for a big perspective of the our problems. Etya mentioned currently in the background section.
+
+235
+00:34:36.360 --> 00:34:37.100
+Peter Chunchi Liu: And
+
+236
+00:34:38.270 --> 00:34:42.380
+Yutaka OIWA: For a part of a important part of that, we
+
+237
+00:34:42.920 --> 00:34:48.759
+Yutaka OIWA: can actually include the current Peters for bother for the
+
+238
+00:34:48.889 --> 00:34:53.729
+Yutaka OIWA: use case for the single domain thing. So anyway, maybe as a
+
+239
+00:34:53.880 --> 00:35:00.860
+Yutaka OIWA: either as a separate update to Peter's document or some how to say
+
+240
+00:35:01.803 --> 00:35:12.320
+Yutaka OIWA: larger scope document separately. In either way, I will provide some document to the January.
+
+241
+00:35:12.400 --> 00:35:20.039
+Yutaka OIWA: maybe, if possible, I will submit by 8, and at least at least before the 20 second. So and.
+
+242
+00:35:21.040 --> 00:35:22.200
+Luigi Iannone: You can also subscribe.
+
+243
+00:35:22.200 --> 00:35:30.250
+Yutaka OIWA: The an initial document or the initial contribution for the 8.th That doesn't need to be final, so that we can start the discussion, you know.
+
+244
+00:35:30.250 --> 00:35:31.259
+Yutaka OIWA: of course. Okay.
+
+245
+00:35:31.600 --> 00:35:40.428
+Yutaka OIWA: So then, if I can share such a view about that, we can more agree with
+
+246
+00:35:41.615 --> 00:35:47.794
+Yutaka OIWA: at least for scoping, I we some opinion, strong opinion. But for ordering
+
+247
+00:35:48.380 --> 00:35:51.180
+Yutaka OIWA: organization we can do more smoothly.
+
+248
+00:35:51.330 --> 00:35:54.580
+Yutaka OIWA: Discuss the thing currently. So
+
+249
+00:35:54.620 --> 00:36:02.349
+Yutaka OIWA: my con big concern is a problem statement. So I can. I. I'm completely agree with fast.
+
+250
+00:36:02.990 --> 00:36:08.169
+Yutaka OIWA: almost practically agree with a fast fiction of the current charter.
+
+251
+00:36:08.350 --> 00:36:11.260
+Yutaka OIWA: But for a problem statement we may
+
+252
+00:36:11.550 --> 00:36:15.130
+Yutaka OIWA: have a more bigger problem. And for solution.
+
+253
+00:36:15.280 --> 00:36:18.699
+Yutaka OIWA: Peter's current proposal is very important
+
+254
+00:36:18.990 --> 00:36:25.779
+Yutaka OIWA: thing we have to solve, so that my yes, I will ex try to express that in
+
+255
+00:36:26.660 --> 00:36:33.350
+Yutaka OIWA: some more document and discuss in a so 20 second, is that possible for me?
+
+256
+00:36:35.080 --> 00:36:35.780
+Luigi Iannone: Sure.
+
+257
+00:36:39.860 --> 00:36:40.980
+Luigi Iannone: So I
+
+258
+00:36:41.720 --> 00:36:42.949
+Luigi Iannone: There are 2
+
+259
+00:36:43.280 --> 00:37:02.860
+Luigi Iannone: to a couple of messages in the chat just to to share, so mailing is not able to speak the mic, so she will share the the link for the service model draft on the mailing list so that people can contribute. And secondly, I will read that the question that she put on the
+
+260
+00:37:03.240 --> 00:37:14.900
+Luigi Iannone: on the chat so that we can discuss. So where does the past information data come from? My suggestion is to collect the security attributes of nodes through Pgp. Ls.
+
+261
+00:37:14.940 --> 00:37:30.030
+Luigi Iannone: we only need some extension who decides the forwarding path. We use the Controller to decide. Of course, this is in the same domain. Do we need to clarify what specific functions are needed to implement the Nasr Controller.
+
+262
+00:37:33.910 --> 00:37:34.919
+Diego Lopez: I don't. Wanna.
+
+263
+00:37:36.790 --> 00:37:41.279
+Diego Lopez: I let me insist on this. I would say
+
+264
+00:37:41.600 --> 00:37:46.135
+Diego Lopez: for the moment, no, I mean the nasser nasser
+
+265
+00:37:46.870 --> 00:37:55.450
+Diego Lopez: should be focused on the what is focused right now on the charter is is about how we provide the information
+
+266
+00:37:55.857 --> 00:38:01.382
+Diego Lopez: to the to to make the decisions is, it's it's about how the information about the
+
+267
+00:38:02.120 --> 00:38:09.639
+Diego Lopez: security stages or other attributes from the different past elements is is provided.
+
+268
+00:38:10.990 --> 00:38:22.112
+Diego Lopez: then how they, this information is changed, applied becomes part of the logic is something that I I for the moment would keep outside of the
+
+269
+00:38:22.810 --> 00:38:25.070
+Diego Lopez: of the of the of the charter
+
+270
+00:38:25.230 --> 00:38:31.489
+Diego Lopez: things think for one second about rat. That is, somehow our mother group
+
+271
+00:38:32.400 --> 00:38:35.683
+Diego Lopez: rats doesn't make any any
+
+272
+00:38:37.330 --> 00:38:46.249
+Diego Lopez: What is about the evidence? How you exchange the how you exchange the evidence, and how do you make, how you build them?
+
+273
+00:38:46.870 --> 00:38:52.880
+Diego Lopez: The logic about how you take decisions about that, etc. Is something that is left out.
+
+274
+00:38:55.780 --> 00:39:06.769
+Diego Lopez: which doesn't imply that in the architecture Jew don't consider, for example, the vertifier and the policies, etcetera. And when Russ started they were very much concerned about the
+
+275
+00:39:07.930 --> 00:39:11.510
+Diego Lopez: about the evidences and about the talking, so the help
+
+276
+00:39:11.640 --> 00:39:17.400
+Diego Lopez: they were exchanged. They started later on to talk about
+
+277
+00:39:17.670 --> 00:39:41.609
+Diego Lopez: how the policies could be applies applied how to change policies, and how, for example, you could right now they are talking about multi-party or multi-party attestation and things like that. But they have done that later, when the base, the base protocol, was was established, I I think it's a it's a wise
+
+278
+00:39:41.810 --> 00:39:44.900
+Diego Lopez: strategy to start with
+
+279
+00:39:45.150 --> 00:40:06.020
+Diego Lopez: the the base mechanisms, which is how data about the path is provided and built, how we establish trust of that. And then then, once we have the the group. The group has become mature enough, and we have a solid ground for this to start discussing about, for example, Bgpls extension, etcetera.
+
+280
+00:40:08.480 --> 00:40:08.939
+Yutaka OIWA: He's up for.
+
+281
+00:40:08.950 --> 00:40:17.810
+Luigi Iannone: Follow up a comment on on the chat from mailing Diego. Why need to to exchange the evidence into domain? Just need a baseline.
+
+282
+00:40:17.890 --> 00:40:20.950
+Luigi Iannone: Do we need to consider multi domain just 2 domain.
+
+283
+00:40:22.980 --> 00:40:23.910
+Diego Lopez: I
+
+284
+00:40:24.290 --> 00:40:37.239
+Diego Lopez: I think that we will need to do that. I mean by definition, the not only the Internet, mobile networks are multi-domain by definition, even even to connect to operators that makes sense. But again.
+
+285
+00:40:37.470 --> 00:40:44.249
+Diego Lopez: I I bought. I bought focus for the moment the charter on the single domain environment.
+
+286
+00:40:44.250 --> 00:41:09.030
+Diego Lopez: and once once we have the group running, we have a clear view. How we do this, we can extend the charter, or ask for an extension of the charter to consider multi domain, to consider, to consider the incorporation of NASA information in route well, in, in some kind of routing change, information, protocol not necessarily routing protocols, etc. This is but I would leave this for
+
+287
+00:41:09.408 --> 00:41:10.920
+Diego Lopez: for a second step
+
+288
+00:41:11.716 --> 00:41:18.299
+Diego Lopez: let me insist. I'm not say I'm not trying to limit it, to limit how Nasser is going to be used.
+
+289
+00:41:18.330 --> 00:41:21.780
+Diego Lopez: I'm just trying to to send the message
+
+290
+00:41:22.820 --> 00:41:33.569
+Diego Lopez: to to the, to the, to the community in general and to area directors, etc, that we have a clear and focused scope to start with.
+
+291
+00:41:33.740 --> 00:41:38.049
+Diego Lopez: Yes, let's start by the by, the basic foundations. That's that's all.
+
+292
+00:41:38.680 --> 00:41:49.310
+Luigi Iannone: I do agree. I, I think the discussion comes also to what Utah said, in the sense that we we can keep the the multi domain inter domain
+
+293
+00:41:49.440 --> 00:41:52.080
+Luigi Iannone: use case in the problem statement.
+
+294
+00:41:52.440 --> 00:42:14.499
+Luigi Iannone: But we, we, we have to to say to the Isg that we, we will start with the intra domain, let's say, single domain, or, as mailing is suggesting in the chat, one to one domain. So 2 domains, just 2 domains, something very, very simple. We don't. Don't go for the very general
+
+295
+00:42:14.630 --> 00:42:31.639
+Luigi Iannone: directly solving the very general use case, so that we prove to the Isg that we we tackle a problem that is solvable within the scope of the Etf, and then we will work further to extend it.
+
+296
+00:42:32.060 --> 00:42:32.980
+Diego Lopez: I think.
+
+297
+00:42:32.980 --> 00:42:35.819
+Yutaka OIWA: Good I can. I have 2 comments.
+
+298
+00:42:36.040 --> 00:42:36.730
+Luigi Iannone: Sure.
+
+299
+00:42:37.120 --> 00:42:46.729
+Yutaka OIWA: Yeah part of the thing. If we it is still in scope of the working group. As long as it is a part of working group. I can work
+
+300
+00:42:47.535 --> 00:43:02.680
+Yutaka OIWA: with individual item within the scope of the working group is completely acceptable for me to work on that. And second comment is, yeah, foundation is important, and we can do
+
+301
+00:43:03.542 --> 00:43:13.969
+Yutaka OIWA: one by one. I for that view, I agree with Diego, but for building up to solve the
+
+302
+00:43:15.700 --> 00:43:19.250
+Yutaka OIWA: final problem. We should have.
+
+303
+00:43:20.199 --> 00:43:26.790
+Yutaka OIWA: how to say, do both top to down and go to app. So
+
+304
+00:43:27.614 --> 00:43:34.090
+Yutaka OIWA: if we build completely from bottom to one step to one step, upper and upper.
+
+305
+00:43:34.130 --> 00:43:37.580
+Yutaka OIWA: we will have some layer solution. So
+
+306
+00:43:37.900 --> 00:43:41.670
+Yutaka OIWA: that's why I am really focusing on the
+
+307
+00:43:43.126 --> 00:43:51.490
+Yutaka OIWA: some broader architecture. And I I can work on that in some way
+
+308
+00:43:51.720 --> 00:43:59.320
+Yutaka OIWA: for next submission, and possibly within working group, so that the another solution can be.
+
+309
+00:43:59.550 --> 00:44:08.719
+Yutaka OIWA: how? How does it smoothly embedded finally into the their system? So
+
+310
+00:44:08.810 --> 00:44:12.839
+Yutaka OIWA: am I interested in working on that way. So we can.
+
+311
+00:44:13.280 --> 00:44:16.479
+Yutaka OIWA: I believe we can cooperate.
+
+312
+00:44:16.630 --> 00:44:19.130
+Yutaka OIWA: Is that perspective.
+
+313
+00:44:20.880 --> 00:44:37.579
+Luigi Iannone: Utah from a stick. Procedural point of view. You can you? You can work on any individual submission that you wish in the past. In my experience it did happen in my working groups that some people work it on individual draft submission
+
+314
+00:44:37.620 --> 00:44:44.979
+Luigi Iannone: for extending or a different use case, and it was not possible to adopt the work, because was not
+
+315
+00:44:45.576 --> 00:44:59.210
+Luigi Iannone: didn't fall into the charter, but later on we rechartered it, and then we included the work in the working group, but the individual submission was already discussed in the working group.
+
+316
+00:44:59.240 --> 00:45:01.940
+Luigi Iannone: We were just not able to adopt it.
+
+317
+00:45:02.320 --> 00:45:17.989
+Luigi Iannone: So, working on what you think would be the solution of the interdomain, even if it's not in the scope of NASA Charter. Now you can do it at some point. We we we, we can recharter and work on it.
+
+318
+00:45:18.380 --> 00:45:20.020
+Luigi Iannone: So that did.
+
+319
+00:45:20.200 --> 00:45:20.990
+Luigi Iannone: There's different.
+
+320
+00:45:20.990 --> 00:45:29.700
+Yutaka OIWA: That thing for that thing. Can I make some personal discussion somewhere before the Bangkok meeting.
+
+321
+00:45:30.320 --> 00:45:39.089
+Luigi Iannone: Yeah, I mean the fact that that the interdomain use case is not directly in in the charter now doesn't mean that nobody is allowed to work on it
+
+322
+00:45:39.460 --> 00:45:46.710
+Luigi Iannone: to be clear. But we we will not be a a main effort of the working group.
+
+323
+00:45:47.280 --> 00:45:50.566
+Luigi Iannone: That's the the the point.
+
+324
+00:45:51.220 --> 00:45:53.605
+Yutaka OIWA: Maybe I can.
+
+325
+00:45:54.920 --> 00:46:02.109
+Yutaka OIWA: I can have some. We can have some companies. I I want to talk separately with that thing.
+
+326
+00:46:02.650 --> 00:46:12.280
+Luigi Iannone: Okay. Anyway, you know, I I important point, I think, is that you you contribute to the problem statement to so to make sure that that your use case is included somehow.
+
+327
+00:46:12.520 --> 00:46:14.470
+Luigi Iannone: Okay, so.
+
+328
+00:46:14.470 --> 00:46:17.240
+Yutaka OIWA: Cases. Yeah, their case can be other.
+
+329
+00:46:17.720 --> 00:46:21.129
+Yutaka OIWA: How to say address can be addressed in
+
+330
+00:46:21.160 --> 00:46:27.319
+Yutaka OIWA: future definitely. So that's that's my possible one of that my
+
+331
+00:46:28.460 --> 00:46:32.410
+Yutaka OIWA: mostly possible contribution to the working group. I think.
+
+332
+00:46:43.720 --> 00:46:47.249
+Luigi Iannone: anybody wants to share any other opinion on the chatter. So far.
+
+333
+00:46:47.910 --> 00:46:54.921
+Diego Lopez: Well, I I have a few notes, but are are minor, and I can. I think that there's some articles, and so
+
+334
+00:46:55.340 --> 00:46:58.300
+Diego Lopez: things. I saw the message from
+
+335
+00:46:58.840 --> 00:47:08.149
+Diego Lopez: from Peter that that there was some that there was some problems with the pull requests. So I I refrain from from doing so.
+
+336
+00:47:08.845 --> 00:47:09.160
+Luigi Iannone: But
+
+337
+00:47:09.160 --> 00:47:19.139
+Luigi Iannone: request the the here is the thing in Github. Normally the normal procedure is, you fork the repository, and then you you propose.
+
+338
+00:47:19.140 --> 00:47:19.500
+Diego Lopez: Yeah.
+
+339
+00:47:19.500 --> 00:47:37.210
+Luigi Iannone: Request unless you are you. You have right access to the to the repository which for me is not an issue at all to give. It's just the procedure is, you drop an email. And I add you, that's it. So it's not a problem.
+
+340
+00:47:37.500 --> 00:47:53.826
+Diego Lopez: Okay? No, no, I have no problem with forking the repository and sending the pull request. This is simply simply that I decided to refrain from making the pull request. Just for that, my my only main concern. There is a 2 2 main concerns that because the other are totally minor.
+
+341
+00:47:54.160 --> 00:47:59.500
+Diego Lopez: when is on the when talking about this simple sales routing path
+
+342
+00:48:00.469 --> 00:48:08.620
+Diego Lopez: is is online. Oh, I don't. This is the working group we initially focuses on the focus on the the idea of the
+
+343
+00:48:09.170 --> 00:48:10.690
+Diego Lopez: of the single domain.
+
+344
+00:48:13.780 --> 00:48:20.139
+Diego Lopez: If there we we mentioned that this they will initially focus on a simple sales routing path.
+
+345
+00:48:20.480 --> 00:48:26.420
+Diego Lopez: Why are we focusing on a simple source routing simply, is it.
+
+346
+00:48:27.251 --> 00:48:30.159
+Luigi Iannone: Let me go back to the chatter.
+
+347
+00:48:31.351 --> 00:48:34.860
+Yutaka OIWA: That was also technical concern for me.
+
+348
+00:48:37.065 --> 00:48:43.529
+Peter Chunchi Liu: We can't move it. It's just, you know, if we start with Srv. 6 or something. It's
+
+349
+00:48:43.650 --> 00:48:45.850
+Peter Chunchi Liu: easy for you to understand.
+
+350
+00:48:46.240 --> 00:49:01.480
+Diego Lopez: Again. I'm not saying that is, for sure. That's it's because if I limit into sales routing, then we are limiting the the use cases, I would say, instead of focus on on simple, on simple paths
+
+351
+00:49:01.790 --> 00:49:12.659
+Diego Lopez: and and simple that, or or even focus on paths in limited domains. And that's all. I mean, I would not qualify that this is going to be source routing, or or whatever else. Simply that.
+
+352
+00:49:13.670 --> 00:49:15.129
+Peter Chunchi Liu: I agree. I agree. Yes.
+
+353
+00:49:15.130 --> 00:49:24.529
+Yutaka OIWA: For that purpose. If possible. We ideally prefer the separate smaller, change it for
+
+354
+00:49:25.150 --> 00:49:32.539
+Yutaka OIWA: for request, so that we can do this kind of technical discussion one by one.
+
+355
+00:49:33.780 --> 00:49:40.849
+Luigi Iannone: What I propose is the following, I will merge the the pull request of Peter into the charter.
+
+356
+00:49:41.080 --> 00:49:50.903
+Luigi Iannone: and then we, because my feeling is that everybody thinks it's a a good start, a good improvement of what we always.
+
+357
+00:49:51.700 --> 00:50:10.849
+Luigi Iannone: and then we take it from there, and we will discuss on the mailing list for the changes, or for the pull, request, etc, etc, including the need that they like like simple source routing this will this, this point will be, anyway, in the minutes that I will prepare, so we will change it later.
+
+358
+00:50:11.690 --> 00:50:14.209
+Diego Lopez: That that sounds perfect. Yeah.
+
+359
+00:50:16.450 --> 00:50:16.819
+Yutaka OIWA: Fine.
+
+360
+00:50:16.820 --> 00:50:19.529
+Peter Chunchi Liu: I took. I took notes. I took notes. Yeah.
+
+361
+00:50:19.982 --> 00:50:26.774
+Yutaka OIWA: I I prefer keeping this in Pr path, but it's it's finally religious decision. But
+
+362
+00:50:28.020 --> 00:50:28.990
+Yutaka OIWA: it's not fine.
+
+363
+00:50:29.435 --> 00:50:32.550
+Luigi Iannone: Guys just to to have a 1-one
+
+364
+00:50:32.680 --> 00:50:37.840
+Luigi Iannone: one step further. So we have a an improvement. And then we we will continue working.
+
+365
+00:50:37.840 --> 00:50:42.349
+Yutaka OIWA: Okay, okay, I just make a note for that.
+
+366
+00:50:42.850 --> 00:50:44.070
+Luigi Iannone: Okay. And I will give.
+
+367
+00:50:44.070 --> 00:50:44.690
+Yutaka OIWA: Yeah, yeah.
+
+368
+00:50:44.690 --> 00:50:49.362
+Luigi Iannone: Right permission. So you can do pull request. Okay.
+
+369
+00:50:50.550 --> 00:50:58.060
+Yutaka OIWA: Yeah, you said, we have some agreement. So I was a bit early
+
+370
+00:50:58.190 --> 00:51:03.680
+Yutaka OIWA: worried about that. Yeah. But making progress is my agreement. So.
+
+371
+00:51:04.320 --> 00:51:04.960
+Luigi Iannone: Good, good.
+
+372
+00:51:04.960 --> 00:51:08.189
+Yutaka OIWA: It's okay. I have still a strong comment on that. But
+
+373
+00:51:08.840 --> 00:51:11.100
+Yutaka OIWA: given that, nothing is good for me.
+
+374
+00:51:12.030 --> 00:51:12.760
+Luigi Iannone: Okay.
+
+375
+00:51:12.960 --> 00:51:13.350
+Yutaka OIWA: Yep.
+
+376
+00:51:22.580 --> 00:51:24.689
+Luigi Iannone: Okay, I think we have a
+
+377
+00:51:25.010 --> 00:51:27.849
+Luigi Iannone: a good conclusion for this meeting. So
+
+378
+00:51:27.960 --> 00:51:35.869
+Luigi Iannone: unless anybody wants to rise any other question on the issue, or has any other comment would call it a day, so that
+
+379
+00:51:36.030 --> 00:51:41.957
+Luigi Iannone: people in some time zones can go to sleep, and others can start the day. The the working day.
+
+380
+00:51:45.860 --> 00:51:52.540
+Nancy: Hey, Luigi? I apologize for joining late. For some reason I had it on my calendar that it was tomorrow instead of today.
+
+381
+00:51:53.210 --> 00:51:53.910
+Luigi Iannone: Oh!
+
+382
+00:51:55.530 --> 00:51:56.200
+Nancy: So I realized.
+
+383
+00:51:58.040 --> 00:52:13.600
+Luigi Iannone: Hi, Nancy! I I can summarize. I can summarize the discussion that we had so far, so as you should have seen. There was a a big let's say a big bullet request from Peter, with several changes.
+
+384
+00:52:14.087 --> 00:52:22.400
+Luigi Iannone: Discussion is already ongoing during the night for me on the mailing list, which is good. And despite
+
+385
+00:52:22.620 --> 00:52:45.079
+Luigi Iannone: slightly different point of view. Everybody is okay with the merging. The pull request of Peter. Because seems an improvement doesn't mean we stop with here. We we need to continue working and refine the chart that obviously, but looks like a a good improvement, so
+
+386
+00:52:45.680 --> 00:52:50.769
+Luigi Iannone: merge it, and the second point was on the inter domain.
+
+387
+00:52:51.822 --> 00:53:02.797
+Luigi Iannone: Use case, let's say, for you, taka, this is an important part, so he will contribute text in the use case document in order to
+
+388
+00:53:04.337 --> 00:53:23.080
+Luigi Iannone: let's say, formalize the inter domain problem doesn't mean that we need to work right away on this so that we we don't have a a huge scope, and the this, and with the risk of the isg, so to push back and say, Well, you you. It's too open, for it's too big.
+
+389
+00:53:23.130 --> 00:53:27.770
+Luigi Iannone: so that we start for for with simple solutions, and then
+
+390
+00:53:27.820 --> 00:53:31.680
+Luigi Iannone: at some point we can recharter and include more work.
+
+391
+00:53:32.960 --> 00:53:38.369
+Luigi Iannone: I would say. This is the summary, quick summary of the discussions today.
+
+392
+00:53:38.850 --> 00:53:40.290
+Nancy: Yeah.
+
+393
+00:53:40.960 --> 00:53:49.069
+Nancy: I'm not a routing expert. So I you know, I leave that to to to the writing people to comment, yeah.
+
+394
+00:53:49.970 --> 00:53:52.810
+Luigi Iannone: If I may. I think that the main
+
+395
+00:53:53.972 --> 00:54:08.770
+Luigi Iannone: difficulty is to to find the right balance between. We don't want to do routing, but we have to do to give enough elements to choose a path. So we don't want. So
+
+396
+00:54:10.440 --> 00:54:16.400
+Luigi Iannone: that line is a little will be a little bit tricky to find, I think.
+
+397
+00:54:16.580 --> 00:54:17.050
+Nancy: Yeah.
+
+398
+00:54:17.050 --> 00:54:26.250
+Yutaka OIWA: Maybe maybe saying that in single time may make this kind of harder discussion. So we we must clearly state programs first.st
+
+399
+00:54:26.300 --> 00:54:29.250
+Yutaka OIWA: Oh, I will do that. I will try to do that.
+
+400
+00:54:30.130 --> 00:54:30.730
+Luigi Iannone: Good.
+
+401
+00:54:30.730 --> 00:54:33.987
+Nancy: I mean we. So it's Cisco.
+
+402
+00:54:36.550 --> 00:54:45.009
+Nancy: We were one of the editors. But Eric is no longer on the project, so we put the draft on the rat, saying.
+
+403
+00:54:45.080 --> 00:54:49.249
+Nancy: This is how you can convey some of the claims.
+
+404
+00:54:49.854 --> 00:54:53.989
+Nancy: And again, this is where I'm saying I'm not a routing person.
+
+405
+00:54:54.250 --> 00:54:57.710
+Nancy: but trying to enforce, or or
+
+406
+00:54:57.810 --> 00:55:12.559
+Nancy: if, from the problem statement, you want to provide assurances for the endpoint that it's going through a trusted path. I think that was, that would be very difficult to enforce and to provide that visibility just because the path can be very
+
+407
+00:55:13.500 --> 00:55:17.979
+Nancy: not can. It is very dynamic? Is my understanding right?
+
+408
+00:55:24.070 --> 00:55:27.832
+Luigi Iannone: It depends on on a lot of things.
+
+409
+00:55:28.460 --> 00:55:33.689
+Luigi Iannone: and whether or not is, is is a provisioned password, or just a.
+
+410
+00:55:34.640 --> 00:55:34.960
+Nancy: Don't!
+
+411
+00:55:34.960 --> 00:55:41.359
+Luigi Iannone: Basket, so it's difficult to to answer the the. This statement for me.
+
+412
+00:55:42.940 --> 00:55:50.110
+Nancy: Well, I meant it to be vague, Luigi, that's the point of controversy of.
+
+413
+00:55:50.110 --> 00:55:50.770
+Luigi Iannone: Yeah.
+
+414
+00:55:50.950 --> 00:56:06.129
+Nancy: It was a rationale for why? We said, Okay, we'll just leave it up to the vendors to specify what that routing solution looks like, but these are the claims that can be put forward. And that was the definition that was included
+
+415
+00:56:06.280 --> 00:56:09.000
+Nancy: in the the draft. That's in rats.
+
+416
+00:56:09.070 --> 00:56:14.570
+Nancy: right? And I think Tank is continuing to evolve that draft is my understanding. Yeah.
+
+417
+00:56:16.750 --> 00:56:25.951
+Luigi Iannone: Okay, we we can have a look to do draft on and have a similar approaches. As the claim the Nasser can
+
+418
+00:56:26.380 --> 00:56:34.790
+Luigi Iannone: can satisfy and can be used by the let's say, the routing people, in order to create the path that is suitable for the
+
+419
+00:56:35.510 --> 00:56:37.210
+Luigi Iannone: for the service, etcetera.
+
+420
+00:56:42.694 --> 00:56:47.089
+Nancy: It all comes down to making sure we have a charter with a scope
+
+421
+00:56:47.420 --> 00:56:50.869
+Nancy: appropriately fine, to appease the Iesg
+
+422
+00:56:51.486 --> 00:56:57.180
+Nancy: well, and and for the people who will show up at the Boff right to get that consensus.
+
+423
+00:56:57.450 --> 00:56:58.360
+Nancy: So.
+
+424
+00:56:58.360 --> 00:56:59.700
+Luigi Iannone: Yeah. Yeah.
+
+425
+00:57:04.180 --> 00:57:10.209
+Luigi Iannone: Yeah. We started to to refine the the charter. I'm positive that we we will have a
+
+426
+00:57:10.280 --> 00:57:15.070
+Luigi Iannone: something good to present in Bangkok to the Isg. So
+
+427
+00:57:15.673 --> 00:57:23.259
+Luigi Iannone: we will merge the the Peters pull, request, and refine the the
+
+428
+00:57:23.610 --> 00:57:25.799
+Luigi Iannone: the chapter for that I mean.
+
+429
+00:57:26.540 --> 00:57:33.439
+Luigi Iannone: the good thing is to discuss, to have everything packet on the Github, and then we can discuss on the mailing list the changes.
+
+430
+00:57:33.830 --> 00:57:36.210
+Nancy: Right, having the Prs help.
+
+431
+00:57:37.860 --> 00:57:46.139
+Diego Lopez: And, Nancy, let let me insist in that. Well, at least my conclusion from the from these changes is that we're going to focus.
+
+432
+00:57:46.590 --> 00:57:54.849
+Diego Lopez: Oh, how the information flows from the path! I mean, how? How the the security properties or the properties of the path
+
+433
+00:57:55.010 --> 00:57:56.910
+Diego Lopez: are made available.
+
+434
+00:57:56.980 --> 00:58:06.739
+Diego Lopez: and how to establish trust on this, on this information, and not on routing decision. When I'm building the path, or whatever that is
+
+435
+00:58:07.060 --> 00:58:11.340
+Diego Lopez: associated with this dynamic dynamicity that you were mentioned.
+
+436
+00:58:11.430 --> 00:58:27.260
+Diego Lopez: mentioning that that's the idea precisely that the routing decisions and the routing protocols, etc, are not part of the charter. They can be part of the of the use cases so to be considered how this information could be used.
+
+437
+00:58:27.270 --> 00:58:31.840
+Diego Lopez: But the focus is on how the information is built, and which is that information.
+
+438
+00:58:32.860 --> 00:58:33.670
+Nancy: Okay.
+
+439
+00:58:39.460 --> 00:58:46.530
+Nancy: that sounds like like a workable path, workable as in reducing contention.
+
+440
+00:58:47.460 --> 00:58:48.566
+Diego Lopez: Yeah, exactly.
+
+441
+00:58:50.460 --> 00:58:51.140
+Luigi Iannone: Yep.
+
+442
+00:58:55.300 --> 00:59:03.029
+Nancy: Okay, appreciate it. And again I apologize. I have to get the dates better on my calendar.
+
+443
+00:59:03.987 --> 00:59:09.830
+Luigi Iannone: It's because of the time zone you for you is Tuesday evening. The night.
+
+444
+00:59:10.120 --> 00:59:12.910
+Nancy: Right, and the message said, Wednesday.
+
+445
+00:59:13.190 --> 00:59:27.959
+Luigi Iannone: Yeah, yeah, yeah, yeah, my my bad, I didn't consider that for you, for for the West coast is still. Tuesday will be clear, more clear in the next messages.
+
+446
+00:59:29.360 --> 00:59:30.849
+Luigi Iannone: Yeah, yeah, yeah, yeah, yeah.
+
+447
+00:59:31.200 --> 00:59:42.410
+Nancy: Yeah, well, that's why. So I just need to make sure there should be a way. And then a question to Luigi moving forward. I don't know if Zoom has
+
+448
+00:59:42.790 --> 00:59:47.680
+Nancy: any kind of assistance, if we want to use that for creating summaries.
+
+449
+00:59:49.440 --> 00:59:54.560
+Nancy: So both recording and creating summaries of the meetings can be automated.
+
+450
+00:59:54.840 --> 00:59:58.110
+Nancy: Webex has that capability if you want that.
+
+451
+00:59:58.380 --> 01:00:03.719
+Nancy: So I'm more the next ones on Webex. If you prefer.
+
+452
+01:00:04.618 --> 01:00:13.559
+Luigi Iannone: If you have a Webex account, we can use the Webex if you wish. No, no problem for me. I don't think zoom has this feature. I have to check.
+
+453
+01:00:14.507 --> 01:00:15.909
+Luigi Iannone: I will check.
+
+454
+01:00:16.670 --> 01:00:21.390
+Nancy: Zoom has the, and that's the 1st thing when you hit the record, you know.
+
+455
+01:00:21.400 --> 01:00:25.590
+Nancy: AI assistant is turned on, and you can see the summary highlight points.
+
+456
+01:00:25.590 --> 01:00:28.390
+Yutaka OIWA: I, at least I see some
+
+457
+01:00:28.807 --> 01:00:33.072
+Yutaka OIWA: icon for a companion, but I don't know how it works.
+
+458
+01:00:34.130 --> 01:00:38.730
+Nancy: Well, AI companion could be many different things.
+
+459
+01:00:39.280 --> 01:00:45.335
+Yutaka OIWA: Yeah, yeah, yeah. I don't know what is exactly providing by zoom.
+
+460
+01:00:46.570 --> 01:00:49.520
+Nancy: Well, anyway, we can discuss that later. Luigi.
+
+461
+01:00:50.057 --> 01:01:02.789
+Luigi Iannone: The next meeting will be 8th of January. We have time to to decide whether we are or not. We want to go for webex, or continue using zoom or whatever.
+
+462
+01:01:03.030 --> 01:01:03.830
+Luigi Iannone: Okay.
+
+463
+01:01:06.350 --> 01:01:06.970
+Peter Chunchi Liu: Right.
+
+464
+01:01:06.970 --> 01:01:07.490
+Yutaka OIWA: Okay. Cool.
+
+465
+01:01:07.490 --> 01:01:10.670
+Peter Chunchi Liu: And for today I took notes. So don't worry.
+
+466
+01:01:11.460 --> 01:01:11.880
+Nancy: Oh, thank!
+
+467
+01:01:11.880 --> 01:01:13.990
+Luigi Iannone: Thanks, Peter. Thanks, Peter.
+
+468
+01:01:18.830 --> 01:01:26.300
+Luigi Iannone: Okay, in that case, we, we consumed. The hour has been a nice discussion.
+
+469
+01:01:26.820 --> 01:01:35.210
+Luigi Iannone: and I will merge the the Peter's pull request, and then we continue on the mailing list to refine the charter.
+
+470
+01:01:35.560 --> 01:01:37.800
+Luigi Iannone: and we will prepare 10 min. Okay.
+
+471
+01:01:38.510 --> 01:01:39.000
+Diego Lopez: Very good.
+
+472
+01:01:40.550 --> 01:01:44.430
+Nancy: Appreciate everyone for all the efforts, and have a great holiday.
+
+473
+01:01:45.540 --> 01:01:46.840
+Luigi Iannone: Thank you.
+
+474
+01:01:47.030 --> 01:01:47.760
+Diego Lopez: Same timing.
+
+475
+01:01:47.760 --> 01:01:49.080
+Luigi Iannone: To everybody.
+
+476
+01:01:51.070 --> 01:01:51.970
+Nancy: Alright, bye.
+
