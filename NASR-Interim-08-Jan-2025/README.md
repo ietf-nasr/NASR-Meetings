@@ -6,7 +6,22 @@
 
 ### Agenda
 
+1. Nancy & Luigi: Meeting opening
+    - Any Comment on last meeting minutes?
+2. Overview existing Pull Requests on Charter: All
+    - https://github.com/ietf-nasr/NASR-Charter
+3. New Name for the group: All
+
+**If time allows:**
+
+4. NASR Service Model: Meiling Chen
+5. RATS Conceptual Message Wrappers (CMW) in NASR: Henk Birkholz
+
 ### Materials
+
+- [Chairs' Slides](./Material/NASR-Interim-Meeting-08-01-2025-v2.pdf)
+- [GitHub Charter Repository](https://github.com/ietf-nasr/NASR-Charter)
+- [GitHub BOF Request Repository](https://github.com/ietf-nasr/bof-request-IETF-122)
 
 ### Minutes
 
