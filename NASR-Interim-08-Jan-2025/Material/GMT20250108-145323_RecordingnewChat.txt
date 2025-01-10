@@ -1,0 +1,7 @@
+00:18:09	Michael Richardson:	I thought Nancy's word Internet was a "typo" for Limited Domain :-)
+00:19:20	Nancy:	Replying to "I thought Nancy's wo..."
+
+Yes, I meant “customer network deployment” (network deployment could be SP)
+00:35:58	Antoine Fressancourt:	I think the confusion about the work on routing decision came from the WG name, if we mak eit evolve it might make clear we are not working on this.
+00:46:54	Michael Richardson:	"Please give me a path that visits the maximum number of countries"
+01:06:16	Michael Richardson:	Sharing the pain of the timezones is a good thing.

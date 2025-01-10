@@ -12,7 +12,7 @@
     - https://github.com/ietf-nasr/NASR-Charter
 3. New Name for the group: All
 
-**If time allows:**
+**[Postponed due to lack of time]**
 
 4. NASR Service Model: Meiling Chen
 5. RATS Conceptual Message Wrappers (CMW) in NASR: Henk Birkholz
@@ -27,5 +27,6 @@
 
 ### Recordings
 
-
+- [Chat Recording](./Material/GMT20250108-145323_RecordingnewChat.txt)
+- [Audio Transcript](./Material/GMT20250108-145323_Recording.transcript.vtt) 
 
