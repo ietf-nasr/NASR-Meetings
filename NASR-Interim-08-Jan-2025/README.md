@@ -25,6 +25,8 @@
 
 ### Minutes
 
+- [Minutes NASR Meeting 08 January 2025](./Material/NASR-Minutes-080125.md)
+
 ### Recordings
 
 - [Chat Recording](./Material/GMT20250108-145323_RecordingnewChat.txt)

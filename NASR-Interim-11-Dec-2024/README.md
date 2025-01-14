@@ -20,7 +20,7 @@
 
 ### Minutes
 
-- [Minutes NASR Meeting 11 December 2024](./Material/NASR-Minutes-11122024.md): 
+- [Minutes NASR Meeting 11 December 2024](./Material/NASR-Minutes-11122024.md)
 
 ### Recordings
 
