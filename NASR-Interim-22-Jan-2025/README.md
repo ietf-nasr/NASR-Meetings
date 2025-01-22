@@ -30,5 +30,5 @@
 
 ### Recordings
 
-
-
+- [Chat Recording](./Material/GMT20250122-034858_RecordingnewChat.txt)
+- [Audio Transcript](./Material/GMT20250122-034858_Recording.transcript.vtt)
