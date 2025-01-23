@@ -1,6 +1,6 @@
 ## NASR Minutes Interim 22 January 2024
 
-Note takers: Luigi Iannone
+Note takers: Peter Chunchi Liu / Luigi Iannone
 
 ### Opening - Luigi Iannone & Nancy Cam-Winget
 
