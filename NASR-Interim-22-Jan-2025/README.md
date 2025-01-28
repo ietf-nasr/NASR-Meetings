@@ -3,7 +3,7 @@
 
 - Calendar Invitation & Conference Link: **[.ics file](./Material/NASR-22012025.ics)**
     - **Note: For some time zones it will be Tuesday evening (21 January 2025)** 
-        ![image Meeting Time Zone](./Material/NASR-2012025-TZ.png)
+        ![image Meeting Time Zone](./Material/NASR-22012025-TZ.png)
 
 ### Agenda
 
