@@ -1,0 +1,26 @@
+15:59:53	 From Luigi Iannone : Hi All, as usual let’s wait a couple of minutes for lates arrivals and then we will starts
+16:00:56	 From Michael Richardson : i got multiple conflicts, this is my #1 though.
+16:03:48	 From Luigi Iannone : ○https://drive.google.com/drive/u/1/folders/1IZrVA9WWIdra-pZ9mY3uJW0mADzTUxf4
+○
+16:11:58	 From Michael Richardson : prelim agenda is this Friday.
+16:30:14	 From Antoine Fressancourt : We can add a QT code to the charter page so people can catch up ?
+16:30:18	 From Antoine Fressancourt : QR
+16:52:49	 From zhang : Is PoT/attestation enough to prove that the traffic only goes through trusted nodes?
+16:57:17	 From Antoine Fressancourt : An expensive part of France, by the way
+16:58:06	 From Michael Richardson : was there last week... skied.
+16:59:49	 From Antoine Fressancourt : Replying to "Is PoT/attestation..."
+
+If we have attestation over the full path, encompassing the routing policy of each routing node, I think we ar ereally close to the solution.
+17:00:58	 From Antoine Fressancourt : Reacted to "was there last wee..." with 👍
+17:03:18	 From zhang : Répondre à "Is PoT/attestation..."
+
+take the path from geneva to zurich as the example, both cities are in switzland (nodes are trusted), does not mean that the path are all in switzland (paths are trusted)
+17:05:15	 From Antoine Fressancourt : Replying to "Is PoT/attestation..."
+
+At the router level, if such a path exist, we can attest that the router sent the packet to the other router through the egress link going through Switzerland (or at least it is what I would ask)
+17:07:52	 From zhang : Répondre à "Is PoT/attestation..."
+
+a car can goes through the egress link while detour through an intermediate exit A ,and then return to the high path through another exit B. So some proof is needed to ensure that packet/car does not go through such hidden/private exists.
+17:11:01	 From Antoine Fressancourt : Replying to "Is PoT/attestation..."
+
+If we attest the full path, meaning that there is no router / exit between the routers, this can not happen

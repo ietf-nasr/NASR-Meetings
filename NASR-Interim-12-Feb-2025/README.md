@@ -16,9 +16,15 @@
 
 ### Materials
 
+- [Proposed BoF Chairs' Slides](./Material/NASR-IETF-122-Chairs.pptx)
+- [Proposed BoF Problem Statement Slides](./Material/NASR-IETF-122-Problem-Statement.pptx)
+
+
 ### Minutes
+
+- [Minutes NASR Meeting 12 February 2025](./Material/NASR-Minutes-12022025.md)
 
 ### Recordings
 
-
-
+- [Chat Recording](./Material/GMT20250212-034858_RecordingwChat.txt)
+- [Audio Transcript](./Material/GMT20250212-034858_Recording.transcript.txt)

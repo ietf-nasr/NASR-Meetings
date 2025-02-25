@@ -1,0 +1,290 @@
+04:30 speaker 1: Okay, hello everyone, I think we can start. Does everybody hear me? Yes, we can hear you. Yes, yes, I heard that. No. Should we wait? Luigi?
+04:47 speaker 2: I can't hear you. That's right. Yeah, no, okay. Um,
+04:57 speaker 1: the agenda of today is relatively simple. It's to check a little bit the Google Drive with the progress on the slides. We need to prepare for the IETF 122. The both has been accepted, which means we will be scheduled. We don't know yet when, but yeah, we will have two hours during the IETF week.
+So, unless there are comments on... Past thing or any general comments? I will switch to what we have. Can you repost the link in the chat so we can click on it? Sure, absolutely, that's not what I wanted. I want to copy, you could have it and I will go over. So I actually. So, last time by email, I said, Uh, would be good to have a free set of slides, an introduction, the technical presentation and the discussion at the end.
+For laziness, I changed my mind in the sense that I worked on a set of slides that I called chairs. That has the first part and the last part of the session, where the chairs handle the discussion and the introduction. And then there is the problem statement slides that that will have the technical, uh, presentation now for the chest slides, um, so that are, as usual, the diffusing in intro slides. Like every, every APF, This will be updated once we have the schedule and all the links and stuff that go here.
+First of all, this is the agenda that is also on the both requests that has been approved.
+On the both requests, there is no timing, explicitly. I added in the slides.
+Would be good if you guys have a look and share your thoughts. If you think there is too much somewhere and too less somewhere else.
+Would be good if we discuss a little bit who will present the problem statement, use case and problem statement.
+I'm suggesting someone in the slides, but this is just our suggestion.
+We decide together.
+08:17 speaker 3: Any thoughts on on the agenda? Hi Luigi, it's me. Sorry, I I get that I am wrong. I thought it was like, an hour later, sorry. Uh, about the problem statement, I think I contributed some, uh, problem formulation, and uh, the architecture, and uh, for the use cases, I think, uh, the The Lake, the Swiss bank, Lake Lehmann use case was great. I think that's the.
+It could be one of the iconic use cases, but I think we still need some, you know, preferably a European telecom operator, to maybe discuss the policy driver for the use case. I think there are two drivers like business-wide,
+09:13 speaker 4: just because I'm in an airport and I'm not sure about the connectivity. I saw your message. I'm afraid that I have been more busy than I would have even feared in my worst nightmares. And that's why I didn't reply to you. But if you think I can be of any help with the policy stuff, I'm happy to do so. Just count on me if you think I can be of help.
+09:42 speaker 2: Wonderful. I think that the use case and problem statement right there should, there should be an ID referenced.
+And if we don't have a good one, then we need to have a good one in the next two weeks, three weeks. I think that. Peter has a document that's partway there.
+I don't mind speaking about that example, but I concur with Peter that I think that we need someone, Diego, for instance, to actually articulate it.
+I would love to have, and I asked, What's his name? Nicholas from...
+10:24 speaker 1: Scion?
+10:25 speaker 2: Scion. I asked him if he could point me at the specific Swiss statement that defines this. We all talk about the Swiss banking mandate. But it would be great if we could actually cite it so that people could understand what's happening and what's there.
+But I concur that that would be great. I don't know if we need to spend all 35 minutes on it, But if that includes questions from the audience, given that this is a working group forming BOF, if people don't understand the problem statement, then they won't understand the charter discussion. So we kind of have, we have to time box that conversation, but we have to, basically, we have to repeat what we did before. And then we have to open the mic to mic line. For clarifying questions against the problem statement, given that half the audience will not read any of the IDs at all, right? Um, so that's what I would say. So, yeah, Diego, please we you. If you have three slides, then that would work well or something.
+11:46 speaker 4: No, not sure.
+This is something I have been promising to myself since the Christmas break, that I had to catch up with NASA. This has been, for the moment, impossible, But for sure, my idea is to take care of this and I hope it will be soon.
+I will share with you some slides and if I can have some edits on what the Tuenche is doing with the problem statement, I will have a look at it.
+12:18 speaker 2: Is there somebody else in your group that could help?
+12:22 speaker 4: You're working with me? Yes. There is a colleague of mine that is working with this. The point is, when do you want this to be ready? Or to have a first version to discuss on it?
+12:34 speaker 1: We have another interim meeting in two weeks. It would be good if... Oh,
+12:39 speaker 4: yeah.
+12:41 speaker 1: No, I... We don't need the final version of the slides, obviously, but something to discuss.
+12:46 speaker 2: No, no, no, by then, by in two weeks and do two weeks time for sure. Yeah, yeah, that's sure, yeah. So, like, we're basically a month away from getting on an airplane, right? So the next one will be the the, you know, kind of needs to be nailed down. We're not SK we were. The schedule's not out yet, right? No, okay, yeah,
+13:07 speaker 4: yeah, yeah, we will. I'll share the materials with you. In short, well, I I hope when well in advance to these two
+13:35 speaker 1: weeks deadline. Okay. I'll go a little bit forward.
+There is one slide recapping a little bit why. Why we have a working group forming both in 1.22? Okay, there is a little bit the timeline, the different side meetings and the interim meetings.
+The goal of the both, basically, did we scope the problem in a clear way, et cetera, et cetera, in order to form a working group? Obviously, these questions are... You'll be asked at the end, after the technical discussion, etc. etc. So there is one thing. Um, in last summer, before ATF 120, we had also bi-weekly meetings. Um, let's say in a less official way. We were a group of people interested in the topic. Um, I'm not sure that is. It. Was it to to add this in the timeline or or not? Any opinion on this? I don't know that it adds anything. Luigi, this is Nancy. Yeah, Nancy.
+Yeah, that is why I'm not sure it is really useful to add. At the but asking for different opinions. Okay, I will not spend that much time on this slide. Then we have the technical presentation, we will go later on on what we have in that set of slides. This content is just something that was in the feedback from from Alvaro or the AIB, but is not something I will. We will show. It was just for me while working on the slides. This was basically his understanding of the problem. That's the one that's all, and let's say now we are after the the use case of the problem statement. Okay, with the chapter discussion, we had a small feedback or a summary feedback we received in the the changes.
+So I put up at the beginning two slides on what we received from the IAB and a couple of slides from what we received from mailing list or in the both, etc. etc.
+From IAB, one thing is what we already discussed, the secure routing versus forwarding, etc. etc.
+I think we agree we changed the meaning of the of the acronym and the scope.
+There was a remark about the fact that the terminology in the different presentations use cases that were not was not aligned. So we sort of used the same words for different things.
+So, there is in the chapter, there is in one of the documents is marked that we will work on our terminology.
+Yeah, this we can give details in the proposed charter part.
+17:06 speaker 4: Do you do that? Yes, I can comment on this.
+17:11 speaker 1: Yeah,
+17:13 speaker 4: please. I guess you are aware of the ongoing discussions now in Rats about what is...
+An evidence, whether it's an endorsement and all this, probably my only idea is that we have to be clear. Or we should make clear that our intention is to align with whatever comes out of these discussions, and that we want to avoid adding any noise to the discussion, that we will follow what Ratz agrees. So that's probably making a note of. This could be interesting because the discussion so far is quite heated to my impressions right now.
+18:01 speaker 1: Yes, it's a good point, an excellent point. We will add a bullet stating that since we are using rats as a building block, we will align it with the terminology. And that only the things that are necessary in addition for Nasser, not reinventing a whole new terminology. That's a good point.
+18:27 speaker 2: So the major bit would be that we use the word network attestation rather than remote attestation.
+So we might want to just slide that word in there.
+You can't do, yeah.
+Google Slides won't let you do a suggestion.
+But I think I can type right here.
+Like, that's what I would suggest.
+Go through.
+Shouldn't have to refresh even.
+19:05 speaker 1: I can try to refresh.
+19:06 speaker 2: Why doesn't it? Should have just done its thing, right?
+19:09 speaker 1: Yeah.
+19:11 speaker 2: Yeah, there you go. Okay, so that's what I would kind of, you know, but. Anyway.
+19:19 speaker 1: Yeah, we can use that. And then orally say, on the terminology side, we will be in line with trust.
+19:28 speaker 2: Yeah. And the reason why, and Hank goes on and on about why we pick remote. Attestation is a word, and is because that bare word attestation is overloaded and means all sorts of things for all sorts of people. And. That's why we kind of insisted on that. But if you're network attestation, it's got to be remote, right? How would it be meaningful if it wasn't that way? But that's my suggestion.
+Keeping the thing or, uh, uh, do something with the R. I don't know, whatever. I I think that as long as the charter says it correctly, then I don't think it matters on the name. Okay, is that is that person willing to to provide feedback up front? I
+20:19 speaker 5: mean, I'm, I'm. I'm also worried about, you know, the semantic and what gets out of it. So if you have a critic that's proactive, then it's always great to run it by him.
+20:32 speaker 2: I will make sure that Hank has seen, that he's not seeing these slides for the first time. I think he's come to some of our slide meetings as well in the past.
+20:43 speaker 5: All I'm saying is it's good to have a critic that's proactive and try to get him positive and get his input.
+20:51 speaker 2: Yeah.
+20:52 speaker 1: I think Hank has been proactive, yeah, but Michael has a good point that we just need to be 100 sure he sees the slides. That's all. Yep, okay, um, sorry,
+21:10 speaker 3: just just one more thing trying to interpret, uh, what Diego said. So, uh, do you mean? uh? Maybe we need like a just one page to um to. To explain to non-security people what attestation architecture looks like, and what are these terminologies in the things world.
+21:32 speaker 4: I don't think that we need that.
+What I believe is important is to say that we are not going to invent anything new, but applying the same principles that Rats is using for remote attestation. For secure forwarding, etc. It's being clear that we are using rats as our foundation. I don't think that we need much more than this.
+If we have Henk there, and we have Michael as well, that have been involved, well, and Nancy, and to some extent myself, we can, if required, we can make a discussion. And yourself, Tujy, so that's... There is a number of people there that, if we are asked... For some clarification on this, we can try to explain it. The point is that right now, in rats that are discussing about this security model. What do you mean when you're signing anything and things like that? And it's about saying, no, no, no, don't worry. We're not going to introduce any additional noise in that. Uh, in that discussion, we are going to follow what rat says that, that's a little bit of that.
+22:47 speaker 6: I have a question. Can I ask a question?
+22:50 speaker 1: Sure.
+22:51 speaker 6: Yes, about the fact that the term network attestation is a little bit confusing. But if you remove this network attestation and you just, how can I say, apply network attestation concept? In the case of secure forwarding, it can be seen like application, use case application scenario for RATs.
+So do you think that if you do that, you will be in a situation that...
+What is the argument and the motivation to create a new working group working on this use case scenario because it's important for networks?
+23:30 speaker 4: No, I would say that this is because what we plan to do is to aggregate several RATs... I don't know how to call it...
+Evidences or attestation results to build... A composed attestation that is applied for a particular pass in the network, and that includes a mix of these attestations. In a way that is unique in that sense. It is, well, it's somehow the same as, I don't know, HTTpS is not a particular case of HTTP. You're talking about two different things.
+24:14 speaker 1: There is also the proof of transit. Part that we like to work on, which is completely separate from rats in a certain way. We base on the art, etc. But that's a totally different thing.
+24:30 speaker 4: That's a good observation, yes.
+24:34 speaker 2: So the other good analogy is the relationship between teep and rats, because they, teep uses a chain to actual Rats interaction models chained together and then some other protocol to do with this trust Tam that, you know, remediates the situation. So it's a good analogy. It it uses bits of rats and then it builds on them to build something larger. And that's really what we're doing as well. Okay, thank you for clarification. Okay, then there was, um, two
+25:20 speaker 1: other observation. One is the the fact that we we are close, um, to panergy in a certain way.
+So the feedback is that I did present in our panel G in Dublin.
+The questions that I received were more or less already identified during last BOF, the ones we had. The clarification about routing versus forwarding.
+There was a comment from Rudiger about whether or not pot can be used standalone. Without necessarily the path attestation. So basically using for any path. I need to check with him. I will share this slide with him to make sure that I got it right.
+John Skadar came again with the proof of non-transit.
+In this, we clarified with two things. It's the scope and the effect analysis. That we included as a part of one of the documents. And yeah, we received these comments, questions. And I had a few exchanges right after the minute meeting that were very positive. So I'm stating that. And um, Zion, uh, I mean, Nicola already participate in various side meetings, both calls, etc. etc. so we are in contact with Zion.
+And as Michael was saying at the beginning of this call, Scion can give us the Swiss bank material that states that the problem also Scion solves in a different way.
+From the community of mailing list exchanger.
+Yeah, second routing again, change the name, the mixed use of secure and trust, etc, etc.
+Again, this comes back to the terminology part.
+Also, one point on the IAB feedback, I plan to share these two slides with Alvaro, because he sent the feedback from the IAB. I want to make sure that we... Capture the main points of his feedback.
+What else? At the very beginning, there was the comment on whether or not our work overlaps with subnet, but we have different...
+The solutions are orthogonal, so I'm concerned they can even be deployed in parallel. And the reference to the IEP statement about the risk of attestation on the open internet.
+This is out of scope because NASA wants to provide technical solutions for specific services.
+Yeah, that's it from the feedback, let's say, feedback summary.
+And proposed changes. Anybody has comments on this or suggestions? Anything? I guess that's not.
+29:09 speaker 4: From my side, only to let you know that I'm going to cross security, so I will disconnect for some time, I hope for a short one.
+29:18 speaker 1: Okay, see you on the other side, Diego.
+29:23 speaker 2: That's it, we'll never see him again.
+29:27 speaker 1: So, then we switch to the proposed charter, okay? I mainly did a copy and paste of what we have on the GitHub.
+I just highlighted in bold the parts that...
+At more relevant, in a certain way, where, in my opinion, uh, the the the fossil we, we should have the focus. Okay, um, yeah, this, this, it depends on the presentation, we can change this. One first remark is whether or not this, this first slide is a little bit too too much to clutter it. And we should split it in two. Okay,
+30:17 speaker 2: split it in two, okay, um, maybe even four. Whoa, okay, okay, four bullets, four bullets, maybe. yeah. The font is small, yeah, okay.
+Make sure you mark the top slide, 1, 2, 3, 4. Where it says unauthorized data duplication, I think you should add capture now, decrypt later, in parenthesis.
+I think that's the concern, right?
+30:53 speaker 1: Let me do that. Joe?
+30:59 speaker 3: I may have a concern. If we split up the charter in many pieces, if someone gets behind, I'm just figuring they might get lost.
+Maybe that's just my thinking.
+If they didn't catch up.
+31:23 speaker 2: Walls of text, never... Get read very quickly, especially if they're, um, especially small font, so it'll be a small font in the distance. So that's one reason I suggest it. But, um, yeah,
+31:42 speaker 1: it's, it's a conflict, always right. I will split it in four, then we we can always maybe come back to three or two. If we think is is too much, okay, um, then we have the goals. Here, the font is already bigger.
+Do you consider that we should split this as well?
+32:11 speaker 2: No, but maybe it needs to be past future. Tense is being chartered.
+I don't know. Parenthesis. I don't know if that's out of the charter. So I don't know.
+Yeah, exactly. Yeah, exactly.
+32:37 speaker 1: Okay. Fine for me. There is one question that I wanted to ask.
+We in the charter, we say simple source routing.
+I did not highlight it because I assume we will reuse anything that is available. I don't know, MPLS, SRV6.
+Okay, should we highlight this or just leave it as it is? Do you have any preference?
+33:16 speaker 2: I wouldn't mention it at all.
+33:21 speaker 1: Yeah.
+33:21 speaker 2: Delete it? I think that it's a rat hole.
+If you want, like there are some people that hate, you know, SR6 or MPLS. They hate all that stuff. And just, I think that's an attractive nuisance to them to talk about it. Yeah.
+It's irrelevant how the ISP gets it across to their network.
+What matters is that they tell us what the route they've chosen is, and it doesn't matter if they do it by straight, longest, prefix, match, or, you know, TARDIS. Yes.
+Well, simple, on a path spanning a few numbers of limits.
+34:06 speaker 1: So, it would be better to completely delete it from the proposed chapter, the source routing, as it is now. I will update later the GitHub.
+34:16 speaker 5: I think instead, what may be useful to keep in mind is that whatever we think we want to validate through attestation, is something that the service provider most likely will need to have as some aspect of the service offerings, right? So in terms of, you know, the attestation doesn't really give you a lot if it's just random luck that the pass has these properties. So if the service provider tells you, sure, you can. And get path within a country or through a particular type of router or whatever. The properties are right, that's that's something that the service provider needs to to offer. And however he does, that is orthogonal to how we then attest for it.
+35:16 speaker 1: Yeah, I agree. So here we delete source routing, I will update as well the GitHub. Okay, so what we need is a path.
+Okay, scope. So on this slide, this part, the out of scope is something that we have clearly in the chart.
+Okay, so something that is already there. This is something that I try to summarize because on the work, so um so, it's about path attestation, um, interface among the limited number of domains, and the proof of transit. I just think these are the main points that are in a certain way again there, in the key deliverables. Um, which are more or less the the the work items that we have in the in the shutter. And, uh, I took it from there, I just, uh, deleted the the wording a document that say this and that, blah, blah, because, um, you know, so, the way deliverable doesn't mean necessarily one single document. Um, as I say in my comments at the bottom is, for instance, the threat analysis. At some point, we may decide, Oh, this would be good to have it separate or something else. I don't know, it's just that, to me, looks better in this way. And so so far, we have the, let's say the main problem statement, the architecture, the service model, the pass attestation claim set and the proof of transit. Yeah, looks good to me, um. Relation with other working groups. This is also something we have in the shelter. Uh, rats, obviously. Um, energy, because password and networking we, we cite a few others, and obviously we will collaborate with other work the group as needed. Don't see much contention there. Um, then we have the open mic session, okay, people come to the mic, share their thoughts. And then there is the last part where we have to try to explore the consensus. I don't know if Deb, our AD, wants to say something or not. I will share this slide with her, asking whether or not she wants that. We put chairs and ad at the end, so that she's free to choose.
+38:31 speaker 2: We're currently living in SEC area, is that right?
+38:35 speaker 1: Yes.
+38:37 speaker 2: I assume that is our sponsoring AD.
+38:42 speaker 1: Yeah, that is correct. Yeah, I think there will be a routing area ad present, but officially it is that we are in the security area.
+38:56 speaker 2: Yeah, that's fine. I just always sort of figured we'd wind up with a cross area working group.
+39:06 speaker 5: I mean, if that comes up, maybe, you know, if that becomes a contentious discussion, push it down the road during the BOF, right? Remember the Anima example, we had an INT area director and were put in ops. So there are all type of things that can be done later in the process.
+39:28 speaker 2: Yeah, it's mostly my mind trying to get the right focus of the right.
+39:34 speaker 5: Groups of people, because there are people that will come to SEC area or routing area working groups just because that's their thing. Um, so that's true. I mean, we would likely want to also have routing people, so
+39:52 speaker 2: so we need a, we need a, uh, we'll probably need to have a routing technical advisor. Um, just to make those ads happy, but whatever.
+40:03 speaker 1: So, Michael, are you suggesting we can ask Deb to assign one?
+40:10 speaker 2: I'm just saying that, yes, we can. But what I'm trying to say is that.
+The possibility of actually being a routing area working group, but having a SEC ad as our ad is a possibility.
+And it goes the other way is possible, too.
+It's just, it seems to me, that we need to have routing and security review early.
+And that's one way to get that.
+40:44 speaker 1: I think that... This is also clear for the the ISG. Because at the end, that is why we ended up having a security chair, Nancy, and the routing chair, me. So, um, that may that may, you know, yeah, I mean, we, we. I don't think it's an issue. If we want to have a specific routing ID following us, we can discuss this with them.
+41:23 speaker 5: It's also an option. Let's leave it up. Do we have somebody in mind who would kind of be be positive towards this? From from routing, um, in the routing, that the three IDs, uh,
+41:40 speaker 1: when we spoke with them, all the three were okay, we with the work. Uh, then, um, uh, the the Nokia, the, uh. The name is Hunter, Hunter. Gunter is the one that ended up, uh, handling, uh, our effort. But, uh, John and Jim were were following as well. For the, for example, John Scott. That is the one that asked it a few questions during the presentation on Panergy. So nobody was pushing against.
+42:23 speaker 2: Let's leave it up to the ISG.
+42:24 speaker 5: Then I would say, make sure that Gunter puts it on his schedule and offer him to sync up with him in before.
+42:32 speaker 1: Yeah, this can be done.
+42:38 speaker 2: Let's leave it to the ISG to decide that, but just plant... Remind them that it's a possibility.
+42:46 speaker 5: Well, I would certainly think that Jim would rather prefer not to get a job. So I think it's between John and Gunther.
+43:01 speaker 1: This is up to them to decide, I would say.
+43:07 speaker 5: Can I just ask a technical question on some of the background? Is there any way to, you know, especially when we want to have routing people in to get a positive notion out of latching onto RETs? I mean, do we know if we could declare RETs a success that leads to attestation being more and more common in router devices? And now we can, you know, apply that, you know to be available hardware support or something like that in in with this routing use case, right? Can we? Can we have that type of positive pitch? Are we at that stage with threats? Thank
+44:00 speaker 1: you, yes, but no, yeah, I'm not sure how you want to formulate this, but to me, yes, That is why we are using rats as a building block. And the good point to your eyes is the fact that there is a security effort that goes into the routing area.
+44:21 speaker 5: Right. So what's kind of the most easily explained reason why routing people will positively expect to see rats in their network, anyhow? Because it protects integrity of the device, and the device will route and forward deterministically. No, no, that's the technology I'm saying in terms of of of marketing and business case, and so on. Because
+44:54 speaker 1: they will be able to make money with additional security related services on their SD1. Okay, so you're saying it's, it's, it's part of the
+45:07 speaker 5: the sales in SD-wan for security benefits.
+45:14 speaker 1: Yeah, he's going beyond those.
+45:18 speaker 5: So that's kind of, you know, think of, you know, one paragraph, you know, up pitch of Reds.
+So that, you know, the engineers from routing that are seeing this will get a notion that this red stuff is realistic. It's coming and they're already going to make money with it. And so. Makes a lot of sense to latch onto it for more services.
+45:51 speaker 7: One thing that we may look at also are the business cases for Anapaya, the company that is reselling the science platforms, because they are having some business cases, especially for the Swiss federal government. And so it shows that someone somewhere is interested in having secure forwarding based on non-internet technology. In the case of Scion. But I think the fact that Scion is selling to someone is a sign that there is a use case, a business case out of this technology.
+46:39 speaker 5: That comes from the other side, right? So the the Scion side comes from that secure routing. And would it be fair to say that Scion is, uh, does not have attestation by itself? Right? So those those are the two, two, two sides from from which we can say it, right? So first of all, we we have attestation coming through Reds and SD-Wan into networks. Um, as as part of those services. And the second one is that secure routing comes through. You know, use cases and product offerings like Scion are similar. Actually, I would say that the station part is the weakest link in the Scion architecture, because I'm not, I'm expecting. Scion does not have attestation. Yeah, other you. There are other business cases for attestation, then there are separate business cases for secure routing like Scion, and NASA brings these together.
+47:43 speaker 7: Yeah, I would say that all the use cases related to supply chain attacks, This is where I think you get a lot of value at the station. I think this is a typical case that we must put in front.
+48:10 speaker 4: In addition to this, we started all this work on proof of transit. And this kind of matters because of the potential deployment of certain elements in cloud environment, like cloud native functions, etc.
+That will be moving around, that can be replicated, etc.
+So, a customer can be sure that even if there are several different instances running and providing the service, the path requests and the integrity of the workloads is kept.
+Originally, when we started with all these virtualized, cloud-based environments, it was the main use case we had.
+49:10 speaker 3: Yeah, I think that's one of the iconic use cases.
+49:24 speaker 1: Okay.
+There are other questions.
+Suggest names, different names.
+NASA to Felpa Um, it's an option, or should we just show the names, or you want to run a
+49:56 speaker 5: poll to see what people prefer? Really? That? I mean, this whole naming stuff is an inside issue, so I wouldn't waste time during the buff with it. I don't remember that any buff failed because of naming.
+Okay, I think I think the the the. The only issue, um, technically speaking, is what does secured means, right? because secure is always very broad, right? So I think that's that's the only thing that that should be well explained. So you, you already have some secure service that you're trying to bring in. And it turns out that such a secure service cannot be sold without a model to establish the trust. And that's the attestation, right? So so this is this is a necessary part, the attestation to, um, basically sell whatever you wanted as a secure service, right? Go only through this country, go only through these routers, go only through routers that are green, you know, whatever it is. So, I mean, that's that's kind of the quick sales pitch that that needs to be done in the beginning, right? Similar to the Okay, you're going to get reds. We're latching onto this technology. You want to have secure routing services like, look at Scion or so on. Um, you're
+51:34 speaker 1: going to need attestation, right? So okay? So the the final? A question to the community will be something like the ones we see in this slide, more or less classic, I would say.
+Maybe separated on four different slides, so that we focus each time on one single question and issue a poll on the Mitico.
+So to see where we are, where we stand.
+Nasser and the working group formation.
+52:23 speaker 2: I would suggest you move the problem, well understood, to the spot where we've just finished the problem statement.
+That was like 10 slides ago or something like that.
+52:37 speaker 1: You want to make a poll here. Uh, so, let's say here is the problem, the technical presentation, blah, blah. At the end of the the presentation here, uh, you would make a a poll about clarity problem. Yeah, yeah, um, but some of the the clarification will come later on. When there is the open mic, that's okay,
+53:16 speaker 2: Okay, well, open mic and then poll on clarity.
+53:22 speaker 1: That's what we actually...
+53:24 speaker 2: Is it actually already? Okay, so open mic is right out there.
+53:28 speaker 1: If we skip the...
+53:29 speaker 2: All I'm trying to say is that we need to give people the opportunity to confirm their understanding before we ask them to think about the charter. They didn't understand the problem. The charter makes no sense, right? Then we'll get... Sort of in a loop of back to what was the problem while discussing the charter. And that's what we don't, that's usually the rat hole, right?
+53:56 speaker 1: I agree.
+My concern is, if we split the questions in several parts of the meeting, we risk to end up in trying to solve one part of the...
+54:13 speaker 2: Fair enough.
+54:16 speaker 1: Of the presentation, of the discussion, And we don't have the time to come back to the end.
+So it would be...
+54:26 speaker 2: So I withdraw the suggestion. Keep it that way.
+Yeah.
+Someone asked also in your Slide 22 that you put the actual QR code for joining the...
+Which we don't have yet.
+Yeah, that you put... Yeah, yeah.
+54:45 speaker 1: It should be there. Usually, we have a two-screen setup.
+54:50 speaker 2: I know.
+54:52 speaker 1: But we can put the...
+I can copy and paste the QR code.
+54:56 speaker 2: Yeah, you'll have to do it on the day, right?
+54:58 speaker 1: Yeah, yeah. That's not a problem.
+Quickly done.
+55:03 speaker 5: By the way, did you put on the planning to go to HotRFC, of course, right?
+55:11 speaker 1: Uh, no.
+55:12 speaker 2: You don't get a hot RFC if you have a bot.
+55:14 speaker 5: I don't think so.
+55:18 speaker 2: I believe you can't have a Bof and a hot RFC anymore.
+You can't have a SEC dispatch, and maybe you can't have a dispatch and a hot RFC anymore. I don't know. It was surprising to me.
+55:30 speaker 5: Oh, okay. I thought that was a hot RFC was the good quick marketing to get people into the BOF room.
+55:41 speaker 2: I don't know anymore.
+Okay. Go for it if you can.
+55:48 speaker 1: We can check. I mean, if we can do it, then we can do it.
+55:58 speaker 5: If you can promote the BOF, and if they think no, then no.
+56:03 speaker 1: Okay. I mean, there were flyers and stuff to promote the BoF.
+56:10 speaker 2: Yeah.
+56:15 speaker 5: What do we? Oh we, we don't have the schedule, right? Okay, not yet on Friday. Oh okay, Friday. The preliminaries. Yeah,
+56:30 speaker 7: so I guess that. Depending on the preliminary, we can target some specific working groups and make an announcement at the end of the working groups. Advocating for people participating to the buff if they're interested. For instance, if rats is before NASA, obviously speaking about NASA and rats would be nice in Secaria meeting, for instance, in routing area meeting could be also interesting. Yeah,
+57:06 speaker 5: I mean, it's all the things that can be done to get more positive feedback during the buff, right? So that's what, what can be done for that? And, uh, if known critics from last time. It's obviously good to to touch base with them in before and see if, if, if their specific concerns can be resolved. Even on the hallway, I don't understand your ask toward us. No, I'm saying that. Don't count on the time during the BOV alone to move the thing forward.
+Okay. You don't want to have, you know, uninformed, confused people asking questions during the BOV.
+58:02 speaker 1: Well, you cannot speak to each and every attendee.
+No, no,
+58:08 speaker 5: but I mean, if you have a log from the last time... You, you, you. You may identify specific, you may be able to identify specific people. Sure, okay, um, we
+58:27 speaker 1: have four minutes left. So unless there are further comments, I will quickly switch to the to the problem statement. Um, there is still work to do.
+I added a plan of the Lac Le Mans topology.
+If there is a banking transaction between Geneva and Sion, without the sea, like in the Sion project, shorter way goes through France. But if you want to stay in Switzerland, you have to go north.
+Yeah, the direct path here is...
+Otsawa is France, the French Alps.
+59:15 speaker 5: You may want to make some graphical notation about that on the picture.
+59:21 speaker 1: Yeah.
+59:24 speaker 5: Well, I mean, there are a lot of people that typically download slides and look at slides, right? So don't expect that to be self-explanatory.
+59:32 speaker 2: Maybe just put horizontal France in there. And for extra little thing, there's actually an... Exclave of Switzerland in the middle of that French part.
+59:44 speaker 5: Well, that's a different problem, right?
+59:45 speaker 2: Yeah.
+59:47 speaker 5: How can you lawfully do a banking transaction? That exclave? That's not our problem.
+59:51 speaker 2: Maybe you can't.
+There are no banks there as a result. I don't know.
+01:00:03 speaker 1: So here we can discuss.
+That's an answer. I. I don't know who actually worked on this slide, that's not me. If anybody wants to chime in and discuss on the slides, I have to run it. Uh,
+01:00:20 speaker 3: I added these things. So I'm trying to explain to the audience that what we do additionally to the rats, because, like, we are building on the foundation of rats. So this is like a quick explanation from them to understand. Like what rats achieve and what we want to do as additional extensions and try to achieve a little bit more. So basically, I think it was.
+Someone asked like, this is the time that we think RADs are mature enough, the main IDs drives are mature enough, And now it's time for applications for higher network deployment level and higher security goals. So this is what it's all about.
+01:01:12 speaker 5: Yeah, and I'm saying, just have the line about, you know, required, used for, you know, and. And. And add the type of services like I heard SD-wan, I'm not sure which others, right? Um, because right now it's just got technology, uh uh in it, right? And as much as the engineers in the IETF love the technologies they're working on, they always need to understand the linkage to where the money comes from. If it's a new thing,
+01:01:44 speaker 3: right? I think the next slide makes some sense also, so can't go to the next. Uh, so here, like, uh, like, right now this is like before rats, and uh, after rats, uh, here it's beside, actually from the last buff. So before rats is either fully trusted or fully distrusted, but now after rats. We can have finer, you know, granularity of security visibility, you know, down to each security claim. And this allow, you know, the the telecom operators to provide differentiated security connectivity services. And that's number one change number two is that before we don't have integrity check, we don't have rats, so there's no guaranteed deterministic behavior. The the secure routing does not necessarily guarantee secure forwarding. But right now, if we have net, sorry, if we have rats, we have, uh, you know, a trusted boot. We have integrity check. We can make sure the forwarding behavior will be deterministic, and if we pick only the rats? Deployed network devices to um to to make up a routing path that will allow higher security connectivity services. So this is, uh, this page is all about, know if it makes sense?
+01:03:12 speaker 5: So so this is still all very abstract, right? Would it be fair to say that in in, let's say, St. When you you have a simple um peer-to-peer um attestation, you've got some, you know, sd-wan, um peer. In your own network or in the cloud. And you're a client client and there is some form of Um attestation between them, but it's not attestation about a path.
+01:03:49 speaker 3: What do you mean? it's not the attestation about a path?
+01:03:52 speaker 5: In RADS. I'm saying I would understand, A, what is RADs good for? And why is it happening? Versus why do we still need NASA more? Based on a simple example.
+For example, on the example of what's the most simple way in two or three sentences to explain rads in SD-WAN.
+01:04:21 speaker 3: Yeah, I think I need, I need a diagram or something. Basically is to chair, pick them and to connect to these, um, secure devices. So I think that would make some sense. Yeah,
+01:04:37 speaker 5: but use an example really, you use, use a comparative example. Here is you know how how rats by itself can be used today. S.D When? if that's the most simple example, and then high level how? How? NASA would use RADs differently and needs this new NASA technology aspects.
+01:04:59 speaker 3: Yeah, I will add a diagram.
+So, like before, I think Ming-ling also knows that in the RADs, they kind of upgrade the old devices to RADs deployed devices. And they are, you know, a portion of them, and they don't really have a good statistics like which devices are RAS ready and which are not. They generally think maybe the whole big network is getting a little bit more secure. But they don't really have a very quantitative understanding and visibility and don't know how to monetize it. I think this could be a good point that we visualize it and we chair pick them. And we monetize it by providing this high security connectivity service.
+01:05:57 speaker 5: Yeah, don't get too complicated.
+If you have the most simple distinction where you can rightfully show that Rads doesn't know about path, and with Nasser, the combination of Rads and Nasser would do so, then you have won the day. Every more details will just start confusing people rightfully, even though you may be right. Got it. And
+01:06:35 speaker 3: the the next, uh, slide is an architecture at a glimpse. So, um, this is all about a single, limited domain, administrative domain, without multiple domains to further confuse people. So this is the architecture of the glimpse. So there are three stages or three steps.
+I think there is an alliance with what Luigi put at the front. This is like an explanation. And how do we do it? How the information, the conceptual message flow look like. And there are two steps for setup and one step for actual usage verification.
+I think this is also our diagrams, that comes from our architecture.
+01:07:27 speaker 5: Okay. It's obvious to me now, but don't you think it would help to have something like Forwarder in the attested boxes as well?
+01:07:36 speaker 3: Oh, yeah. Sure. Yes. These are rats terminal. I should add network device, actual instances to it.
+01:07:48 speaker 5: And maybe put that in red, because that's a new thing we're now doing, right. Got it? Yeah, I'm trying to put it just in one page, so not to distract. No, that's fine. And if you can say to it, so this, this is, you know, just another instance in black of of of reds across multiple devices. But here, because it's NASA, we're kind of attaching it to the actual forwarding function on the three devices down there. And you see in red their forwarders. That's that's all that needs to be said about it. Okay,
+01:08:39 speaker 1: and there is this last slide about the scope.
+Personally, I'm not sure he takes his place. Here we discuss that place. Yeah, you can just remove it. Okay, okay,
+01:09:00 speaker 5: um, okay, we are six minutes over time, wait, wait. So the the source routing, I think we wanted to replace with something about not source routing, right?
+01:09:13 speaker 1: Yeah, yeah, yeah. We will drop the source-sort-out impact, as we said in the other slides.
+Yeah, yeah.
+01:09:23 speaker 5: Well, I think it's a controlled path, right? Initially, focus on a controlled path, maybe.
+01:09:31 speaker 1: Yeah. And we have to define what is a controlled path.
+Maybe keep it simple. Path.
+01:09:41 speaker 3: Is there a definition for controlled?
+01:09:45 speaker 5: Yes, I mean, the whole chart is that the path, you know, is meant to offer a specific service property mm-hmm within a country, you know, through certain routers. Green shape, whatever it is right. So that may need to be said. And, you know, come up with a good sentence for that, yeah, and if short enough, even write it, write it down there.
+Specific service path, right? Instead of controlled.
+01:10:21 speaker 1: Okay, that is part. Okay, okay, unless there are other comments. Uh, we will meet again in two weeks.
+Um, let me switch to this 26th of February. This time is for UTC time, so early morning in Europe, late evening Tuesday in North America, and middle of the day in Asia. Okay, hopefully we will receive the material from Diego.
+The priority is to work a little bit together on the technical presentation slides so that we can discuss them.
+01:11:33 speaker 5: Is the drive location secret? If not, it's good to put out a reminder that it's there for people who weren't on the call but are on the mailer.
+01:11:42 speaker 1: It is on the mailing list, but let's... To like this, I will, as usual, prepare the the minutes and one, uh, once they, uh, they are ready, I send the usual mail on the mailing list. I will add the reminder about the the Google Drive link. Okay, I will put it also somewhere on the GitHub, so that is something easy to find on the Github. Okay,
+01:12:14 speaker 3: and I can't. Sorry, I can't provide a minutes because I'm my car and just, uh, you know, pull off, pull over, uh, because I got the time wrong. It's okay, it's okay. I mean, we don't need, sorry.
+01:12:34 speaker 1: I just said, thanks Luigi, most welcome. Um, so guys talk to you in, uh, in two weeks, in a couple of weeks, Okay.
+01:12:46 speaker 4: They can't.
+01:12:47 speaker 2: They didn't arrest Diego. Good to know.
+01:12:51 speaker 4: No, no, no.
+I went through security. Everything was clear and easy, with the exception of a family that had some problems with their liquids. But that was all. Yeah. Okay.
+01:13:03 speaker 1: Okay.
+01:13:03 speaker 2: Take care.
+01:13:08 speaker 1: Bye-bye, everyone.
+01:13:09 speaker 3: All right. See you. Bye.
+01:13:09 speaker 4: Bye.
+
