@@ -4,29 +4,24 @@ This repository contains material and pointers to past and future NASR meetings.
 
 ## Next Upcoming Meeting:
 
-### NASR Interim Meeting - [12 February 2025 UTC 15:00](https://www.worldtimebuddy.com/?qm=1&lid=2147714,1850147,1816670,2988507,100,5128581,5391959&h=100&date=2025-2-12&sln=15-16&hf=0)
-
-- Calendar Invitation & Conference Link: **[.ics file](./NASR-Interim-12-Feb-2025/Material/NASR-12022025.ics)**
-     
-    - **Note: For some time zones it will be very early Thursday morning (13 February 2025)** 
-        ![image Meeting Time Zone](./NASR-Interim-12-Feb-2025/Material/NASR-12022025-TZ.png)
-
-    - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-12-Feb-2025/README.md)
+### NASR Interim Meeting - [26 February 2025 UTC 04:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2025-2-26&sln=4-5&hf=1) 
 
 
----
+- Calendar Invitation & Conference Link: **[.ics file](./NASR-Interim-26-Feb-2025/Material/NASR-26022025.ics)** 
 
-### Planned Meetings
+    - **Note: For some time zones it will be Tuesday evening (25 February 2025)**
+        ![image Meeting Time Zone](./NASR-Interim-26-Feb-2025/Material/NASR-26022025-TZ.png)
 
-- #### NASR Interim Meeting - [26 February 2025 UTC 04:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2025-2-26&sln=4-5&hf=1) 
-    - Note that in some time zones this is late Tuesday evening
-    - Calendar Invitation & Conference Link: **[.ics file](./NASR-Interim-26-Feb-2025/Material/NASR-26022025.ics)** 
-   - [Meeting Agenda, Materials, and Minutes](./NASR-Interim-26-Feb-2025/README.md)
+- [Meeting Agenda, Materials, and Minutes](./NASR-Interim-26-Feb-2025/README.md)
 <br>
 
 ---
 
 ### Past Meetings
+
+#### NASR Interim Meeting - [12 February 2025 UTC 15:00](https://www.worldtimebuddy.com/?qm=1&lid=2147714,1850147,1816670,2988507,100,5128581,5391959&h=100&date=2025-2-12&sln=15-16&hf=0)
+
+- [Meeting Agenda, Materials, and Minutes](./NASR-Interim-12-Feb-2025/README.md)
 
 #### NASR Interim Meeting - [22 January 2025 UTC 04:00](https://www.worldtimebuddy.com/?qm=1&lid=100,5391959,5128581,2988507,1816670,1850147&h=100&date=2025-1-22&sln=4-5&hf=1) 
 
