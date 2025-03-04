@@ -16,8 +16,8 @@
 
 ### Materials
 
-- [Proposed BoF Chairs' Slides](./Material/NASR-IETF-122-Chairs.pptx)
-- [Proposed BoF Problem Statement Slides](./Material/NASR-IETF-122-Problem-Statement.pptx)
+- [Proposed BoF Chairs' Slides](./Material/NASR-IETF-122-Chairs.pdf)
+- [Proposed BoF Problem Statement Slides](./Material/NASR-IETF-122-Problem-Statement.pdf)
 
 
 ### Minutes

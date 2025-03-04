@@ -16,11 +16,19 @@
     - Any Comment on last meeting minutes?
 
 2. Review Slides
-    - Slides are available on a **[shared Google Docs folder](https://drive.google.com/drive/folders/1IZrVA9WWIdra-pZ9mY3uJW0mADzTUxf4?usp=sharing
-)** 
+    
 
 ### Materials
 
+- [Meeting Slides](./Material/NASR-Interim-Meeting-26-02-2025-v0.pptx)
+
+- Slides for BoF are available on a **[shared Google Docs folder](https://drive.google.com/drive/folders/1IZrVA9WWIdra-pZ9mY3uJW0mADzTUxf4?usp=sharing
+)** 
+
 ### Minutes
 
+- [Minutes NASR Meeting 26 February 2025](./Material/NASR-Minutes-26022025.md)
+
 ### Recordings
+
+- [Audio Transcript](./Material/GMT20250226-035332_Recording.transcript.vtt)

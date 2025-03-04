@@ -1,0 +1,2374 @@
+WEBVTT
+
+1
+00:03:51.170 --> 00:03:52.840
+Meiling Chen: Hi. Louis.
+
+2
+00:03:55.600 --> 00:03:56.990
+Luigi Iannone: Hello Ming!
+
+3
+00:03:57.380 --> 00:03:58.149
+Luigi Iannone: Hello, Peter!
+
+4
+00:03:58.150 --> 00:04:02.210
+Meiling Chen: Oh, tell me you! You come back for your.
+
+5
+00:04:02.830 --> 00:04:05.650
+Luigi Iannone: Every day. Yeah, yeah. Yeah.
+
+6
+00:04:08.020 --> 00:04:15.360
+Luigi Iannone: Here in in France, during during February's school winter holidays for 2 weeks.
+
+7
+00:04:15.510 --> 00:04:21.420
+Luigi Iannone: So usually families go to to the mountains to the hops to do some skiing.
+
+8
+00:04:21.930 --> 00:04:24.030
+Luigi Iannone: That's what I did with my kids.
+
+9
+00:04:26.206 --> 00:04:33.319
+Meiling Chen: My daughter start the new teams 2 weeks ago.
+
+10
+00:04:34.660 --> 00:04:35.240
+Luigi Iannone: Hmm.
+
+11
+00:04:38.100 --> 00:04:41.189
+Peter Chunchi Liu: I'm still at the looking for the girlfriend step.
+
+12
+00:04:45.840 --> 00:04:48.439
+Luigi Iannone: A long process. Peter.
+
+13
+00:04:48.440 --> 00:04:49.200
+Peter Chunchi Liu: Yes.
+
+14
+00:04:49.780 --> 00:04:51.250
+Meiling Chen: If you need, we can help.
+
+15
+00:04:57.740 --> 00:04:59.960
+Luigi Iannone: Please please recommend.
+
+16
+00:05:01.560 --> 00:05:03.260
+Meiling Chen: I have a sister.
+
+17
+00:05:06.170 --> 00:05:10.378
+Peter Chunchi Liu: Yeah, we can discuss it at Bangkok.
+
+18
+00:09:37.900 --> 00:09:44.274
+Luigi Iannone: Looks like we are in a busy way. Wednesday. Not many people joining.
+
+19
+00:09:45.374 --> 00:09:52.270
+Luigi Iannone: I know Nancy will not join, because she's busy in an executive executive meeting event with Cisco.
+
+20
+00:09:53.200 --> 00:10:00.330
+Luigi Iannone: So I mean, we are a few minutes after the hour.
+
+21
+00:10:02.770 --> 00:10:10.060
+Luigi Iannone: I think we can start. We are 3. We can even make it shorter unless we we have long discussion.
+
+22
+00:10:14.300 --> 00:10:21.090
+Luigi Iannone: So 1st of all, I contacted Alvaro
+
+23
+00:10:21.740 --> 00:10:33.970
+Luigi Iannone: about the the feedback from the iap, and let me me shit, I mean, is reply.
+
+24
+00:10:42.741 --> 00:10:45.709
+Peter Chunchi Liu: You mean showing the slides to to him.
+
+25
+00:10:46.860 --> 00:10:51.232
+Luigi Iannone: Show the slide. I sent him the the past about
+
+26
+00:10:51.780 --> 00:10:52.460
+Peter Chunchi Liu: Yes.
+
+27
+00:10:53.576 --> 00:10:58.010
+Luigi Iannone: The the Iab feedback. Okay.
+
+28
+00:10:58.240 --> 00:11:04.266
+Luigi Iannone: And I sent to him also the link to the whole slides. And
+
+29
+00:11:05.710 --> 00:11:15.579
+Luigi Iannone: here is what I got back. So basically, he's fine with the the slides about the Iab official feedback. And now he, we addressed
+
+30
+00:11:15.850 --> 00:11:23.659
+Luigi Iannone: the the concerns. Let's say he has 3 points on the charter.
+
+31
+00:11:26.160 --> 00:11:32.800
+Luigi Iannone: so the 1st one is basically leaving the definition of the use cases and terminology to the working group.
+
+32
+00:11:35.290 --> 00:11:39.129
+Luigi Iannone: Say, it's not. Maybe the ideal
+
+33
+00:11:41.234 --> 00:11:48.160
+Luigi Iannone: he prefers to have a specific use cases. But this to me in the chat is just warping
+
+34
+00:11:48.420 --> 00:11:50.140
+Luigi Iannone: in the sense that
+
+35
+00:11:50.330 --> 00:11:58.640
+Luigi Iannone: we just need to say we will document the use cases so that we we make clear that we have them already.
+
+36
+00:11:59.230 --> 00:12:06.350
+Luigi Iannone: and this should also be clear for them from the presentation that the technical part of the presentation
+
+37
+00:12:07.077 --> 00:12:14.050
+Luigi Iannone: that we have several use cases that that are already there. We don't need to find them.
+
+38
+00:12:14.230 --> 00:12:17.080
+Luigi Iannone: So this is a
+
+39
+00:12:18.127 --> 00:12:25.559
+Luigi Iannone: not an issue to me. Second is about the use of rfc. 87, 99
+
+40
+00:12:25.730 --> 00:12:27.709
+Luigi Iannone: of unlimited domains.
+
+41
+00:12:30.100 --> 00:12:43.419
+Luigi Iannone: he he's right, he says. Actually, this Rfc does not come out from itf consensus. This has been submitted over the independent stream.
+
+42
+00:12:43.660 --> 00:12:52.869
+Luigi Iannone: So basically, was Brian carpet and Shenzhen kid that submitted to the IC editor and has been published.
+
+43
+00:12:53.000 --> 00:12:57.950
+Luigi Iannone: So he says, maybe it's not very helpful in the Isg
+
+44
+00:12:58.450 --> 00:13:05.750
+Luigi Iannone: and yeah, we we can drop the reference just just maintaining limited domains.
+
+45
+00:13:05.960 --> 00:13:07.839
+Luigi Iannone: And to me should be fine.
+
+46
+00:13:09.420 --> 00:13:17.770
+Luigi Iannone: And last point is he? He noticed it, that we, we change it source routing path to Service Pass.
+
+47
+00:13:18.909 --> 00:13:32.970
+Luigi Iannone: I sent back an email saying, we we didn't want to go into source routing solution itself or technology but the only things he he knows is the to put spring
+
+48
+00:13:33.220 --> 00:13:35.310
+Luigi Iannone: as a related working group
+
+49
+00:13:35.830 --> 00:13:46.880
+Luigi Iannone: which makes sense, we can put it there, and if anybody ask why spring is there said at some point we need something to steer the traffic, so spring may be one option.
+
+50
+00:13:47.480 --> 00:13:50.209
+Luigi Iannone: you know. It's what do you think.
+
+51
+00:13:52.280 --> 00:13:56.315
+Peter Chunchi Liu: Yeah, I agree. And maybe you know, even
+
+52
+00:13:57.240 --> 00:14:07.569
+Peter Chunchi Liu: anima like, for example, in a distributed way of, you know, establishing this path. So maybe you know. So spring definitely. And Aima, maybe. Yeah.
+
+53
+00:14:08.790 --> 00:14:11.720
+Luigi Iannone: Okay. Okay? Oh, no. We can add both of them.
+
+54
+00:14:12.180 --> 00:14:13.590
+Luigi Iannone: Yeah, absolutely.
+
+55
+00:14:14.230 --> 00:14:19.239
+Luigi Iannone: By the way, did you, Peter? Did you present in anima in the interim meeting.
+
+56
+00:14:19.850 --> 00:14:34.129
+Peter Chunchi Liu: Oh, yes, yes, absolutely. I think the feedback is is good. But the the animal working group will, you know, still wait for the outcome of our initiative before they make any decisions. I think it makes sense. You know.
+
+57
+00:14:35.155 --> 00:14:36.910
+Peter Chunchi Liu: system. It's online.
+
+58
+00:14:37.613 --> 00:14:50.509
+Luigi Iannone: Maybe a good idea if you drop an email on the mailing list just stating. So you did. Present was well received. And yeah, anima will follow up, depending on the result.
+
+59
+00:14:50.510 --> 00:14:51.540
+Peter Chunchi Liu: Of the bus.
+
+60
+00:14:53.080 --> 00:14:53.670
+Luigi Iannone: And
+
+61
+00:14:55.900 --> 00:14:56.510
+Peter Chunchi Liu: Yep.
+
+62
+00:14:56.510 --> 00:15:04.080
+Toerless: Yeah, I think there are. There are different approaches on on how we could, you know, leverage each other's work?
+
+63
+00:15:04.705 --> 00:15:10.720
+Toerless: And so hopefully. We'll have some time to chat on the corridors or in Bangkok.
+
+64
+00:15:12.690 --> 00:15:14.510
+Luigi Iannone: Yeah, definitely. Yeah.
+
+65
+00:15:19.110 --> 00:15:19.800
+Luigi Iannone: And
+
+66
+00:15:26.940 --> 00:15:34.861
+Luigi Iannone: because I have share. I also
+
+67
+00:15:36.130 --> 00:15:38.350
+Luigi Iannone: let me go to this one
+
+68
+00:15:43.710 --> 00:15:51.619
+Luigi Iannone: agenda. I shared the agenda and the slides with the deck, which is our Id.
+
+69
+00:15:52.693 --> 00:16:04.539
+Luigi Iannone: She's pretty fine with the agenda. Okay, pretty happy. She didn't look yet. All the slides, she will do it and and send us feedback.
+
+70
+00:16:05.820 --> 00:16:18.389
+Luigi Iannone: So this is pretty cool. this week or early next week I will finalize these slides because there are a few slides like to be updated. Blah blah.
+
+71
+00:16:18.680 --> 00:16:29.657
+Luigi Iannone: and then I will share it as well with the routing area Id followed so that we have a have also
+
+72
+00:16:30.360 --> 00:16:36.599
+Luigi Iannone: his feedback, and we'll make sure, or at least ask, that he comes to the boss
+
+73
+00:16:37.690 --> 00:16:38.729
+Luigi Iannone: so that we have a.
+
+74
+00:16:38.730 --> 00:16:39.210
+Peter Chunchi Liu: Right.
+
+75
+00:16:39.210 --> 00:16:46.050
+Luigi Iannone: A routing id sitting in the room.
+
+76
+00:16:46.150 --> 00:16:53.400
+Luigi Iannone: Maybe we can also ask to chat with him before the meeting. Why not? Could be an idea.
+
+77
+00:16:56.960 --> 00:17:02.990
+Peter Chunchi Liu: Yeah, I think, Isg, pre review on the materials is, should should be important.
+
+78
+00:17:03.480 --> 00:17:06.380
+Peter Chunchi Liu: Yeah, maybe more important than than just just talking.
+
+79
+00:17:07.530 --> 00:17:13.829
+Peter Chunchi Liu: We can reflect their feedbacks on the materials. I think the probabilities of their support should be higher.
+
+80
+00:17:14.170 --> 00:17:32.514
+Luigi Iannone: Yeah, yeah, absolutely. I also contacted. He's the the guy with the big bird that that was complaining about the the usage of routing in the name this will change it. But there was
+
+81
+00:17:36.310 --> 00:17:46.920
+Luigi Iannone: dumb during the panel. G he made the the observation that that
+
+82
+00:17:47.030 --> 00:17:52.000
+Luigi Iannone: proof of transit can be used. Let's say, kind of stand alone
+
+83
+00:17:52.170 --> 00:17:57.310
+Luigi Iannone: without the the attestation. Just as a service that we want to prove something. Okay.
+
+84
+00:17:57.930 --> 00:18:20.079
+Luigi Iannone: His point of view. I wanted to make sure that he we capture his observation, because otherwise, if he's there, he will make the same content comment to the mic. I have no reply so far, but worst case I will catch him in the corridor and ask him explicitly.
+
+85
+00:18:21.730 --> 00:18:25.888
+Luigi Iannone: what he thinks, and
+
+86
+00:18:27.110 --> 00:18:28.590
+Toerless: This is just about the naming.
+
+87
+00:18:30.989 --> 00:18:52.799
+Luigi Iannone: Is a long time routing person, so he's pretty sensitive about routing, and he, like Randy Bush that was not in the room, but was remote right away. Make the comment, oh, this is not about routing. Looks more about forwarding.
+
+88
+00:18:53.440 --> 00:18:55.989
+Luigi Iannone: Okay? So that that was the main issue.
+
+89
+00:18:56.100 --> 00:19:08.150
+Luigi Iannone: and then in panarchy, said, Well, maybe you can use what? Sorry, NASA. We have 2 paths right, the atticession of the path and the proof of transit.
+
+90
+00:19:08.580 --> 00:19:17.220
+Luigi Iannone: And he said, well, maybe the proof of transit to you can use it in some scenarios without the attestation.
+
+91
+00:19:18.380 --> 00:19:40.969
+Luigi Iannone: Fair enough. I would not like go into use cases where we separate the 2 parts. Otherwise we we open up the scope even more but wanted to make sure that it doesn't go again to the mic and say, Oh, maybe you can do this. You can do that and open up the the scope during the both.
+
+92
+00:19:41.650 --> 00:19:43.489
+Luigi Iannone: That's why I I put.
+
+93
+00:19:43.490 --> 00:19:49.400
+Toerless: So sorry. What! How do you? What would, in your opinion, unnecessary, widen the scope.
+
+94
+00:19:50.000 --> 00:19:54.350
+Luigi Iannone: The fact that you can use the proof of transit alone without the attestation.
+
+95
+00:19:55.230 --> 00:19:55.670
+Toerless: Right.
+
+96
+00:19:55.670 --> 00:19:56.620
+Luigi Iannone: That's because you want.
+
+97
+00:19:56.620 --> 00:20:05.080
+Toerless: To the question that I had on the mailing list. Where does attestation start? And you know what does not constitute attestation?
+
+98
+00:20:08.230 --> 00:20:09.730
+Luigi Iannone: Yes.
+
+99
+00:20:10.600 --> 00:20:11.110
+Luigi Iannone: Does this sound.
+
+100
+00:20:11.110 --> 00:20:22.820
+Toerless: You know, 1 1 of the things that I that I find really enticing as as an option, is that the one component which is, you know, the packet header, in which
+
+101
+00:20:22.990 --> 00:20:27.290
+Toerless: you know we would, you know, put the proof of transit.
+
+102
+00:20:28.200 --> 00:20:29.959
+Toerless: But if
+
+103
+00:20:30.280 --> 00:20:37.036
+Toerless: if I simply do that on a hop by hop basis, right? So I mean, we we discussed. We have 2 type of
+
+104
+00:20:38.150 --> 00:20:45.310
+Toerless: you know, attestations, verifications, right? So whatever we call it, one would look at the whole path.
+
+105
+00:20:45.460 --> 00:20:48.540
+Toerless: One would only need to look at the prior hub.
+
+106
+00:20:48.700 --> 00:21:00.749
+Toerless: and that actually is a great building block block that I can reuse. Whether that reuse is within NASA scope or not to me is just a process question, but it would be a great outcome to get out of NASA.
+
+107
+00:21:04.877 --> 00:21:18.830
+Luigi Iannone: To be honest, thoughtless, not sure. I followed what you are saying. You you mean that you, the verification can be done. Hope by hope, without each node having the notion of the whole path
+
+108
+00:21:19.040 --> 00:21:21.900
+Luigi Iannone: just verifying. It comes from the
+
+109
+00:21:23.590 --> 00:21:27.230
+Luigi Iannone: previous hope, the right previous hope. That's what you say.
+
+110
+00:21:27.230 --> 00:21:28.950
+Toerless: Yes, yes.
+
+111
+00:21:30.000 --> 00:21:41.089
+Toerless: so so this is, for example, one of the things where you know, if I had that type of of header that, you know, is just, you know. I would think that
+
+112
+00:21:41.850 --> 00:22:00.210
+Toerless: which goes back then to the details of How do we do the cryptographic part? Right? So is that a symmetric or asymmetric keying right whatever it is. But if I do receive a packet with a packet header, where I cryptographically have a knowledge that it was actually sent by the right previous hop.
+
+113
+00:22:00.310 --> 00:22:15.240
+Toerless: Then that is something I could use in enema. Right? So that would be one way on how to replace. For example, Ipsec tunnels with something that gives me the same degree of security that I need for my infrastructure security. Right? So
+
+114
+00:22:15.400 --> 00:22:30.289
+Toerless: that doesn't have to be, then you know the reuse of that header in that context, whether that is within scope of NASA, or whether that would be in scope of anima. That's all. Just process stuff to me. Right? I'm just saying that the technology is of interest to me.
+
+115
+00:22:31.540 --> 00:22:37.120
+Luigi Iannone: Yeah, my personal opinion. you.
+
+116
+00:22:38.080 --> 00:22:48.878
+Luigi Iannone: I mean, this is like, do you have a iterative mode of verification or recursive? You are suggesting a recursive method of proof of transit.
+
+117
+00:22:49.740 --> 00:23:09.509
+Luigi Iannone: which may may be more lightweight if you look, but maybe more difficult to troubleshoot in some some cases. Okay? Because you if you don't have the division of the whole path, you cannot know what went wrong when it goes wrong.
+
+118
+00:23:09.640 --> 00:23:23.260
+Luigi Iannone: But this is something we we to me is a technical discussion to to be held. I I know I do not have a a strong opinion on one solution with with respect to the other solution.
+
+119
+00:23:23.680 --> 00:23:31.259
+Luigi Iannone: But I want to come back to the IP sec. Tunnel. So NASA is a proof of transit not necessarily encrypting the.
+
+120
+00:23:31.260 --> 00:23:31.610
+Toerless: Is it.
+
+121
+00:23:31.610 --> 00:23:33.229
+Luigi Iannone: The the packet.
+
+122
+00:23:33.630 --> 00:23:34.300
+Toerless: Yes.
+
+123
+00:23:34.560 --> 00:23:35.090
+Toerless: But
+
+124
+00:23:36.240 --> 00:23:46.119
+Toerless: so what? What we need, what we need is infrastructure security that somebody cannot inject packets that we're not interested in. Right? So that's that's 1 of the problems that we have.
+
+125
+00:23:46.120 --> 00:23:47.170
+Toerless: Yeah, yeah.
+
+126
+00:23:47.170 --> 00:24:01.789
+Toerless: so similar to what these, you know, quantum people want to do. Well, they they also want to not be able to have their packets be visible. But injection of packets is one of the big challenge in existing networks. So when we encrypt, all the traffic that's been done forever.
+
+127
+00:24:02.010 --> 00:24:10.629
+Toerless: Right? Yeah, authenticating only the the sender, you know, and and and hence also the payload. Of course, right? So
+
+128
+00:24:11.840 --> 00:24:21.199
+Toerless: without the encryption. If that can be done more lightweight, then I can simply add end to end encryption to it. I don't need to do the encryption on every hop. I just need to do.
+
+129
+00:24:21.200 --> 00:24:21.950
+Luigi Iannone: I know it's.
+
+130
+00:24:21.950 --> 00:24:44.849
+Toerless: So I can spin the whole solution differently by taking, let's say, the encryption of the payload out of the picture. And just, you know, doing the authentication or the proof of transit. Right? So there are different ways on how I then can build the solution. So that's why that proof of transit type of header may be a great reusable component in other solutions, like an enema.
+
+131
+00:24:45.850 --> 00:25:01.018
+Luigi Iannone: 100%. I agree, I see your point now. And yeah, yeah, you are absolutely right. You compared to Ipsec especially, you can have a a more lightweight solution that that allows you to
+
+132
+00:25:01.630 --> 00:25:19.660
+Luigi Iannone: proof the the transit, without necessarily having to encrypt the encrypt at each shop absolutely. And you can so delegate as we. We foresee in the the encryption in the security of the packet itself, end to end.
+
+133
+00:25:20.330 --> 00:25:20.740
+Toerless: Okay.
+
+134
+00:25:20.740 --> 00:25:21.849
+Luigi Iannone: You are there? Yeah.
+
+135
+00:25:22.980 --> 00:25:29.940
+Toerless: So so, and and that's why I obviously would love to see a header where I can have
+
+136
+00:25:30.160 --> 00:25:35.339
+Toerless: either or right or both, right so single hop, or the whole path, or both, right, so.
+
+137
+00:25:35.900 --> 00:25:39.109
+Toerless: The whole path, we know is typically for 3rd party.
+
+138
+00:25:39.670 --> 00:25:47.489
+Toerless: that, you know doesn't have isn't involved in the infrastructure that just wants to have the infrastructure to present what it's doing.
+
+139
+00:25:48.320 --> 00:25:50.470
+Toerless: But then the infrastructure itself.
+
+140
+00:25:50.720 --> 00:25:55.970
+Toerless: whether it's an enema, or even a scion or others, they may be perfectly happy with just a single hop.
+
+141
+00:25:59.110 --> 00:26:11.519
+Luigi Iannone: now about the the header or the the piece of header, that we need to add that's a good question I was thinking a little bit. So in in principle. What ideally what we need is
+
+142
+00:26:12.510 --> 00:26:15.760
+Luigi Iannone: a structure that is, that can be.
+
+143
+00:26:15.950 --> 00:26:28.929
+Luigi Iannone: let's say, encapsulated on different protocols. I give you an example. One thing is to have the data set pot data structure that you embed in Srv. 6.
+
+144
+00:26:29.170 --> 00:26:46.219
+Toerless: Oh, yeah, you need to come up with exactly how you think it should be done in Mpls and in ipv. 6, maybe even in something else, and then you have to obfuscate it, because officially responsible for the actual packetization will be other working groups.
+
+145
+00:26:46.310 --> 00:26:59.699
+Toerless: right? But you you already have to think ahead right? So you don't want to go with an abstract proposal to one of these forwarding groups. Give it to them, and then they stumble over something fundamentally problematic for them.
+
+146
+00:27:00.310 --> 00:27:00.719
+Luigi Iannone: Yes, sir.
+
+147
+00:27:00.720 --> 00:27:01.040
+Luigi Iannone: Yes.
+
+148
+00:27:01.040 --> 00:27:04.829
+Toerless: Process because of the different working group responsibilities that we have.
+
+149
+00:27:05.240 --> 00:27:05.780
+Luigi Iannone: Yeah.
+
+150
+00:27:05.780 --> 00:27:14.870
+Diego Lopez: But this is. This is somehow what this has been done in groups like Nsh, for example, I mean right with the with the Nsh.
+
+151
+00:27:15.520 --> 00:27:32.130
+Toerless: Yeah, they well, so nsh, if I remember my discussions with Jim, who was in a prior life in Cisco doing that. That that looked more to me like transport layer that wasn't really down to the network layer. So it wasn't all that difficult
+
+152
+00:27:32.718 --> 00:27:40.070
+Toerless: when when we actually get more into the network layer. There's more obfuscations in ipv. 6 and Mpls.
+
+153
+00:27:43.540 --> 00:27:51.420
+Toerless: I mean, just just look at the the wonderful world of M. And A. And Mpls. So.
+
+154
+00:27:52.431 --> 00:28:09.790
+Toerless: but that's fine. I mean, I I just wanted to, you know, I don't want to get into the technical discussion. I just, you know, wanted to see what can and cannot or should or should not be said about things to make you know the the buff go as smooth as possible.
+
+155
+00:28:12.720 --> 00:28:13.440
+Peter Chunchi Liu: Yeah, I think you should.
+
+156
+00:28:13.440 --> 00:28:24.519
+Toerless: And I mean, I know, really you're from the eighties, right? So I'm as old as he's well, a little bit younger. But so we go a long way back in Germany, so let me know if I can help.
+
+157
+00:28:27.600 --> 00:28:30.939
+Luigi Iannone: No, sure, I mean I
+
+158
+00:28:31.970 --> 00:28:41.130
+Luigi Iannone: I was in the same company like him for a few years, and so I know him as well. Very well, but we can have a chat together.
+
+159
+00:28:41.130 --> 00:28:42.630
+Toerless: Oh, you were in German telecom.
+
+160
+00:28:43.110 --> 00:28:44.649
+Luigi Iannone: And in Deutsche Telecom. Yes, in.
+
+161
+00:28:44.650 --> 00:28:45.799
+Toerless: Oh, yeah. Okay.
+
+162
+00:28:46.080 --> 00:28:48.469
+Luigi Iannone: Tea labs in Berlin for a few years.
+
+163
+00:28:48.470 --> 00:28:53.350
+Toerless: Yeah, no, no, I I knew him when he was back in University right when they were doing.
+
+164
+00:28:53.980 --> 00:28:56.720
+Luigi Iannone: Oh, you go a long way back, of course.
+
+165
+00:28:57.700 --> 00:28:59.330
+Toerless: Didn't I say eighties.
+
+166
+00:29:01.590 --> 00:29:04.056
+Luigi Iannone: Man, I was a kid.
+
+167
+00:29:06.496 --> 00:29:07.090
+Luigi Iannone: Thank you.
+
+168
+00:29:09.180 --> 00:29:15.350
+Luigi Iannone: So totalis, you are hiding your real age because you look younger than.
+
+169
+00:29:21.640 --> 00:29:32.640
+Luigi Iannone: okay. Okay, okay, so on this slide. I think we don't. And we can switch to the other ones.
+
+170
+00:29:33.807 --> 00:29:38.590
+Luigi Iannone: Let's say the technical presentation
+
+171
+00:29:40.098 --> 00:29:52.649
+Luigi Iannone: we need to define a little bit the the the slides. There is some more work to do. But it's okay. We. We have a 1st part with the the use cases, and then we we
+
+172
+00:29:53.090 --> 00:29:58.850
+Luigi Iannone: we go more on the architectural aspects of Nasser.
+
+173
+00:30:01.080 --> 00:30:06.819
+Luigi Iannone: Diego, I uploaded your slides, but for some reason the picture
+
+174
+00:30:07.660 --> 00:30:10.468
+Luigi Iannone: cannot be loaded. I don't know why.
+
+175
+00:30:12.880 --> 00:30:14.520
+Luigi Iannone: The gray out.
+
+176
+00:30:14.700 --> 00:30:24.050
+Diego Lopez: Okay. So no, no, something. Something happens as well was complaining that the something was not clear 2 things about this.
+
+177
+00:30:24.830 --> 00:30:39.239
+Diego Lopez: first, st I'll I'll I'll try to to rebuild new ones and share them with you with, because these are generated with a with a Mac, and I from time to time Powerpointed Mac makes
+
+178
+00:30:39.500 --> 00:30:41.010
+Diego Lopez: funny things.
+
+179
+00:30:42.380 --> 00:30:46.670
+Diego Lopez: I'll I'll share with you a new version, because because, apart from this.
+
+180
+00:30:46.780 --> 00:30:49.660
+Diego Lopez: I was discussing with a colleague that was
+
+181
+00:30:49.850 --> 00:30:59.562
+Diego Lopez: telling me that probably using level of assurance as a as a term in general could be misleading, because this is a very, very much
+
+182
+00:31:00.770 --> 00:31:11.909
+Diego Lopez: a term that is very much associated with digital identity and authentication, etcetera, and probably is gonna be misleading. I am want to change slides
+
+183
+00:31:12.040 --> 00:31:21.210
+Diego Lopez: a little bit. If you allow me. I mean I will do it today or tomorrow morning and share with them with you. Luigi.
+
+184
+00:31:21.420 --> 00:31:21.830
+Luigi Iannone: True.
+
+185
+00:31:21.830 --> 00:31:31.449
+Diego Lopez: If you see if you see any problem with them or with the with the especially with the pick, the figures I can the figures? I'm not. I mean just to
+
+186
+00:31:31.450 --> 00:31:54.620
+Diego Lopez: to fill the gap or to have an illustration. What we are talking about, not not necessarily that essential. If we see at the end they are serious problems, we can forget about them. But but anyway, let me let me to go through it through them and change a little bit, and start talking about level, of comply, of compliance that are related to level of assurance, etc, etc.
+
+187
+00:31:54.620 --> 00:32:14.599
+Diego Lopez: So bring the the story in a different in a different way. That is a little bit less depending on the, on the concept, because might be that there are some identity freak in the room that will start objecting out this. And this is something that I guess that this is precisely the kind of thing that we want to avoid.
+
+188
+00:32:15.590 --> 00:32:16.989
+Luigi Iannone: Okay. Okay. Fine. Fine.
+
+189
+00:32:19.011 --> 00:32:25.109
+Diego Lopez: And, by the way, something something that I notice when when looking at the final agenda.
+
+190
+00:32:25.330 --> 00:32:33.800
+Diego Lopez: is that the very likely I will have to leave the room by the before the end of the meeting, because I will have to present at another
+
+191
+00:32:34.150 --> 00:32:35.809
+Diego Lopez: meeting that is in parallel.
+
+192
+00:32:36.060 --> 00:32:43.399
+Diego Lopez: But the well, that's something that we I had to ask the chair of the other group to be at the at the at the end of the of the session.
+
+193
+00:32:44.760 --> 00:32:48.130
+Luigi Iannone: So we are on Tuesday morning.
+
+194
+00:32:48.130 --> 00:32:56.280
+Diego Lopez: Yeah, Tuesday morning, and I have to to present a new version of the draft at the Qrg.
+
+195
+00:32:57.290 --> 00:32:59.220
+Luigi Iannone: Oh, okay, yeah. Quantity.
+
+196
+00:33:00.090 --> 00:33:00.570
+Diego Lopez: Okay.
+
+197
+00:33:00.570 --> 00:33:13.030
+Diego Lopez: yeah, but I will. I will ask the chairs that I want to go at the end. So well. But by the by the moment I I have to leave, I hope that everything is more or less settled one way or another.
+
+198
+00:33:13.980 --> 00:33:20.760
+Luigi Iannone: Yeah. Well, if you go back to the agenda.
+
+199
+00:33:21.140 --> 00:33:23.771
+Luigi Iannone: so we have 2 h. But
+
+200
+00:33:24.350 --> 00:33:30.150
+Luigi Iannone: the the 1st part, the introduction will be 10 min, and then we go directly
+
+201
+00:33:30.450 --> 00:33:37.729
+Luigi Iannone: to the technical presentation. So this will be at the let's say, at the very beginning of the of the session.
+
+202
+00:33:38.220 --> 00:33:39.389
+Luigi Iannone: So
+
+203
+00:33:40.660 --> 00:33:52.200
+Luigi Iannone: you should be able to present at both groups, if the chairs on the other group agree to put you toward the end of the session.
+
+204
+00:33:53.090 --> 00:33:55.369
+Diego Lopez: Exactly that. That's my plan, and
+
+205
+00:33:55.530 --> 00:34:07.620
+Diego Lopez: and stay at least for even for the open mic, as much as I can. So so well, if there's some discussion happens so to take part in it.
+
+206
+00:34:08.015 --> 00:34:18.020
+Diego Lopez: be at the very end and go rush for the other side. Tell people about what I'm doing. And and just look for for some additional. Yeah, I I think that this is something that
+
+207
+00:34:18.219 --> 00:34:24.409
+Diego Lopez: did not shouldn't interfere that much in a way, you know.
+
+208
+00:34:25.483 --> 00:34:27.536
+Luigi Iannone: I was thinking so.
+
+209
+00:34:28.329 --> 00:34:46.049
+Luigi Iannone: we we certainly we. We have to avoid to have several speakers, all the different use cases, but we may also. Michael is not online, but he we can talk with him, and maybe he can present the architectural part of the presentation
+
+210
+00:34:46.239 --> 00:34:52.059
+Luigi Iannone: so that he will be there through the open mic session and answer the
+
+211
+00:34:52.199 --> 00:34:59.279
+Luigi Iannone: architectural part, and you stay as long as you can. If there are, let's say, policy based questions.
+
+212
+00:35:00.130 --> 00:35:17.579
+Diego Lopez: No, no, I I research group that is, I mean, things are more relaxed than I mean the working groups in those terms. So I don't. I don't foresee any any serious conflict with this, but just I wanted you to know.
+
+213
+00:35:18.370 --> 00:35:18.880
+Luigi Iannone: Well, the.
+
+214
+00:35:18.880 --> 00:35:21.569
+Toerless: Architecture, pictures from the 1st buff
+
+215
+00:35:21.700 --> 00:35:25.540
+Toerless: a little bit overwhelming, so that might need some.
+
+216
+00:35:26.450 --> 00:35:27.314
+Luigi Iannone: Polishing.
+
+217
+00:35:29.980 --> 00:35:30.940
+Luigi Iannone: Yeah.
+
+218
+00:35:32.200 --> 00:35:42.300
+Toerless: Yeah, well, so all these, all these, these these pictures with a lot of different boxes, right? So it's it's so easy as an architect to get obsessed about them. And
+
+219
+00:35:43.080 --> 00:35:46.540
+Toerless: it's always hard to. So, you know, try to find.
+
+220
+00:35:46.940 --> 00:35:57.109
+Toerless: Yeah, I now understand. I think Michael's were were even worse. So these ones are, almost, you know, agreeable.
+
+221
+00:35:57.110 --> 00:35:58.250
+Luigi Iannone: Agreeable.
+
+222
+00:35:59.390 --> 00:36:12.089
+Toerless: Yeah, yeah. So I mean, it's it's it's always yeah. I mean, the more important stuff is really to to make sure that problematic people with problematic questions upfront have been dealt with upfront so.
+
+223
+00:36:12.970 --> 00:36:13.710
+Luigi Iannone: Then you can.
+
+224
+00:36:13.710 --> 00:36:16.570
+Toerless: And away with everything complex. Right? So I mean.
+
+225
+00:36:17.258 --> 00:36:27.710
+Toerless: in something like quick, right? People didn't understand it either at all, or there they were all already in on the thing. Right? So that's that's the state that you need to get to.
+
+226
+00:36:28.051 --> 00:36:30.098
+Toerless: There is no middle ground, basically.
+
+227
+00:36:30.550 --> 00:36:31.080
+Toerless: Yes.
+
+228
+00:36:32.160 --> 00:36:39.509
+Luigi Iannone: I mean this slide that this time it looks looks okay. I mean, obviously.
+
+229
+00:36:39.870 --> 00:36:51.850
+Luigi Iannone: there is the need to be explained, because just like that it's not immediate, but that's the point where I think the the oral presentation should be fine and looks more
+
+230
+00:36:52.771 --> 00:36:56.680
+Luigi Iannone: structured in the first, st both
+
+231
+00:36:56.830 --> 00:36:59.659
+Luigi Iannone: more or less. They were the same elements, but but
+
+232
+00:36:59.820 --> 00:37:04.809
+Luigi Iannone: too colorful and a little bit more next year, you know, since.
+
+233
+00:37:04.810 --> 00:37:26.440
+Toerless: You can remember 20 page versions of this, not for attestation, but for path, monitoring for all type of quality, things that that's something we did 1012 years back in Cisco, and we went back and forth with all the different alternatives you know, who initiates the orchestration. Is it done? Hop by hop. Is it collected, is it? Oh, man, yeah. So
+
+234
+00:37:26.600 --> 00:37:31.256
+Toerless: at least you've got just, you know, 2 options here, so
+
+235
+00:37:32.780 --> 00:37:42.639
+Toerless: I don't believe much in in the left page, right? So that's been my experience. But that's obvious.
+
+236
+00:37:42.640 --> 00:37:58.199
+Luigi Iannone: Okay, to be to be debated once we are a working group. But I like this slide, because also is what we have in the document. That shows. We. We have an initial architecture
+
+237
+00:37:58.500 --> 00:38:01.540
+Luigi Iannone: so, or at least a draft of it.
+
+238
+00:38:01.790 --> 00:38:08.809
+Luigi Iannone: So we we are not starting for from a blank page, and we don't know exactly what to do.
+
+239
+00:38:09.060 --> 00:38:16.200
+Luigi Iannone: So we have a clear idea on how to tackle the use cases that are presented in the 1st part of the slide.
+
+240
+00:38:17.670 --> 00:38:28.779
+Toerless: Do you do? You have Slide? That that shows kind of how you may have a lot of the infrastructure already from from Reds, except that it's not
+
+241
+00:38:28.950 --> 00:38:36.840
+Toerless: being used to do things that is coupled to the forwarding plane, but just to the device properties.
+
+242
+00:38:39.200 --> 00:38:44.680
+Luigi Iannone: There is a discussion about oh.
+
+243
+00:38:45.960 --> 00:38:59.569
+Toerless: I mean, if I look at that picture right, I would say that the whole Yang stuff the collection right? So the modules in the notes. A lot of that you may already have from from rats. So then the path verifier is new.
+
+244
+00:39:00.980 --> 00:39:06.689
+Toerless: In the boxes down there in the attestor. The the connection to the forwarding plane is new.
+
+245
+00:39:06.870 --> 00:39:17.029
+Toerless: right, but but the middle infrastructure, right? So the orchestrator, for example, especially on the left hand picture right, so that may already be be able to get from rats.
+
+246
+00:39:17.030 --> 00:39:23.220
+Luigi Iannone: Oh, oh, okay, okay. So somehow, highlight, which box is.
+
+247
+00:39:23.220 --> 00:39:27.449
+Toerless: So this is this is this is about eating our own ietf dog food
+
+248
+00:39:27.870 --> 00:39:43.069
+Toerless: right? Even if you're not, I would say that that would be a sales pitch, especially for the people who do not understand rats, but that it's about actually leveraging rats to do something useful, you know, beyond the scope of work rats can do.
+
+249
+00:39:45.550 --> 00:39:58.550
+Luigi Iannone: Okay, okay? So so somehow, highlight, the the boxes that are already defined somehow in rats and the boxes that instead are explicitly added by.
+
+250
+00:39:58.940 --> 00:40:18.089
+Toerless: I mean, that's that's 1 possible way. Right? So the whole thing is, sales pitch right in terms of this is not all ground shield. New right? All the, you know. Difficult attestation, you know, cryptography and a lot of infrastructure components between network devices and a back end
+
+251
+00:40:18.690 --> 00:40:23.050
+Toerless: have been defined by reds. So we're a Reds application.
+
+252
+00:40:23.640 --> 00:40:28.330
+Toerless: And we're coupling right? So so so that type of type of sales pitch.
+
+253
+00:40:29.490 --> 00:40:30.109
+Luigi Iannone: And then.
+
+254
+00:40:30.110 --> 00:40:34.679
+Toerless: The details. You know a lot better than I, right? But I'm just saying that.
+
+255
+00:40:35.470 --> 00:40:42.320
+Toerless: But whatever we can do to to give people an easy, high, level understanding why they could like it.
+
+256
+00:40:43.180 --> 00:40:46.040
+Luigi Iannone: Okay, okay, see your point?
+
+257
+00:40:46.220 --> 00:40:48.150
+Peter Chunchi Liu: Yeah, I can work on that.
+
+258
+00:40:52.330 --> 00:40:58.029
+Meiling Chen: That's the sorry I still don't know. Rats is any of you folks in Reds.
+
+259
+00:40:59.697 --> 00:41:02.960
+Luigi Iannone: I'm following the mailing list and the discussions.
+
+260
+00:41:03.500 --> 00:41:04.010
+Diego Lopez: Yeah.
+
+261
+00:41:04.010 --> 00:41:05.700
+Peter Chunchi Liu: I'm following me, too, I think.
+
+262
+00:41:05.700 --> 00:41:13.509
+Toerless: Do we have an actual Reds person on the agenda to kind of make that pitch? Or do we have to make it.
+
+263
+00:41:14.490 --> 00:41:22.810
+Luigi Iannone: I would say we have to make it. But as we discussed last time, we will share these slides, all the slides with him
+
+264
+00:41:23.070 --> 00:41:44.199
+Luigi Iannone: beforehand, so to make sure that he's in the room, and can give the rats viewpoint and support, let's say. And Nancy. He she was the the previous rats co-chair, so she also, I would say, a rats expert.
+
+265
+00:41:48.300 --> 00:41:48.630
+Toerless: Yeah.
+
+266
+00:41:48.630 --> 00:41:49.979
+Toerless: Yeah. So I
+
+267
+00:41:49.980 --> 00:41:59.419
+Toerless: I'm just saying, there's always there's always I haven't looked at at your timeline for for the buff. You know how much time you have for stuff. But.
+
+268
+00:42:00.470 --> 00:42:01.770
+Luigi Iannone: Oh, I can show you.
+
+269
+00:42:02.050 --> 00:42:10.829
+Toerless: No, no, I'm saying whether or not it would make sense for a red person to ask a red person for 5 min of reds or something.
+
+270
+00:42:15.150 --> 00:42:15.780
+Luigi Iannone: Okay.
+
+271
+00:42:17.910 --> 00:42:22.950
+Toerless: Even you could even prepare the red slide for that person. But you know
+
+272
+00:42:24.380 --> 00:42:29.133
+Toerless: I'm I'm I'm just brainstorming right? So if it doesn't fit. Don't bother so it's
+
+273
+00:42:29.620 --> 00:42:30.180
+Luigi Iannone: Okay.
+
+274
+00:42:32.180 --> 00:42:35.720
+Peter Chunchi Liu: Like rats. State of art, that kind of thing.
+
+275
+00:42:36.180 --> 00:42:45.410
+Luigi Iannone: I wouldn't do it explicitly on the agenda, let's say, because otherwise someone can quickly say, Oh, go.
+
+276
+00:42:45.540 --> 00:42:49.979
+Luigi Iannone: do the working rats directly. Okay, and we will have to spend the time to
+
+277
+00:42:50.320 --> 00:42:53.009
+Luigi Iannone: why, it's different. Why, we need something different.
+
+278
+00:42:53.010 --> 00:42:57.200
+Toerless: Wait a second we want to be in. Are we also in security.
+
+279
+00:42:58.270 --> 00:42:59.710
+Luigi Iannone: We are in security. Yes.
+
+280
+00:42:59.710 --> 00:43:01.700
+Toerless: Also targeting security. Okay.
+
+281
+00:43:02.730 --> 00:43:10.100
+Luigi Iannone: But well at the end the Isg did this decision. Obviously we are in between routing and security.
+
+282
+00:43:10.870 --> 00:43:11.340
+Toerless: Right.
+
+283
+00:43:11.480 --> 00:43:12.110
+Luigi Iannone: No, no.
+
+284
+00:43:12.110 --> 00:43:21.259
+Toerless: That's that's a that's a good counterpoint, right? So that we we want to create sufficient distance not to be
+
+285
+00:43:21.530 --> 00:43:33.199
+Toerless: asked to to work in rats. So that's that's that's the counterpoint. So what's what's your counterpoint answer? When when people come and say, Why, why doesn't this go into rats proper?
+
+286
+00:43:33.650 --> 00:43:35.780
+Toerless: Why does this need to be a separate working group.
+
+287
+00:43:37.660 --> 00:43:47.830
+Luigi Iannone: Because in there are 2 points in the last there is no notion of path, and there is no way to put the proof of transit
+
+288
+00:43:48.410 --> 00:44:05.880
+Luigi Iannone: into rats, because rats is about attestation, and it's not about forwarding or stuff like that. So that is why we need something else. And we we can absolutely use as much as we can about rats, but would make sense to have
+
+289
+00:44:06.210 --> 00:44:09.609
+Luigi Iannone: related working groups, but different.
+
+290
+00:44:10.440 --> 00:44:15.880
+Luigi Iannone: So to focus each other on the on, the on the specificities of their solution.
+
+291
+00:44:16.810 --> 00:44:30.190
+Peter Chunchi Liu: Yeah, adding to Luigi's point one you know, also rest. Focus on, you know, like single device attestation like a single system. But they, you know. But now we are focusing on network deployments.
+
+292
+00:44:30.500 --> 00:44:33.320
+Peter Chunchi Liu: Right? I think that's a major, you know, extension of scope.
+
+293
+00:44:37.710 --> 00:44:40.100
+Toerless: So ultimately, it's it's a
+
+294
+00:44:40.270 --> 00:44:48.159
+Toerless: network service attestation through the forwarding plane, because that's ultimately the only thing you can trust.
+
+295
+00:44:50.050 --> 00:44:50.620
+Peter Chunchi Liu: Yeah.
+
+296
+00:44:55.350 --> 00:45:02.190
+Toerless: Yeah. So so are you happy to to get to, to go into security? Was that ever discussed, or
+
+297
+00:45:03.110 --> 00:45:05.980
+Toerless: in terms of? Would you rather like to be in routing or.
+
+298
+00:45:06.940 --> 00:45:13.831
+Diego Lopez: My my impression is that has been discussed a lot lately. We were talking with the origins we were talking with
+
+299
+00:45:14.480 --> 00:45:18.420
+Diego Lopez: routing Avs, etcetera. And they were.
+
+300
+00:45:19.190 --> 00:45:24.846
+Diego Lopez: I mean, they recommended us to go through security. That's what that was my impression, because,
+
+301
+00:45:25.642 --> 00:45:43.429
+Diego Lopez: that, the the problem is is they didn't perceive this as a routing problem. It's a it's an application of security techniques to routing. They prefer it to be in route inside and security that that was my impression from the from from the almost from the very beginning.
+
+302
+00:45:44.160 --> 00:45:45.960
+Peter Chunchi Liu: Yeah, that's right.
+
+303
+00:45:46.710 --> 00:45:59.639
+Diego Lopez: But, by the way, Luigi, there are a few people from from the rats environment that probably could. For example, Thomas, apart from him.
+
+304
+00:46:01.620 --> 00:46:17.909
+Diego Lopez: Ned and Roy there. There are 3 people that probably would be good to have there, though I must say Roy is a little bit skeptical, or it was a little bit skeptical about this.
+
+305
+00:46:18.160 --> 00:46:26.480
+Diego Lopez: He had the view that this was to overload the network with a particular functionality he don't like.
+
+306
+00:46:26.820 --> 00:46:39.049
+Diego Lopez: but I don't know. I if Hank is not available, or if we want someone in addition, we we can. We can talk with. We can talk with Thomas, for example, during the the 1st
+
+307
+00:46:39.620 --> 00:46:44.049
+Diego Lopez: and this guy I'm trying to remember he's a he works for the
+
+308
+00:46:44.210 --> 00:46:49.499
+Diego Lopez: is that the chair, or is right now the co-chair of the group he's working for Intel
+
+309
+00:46:49.950 --> 00:46:53.180
+Diego Lopez: with that white moustache, Ned. It's Ned.
+
+310
+00:46:53.790 --> 00:46:54.400
+Peter Chunchi Liu: Smith.
+
+311
+00:46:54.990 --> 00:46:55.479
+Diego Lopez: Nice to meet you.
+
+312
+00:46:55.897 --> 00:46:57.700
+Diego Lopez: Okay, he's a way. It was.
+
+313
+00:46:57.700 --> 00:46:58.820
+Peter Chunchi Liu: So supportive.
+
+314
+00:46:59.993 --> 00:47:04.600
+Diego Lopez: That could be another-, another-, another potential rat supporter. So to say.
+
+315
+00:47:09.210 --> 00:47:09.930
+Diego Lopez: yeah.
+
+316
+00:47:21.550 --> 00:47:32.739
+Peter Chunchi Liu: Yeah, I think I think that's sufficient. And maybe we should leave some time for the use case, because I think some, you know, mailing, and the other.
+
+317
+00:47:32.960 --> 00:47:39.350
+Peter Chunchi Liu: you know, from China. Unicom also, you know, want to work on the use case. And I, you know.
+
+318
+00:47:40.010 --> 00:47:52.680
+Peter Chunchi Liu: really think the use case should be like very iconic one. So everyone, when when they talk about Nasr, they should have one use case pop up to their mind, and you know, rather than you know, going everywhere.
+
+319
+00:47:59.470 --> 00:48:07.380
+Peter Chunchi Liu: So shall we, you know. Take a look at the those use cases. And you know, yeah.
+
+320
+00:48:08.210 --> 00:48:13.110
+Peter Chunchi Liu: and discuss if you know these should be, you know, consolidated into to, you know
+
+321
+00:48:13.340 --> 00:48:16.740
+Peter Chunchi Liu: together, or should be presented separately.
+
+322
+00:48:20.120 --> 00:48:22.810
+Luigi Iannone: So between this one and this one.
+
+323
+00:48:24.840 --> 00:48:31.589
+Luigi Iannone: Are you looking at my personal opinion that we is good to have the, the.
+
+324
+00:48:31.710 --> 00:48:37.109
+Luigi Iannone: the different use cases on the slides. We don't necessarily need to go in.
+
+325
+00:48:37.530 --> 00:48:40.650
+Peter Chunchi Liu: Much details on each use case.
+
+326
+00:48:41.199 --> 00:48:46.370
+Luigi Iannone: My personal opinion is nice to have the the policy aspects at the beginning.
+
+327
+00:48:46.510 --> 00:48:47.330
+Luigi Iannone: Okay.
+
+328
+00:48:47.680 --> 00:49:05.399
+Luigi Iannone: main example could be this, one could be another one, then we can drop this slide. It depends how Diego do. You will present and depends on how you feel. The important thing is to give a clear idea of the let's say, overall use case.
+
+329
+00:49:05.560 --> 00:49:21.129
+Luigi Iannone: and then we we can show the the other slides. To say, China is interested in this China. Mobile is interested in this other use case without necessarily spending
+
+330
+00:49:21.440 --> 00:49:31.239
+Luigi Iannone: too much time on the detailed use cases just to show that there there are a few. Okay? And then we go to the architectural part.
+
+331
+00:49:32.286 --> 00:49:44.233
+Diego Lopez: Yeah, I'm having having some people in the room. If we are going to have a mailing, and then we will be there. So if they are asked about the particular details they can, they can talk about it.
+
+332
+00:49:44.840 --> 00:49:48.870
+Luigi Iannone: Absolutely they can answer on the, on the specific questions related to
+
+333
+00:49:49.280 --> 00:49:52.459
+Luigi Iannone: with the specific use case absolutely, absolutely.
+
+334
+00:49:52.670 --> 00:49:59.860
+Diego Lopez: One thing that came to my mind looking at the China Unicorn one is that it reminds me very much of
+
+335
+00:50:00.490 --> 00:50:03.679
+Diego Lopez: some discussions we have had with network. Licen.
+
+336
+00:50:03.980 --> 00:50:08.120
+Diego Lopez: It is something that I'm not going to, I don't believe is the
+
+337
+00:50:08.250 --> 00:50:15.580
+Diego Lopez: we need to to open the net or slicing can of worms, but simply simply that. That reminded me very much. This.
+
+338
+00:50:15.770 --> 00:50:24.789
+Diego Lopez: probably in the in the long term. Probably we could talk about this because you know that there is an ongoing working. It is the
+
+339
+00:50:25.330 --> 00:50:33.357
+Diego Lopez: In in one of the working groups people are working on address license, though there are, you know, the usual
+
+340
+00:50:34.090 --> 00:50:47.979
+Diego Lopez: controversy about whether network slicing belongs to the Atf or not, but this looks very much as a way of assuring that the slice is being properly used.
+
+341
+00:50:48.150 --> 00:50:53.059
+Diego Lopez: But that's another story. Probably we should not open that that there, during the ball.
+
+342
+00:50:53.780 --> 00:50:55.860
+Luigi Iannone: Yeah, I agree.
+
+343
+00:50:56.910 --> 00:50:57.560
+Meiling Chen: Yeah.
+
+344
+00:50:58.140 --> 00:51:02.950
+Meiling Chen: So so other use cases should tell one story.
+
+345
+00:51:18.690 --> 00:51:25.289
+Meiling Chen: and I think the use case should not be should not have too too much details.
+
+346
+00:51:25.590 --> 00:51:31.840
+Meiling Chen: We cannot make the listeners confused about this 3 use case.
+
+347
+00:51:32.780 --> 00:51:35.300
+Meiling Chen: So we need to be simplified.
+
+348
+00:51:44.540 --> 00:51:53.269
+Luigi Iannone: I agree. I mean, we can keep the slide with the, with the details of the use cases just to show there is a main use case. And then this can be
+
+349
+00:51:53.540 --> 00:51:57.309
+Luigi Iannone: the client in different ways. Okay.
+
+350
+00:51:57.500 --> 00:52:09.395
+Luigi Iannone: but without spending really too much time on on the use cases. All the use cases, I mean, especially because
+
+351
+00:52:10.450 --> 00:52:15.630
+Luigi Iannone: So in principle, we have 35 min
+
+352
+00:52:16.270 --> 00:52:20.770
+Luigi Iannone: for the use cases and problem statement.
+
+353
+00:52:21.410 --> 00:52:45.599
+Luigi Iannone: So this, this goes fast. I mean, it's 15 min each. Let's say so. We we we don't have time to go into details, and we should avoid to to spend too much time the the use cases. Otherwise we don't have time to give a clear idea of the architecture, because to explain a slide
+
+354
+00:52:46.190 --> 00:52:49.039
+Luigi Iannone: like this one.
+
+355
+00:52:49.390 --> 00:52:52.210
+Luigi Iannone: Yes, we. We need a bit of time.
+
+356
+00:52:53.230 --> 00:52:54.150
+Peter Chunchi Liu: Yeah.
+
+357
+00:53:00.400 --> 00:53:04.980
+Luigi Iannone: So we let's say that in terms of number of slides
+
+358
+00:53:05.120 --> 00:53:10.989
+Luigi Iannone: we are good, but we don't have to overdo it with too many slides, especially in the 1st part.
+
+359
+00:53:30.080 --> 00:53:36.469
+Meiling Chen: The architecture. Step one, I mean the before use architecture. The new role
+
+360
+00:53:37.260 --> 00:53:45.419
+Meiling Chen: pass verify is not a neural, but pass is the new function. So we, we, we have to highlight that.
+
+361
+00:53:47.800 --> 00:53:49.880
+Peter Chunchi Liu: No, that's a that's a detail.
+
+362
+00:53:50.680 --> 00:54:06.250
+Peter Chunchi Liu: because Verifiers also is already, you know, a role in the rats. Maybe there should be multiple verifiers. Maybe there should be like something, but it does not behave significantly different. But the orchestrator is definitely a new role. So
+
+363
+00:54:06.620 --> 00:54:08.329
+Peter Chunchi Liu: I don't know if that answers your question.
+
+364
+00:54:09.220 --> 00:54:13.389
+Meiling Chen: Okay, okay. The password file is borrowed from rest. Totally right?
+
+365
+00:54:15.500 --> 00:54:16.480
+Peter Chunchi Liu: More or less.
+
+366
+00:54:25.780 --> 00:54:30.569
+Peter Chunchi Liu: Does this pick, you know? Does this page generally make sense to everyone?
+
+367
+00:54:31.010 --> 00:54:36.420
+Peter Chunchi Liu: I tried to make it, you know, you know, simple to to.
+
+368
+00:54:36.540 --> 00:54:48.730
+Peter Chunchi Liu: to comprehend, like the 3 steps, like a truce setup, verify very similar to the, you know, the measured boot in the trusted computing group like Tcg thing.
+
+369
+00:54:50.900 --> 00:55:16.100
+Peter Chunchi Liu: I think you know, if Tcg people are generally like people who understand about measured boot or kind of other trustworthiness technologies, they should understand like this is very similar to that process where we, you know, have a measured boot and establish the baseline, and then, during the use we continuously, you know, verify the status against the baseline.
+
+370
+00:55:17.190 --> 00:55:26.260
+Toerless: Right. But why? I mean so in AI we call the 1st step learning the second inference. Right? So what what are these steps called here?
+
+371
+00:55:27.860 --> 00:55:35.769
+Peter Chunchi Liu: Yeah, yeah, just like that, like the 1st step is set up. I call a setup, and then the the second step is verified
+
+372
+00:55:36.190 --> 00:55:37.530
+Peter Chunchi Liu: right? The 1st step.
+
+373
+00:55:37.530 --> 00:55:39.480
+Toerless: Right, but it's not on the slide.
+
+374
+00:55:41.340 --> 00:55:42.060
+Peter Chunchi Liu: Sorry.
+
+375
+00:55:42.520 --> 00:55:43.250
+Diego Lopez: I, in the.
+
+376
+00:55:43.250 --> 00:55:58.360
+Toerless: So I'm saying, I'm saying it's not very clear that the step one happens once during, you know, service definition and step 2 happens for every packet, for example, or flow, or period of time, or whatever the unit of of execution is.
+
+377
+00:55:59.140 --> 00:56:18.811
+Diego Lopez: In the yeah. That's something that we we should align. I think it would be interesting to to align terminology, because I don't remember the names I gave it in the on the slides, on the use case slides, and the policy because let me check. I was talking about.
+
+378
+00:56:21.120 --> 00:56:27.650
+Toerless: The name would be great if people recognized the name. Otherwise, you know, instead of saying Yang example
+
+379
+00:56:27.810 --> 00:56:30.499
+Toerless: put under step one, you know.
+
+380
+00:56:31.430 --> 00:56:36.709
+Toerless: you know, during once during service, bring up just an explanation under the step right.
+
+381
+00:56:36.930 --> 00:56:39.600
+Luigi Iannone: Like pass attestation or pass setup.
+
+382
+00:56:39.600 --> 00:56:39.920
+Diego Lopez: Is.
+
+383
+00:56:39.920 --> 00:56:41.229
+Luigi Iannone: Attestation there is.
+
+384
+00:56:41.680 --> 00:56:58.130
+Toerless: Set up. Yeah, whatever whatever you wanna do, the explanation right? But make it clear. 1 1 is, you know, complex, but happens once and 2 is the big challenge for us, because that needs to happen ideally for every packet. So we need to really make it fly.
+
+385
+00:56:59.721 --> 00:57:09.129
+Diego Lopez: What I'm using is, I mean in the the second in the second slide that is using is the attestation of the path components
+
+386
+00:57:09.570 --> 00:57:15.629
+Diego Lopez: that are done with when constructing the path, and the second step is about the decision of the path behavior.
+
+387
+00:57:15.750 --> 00:57:26.780
+Diego Lopez: I am. I'm totally happy if we we use a different terms, but it would be interesting just to align them. Because these are these 2 steps.
+
+388
+00:57:27.790 --> 00:57:32.130
+Diego Lopez: One is so past components where you where you build
+
+389
+00:57:32.450 --> 00:57:35.390
+Diego Lopez: path behavior while you use the path.
+
+390
+00:57:35.730 --> 00:57:36.580
+Diego Lopez: Yeah.
+
+391
+00:57:37.310 --> 00:57:44.080
+Peter Chunchi Liu: Yeah, yeah, I can change the wording. Sorry you suggested that it's called the path behavior. Right?
+
+392
+00:57:44.446 --> 00:57:51.770
+Diego Lopez: Have a look at the at the second, at the second of my slides. It was saying in the
+
+393
+00:57:53.390 --> 00:57:57.269
+Diego Lopez: it's just that we align it, because if we are, we are talking about this.
+
+394
+00:57:57.270 --> 00:57:58.420
+Peter Chunchi Liu: Oh, right? Right? Right? Yes.
+
+395
+00:57:58.420 --> 00:58:03.909
+Diego Lopez: System that we talk about. And again, I'm not that I
+
+396
+00:58:04.190 --> 00:58:11.830
+Diego Lopez: I believe that they are already, that they are the best wordings. If turtles have a better one. I'm more than happy.
+
+397
+00:58:13.740 --> 00:58:20.330
+Peter Chunchi Liu: No, no, I think it makes sense. We. We should align for people to understand. I will align with the this. This page.
+
+398
+00:58:21.400 --> 00:58:27.719
+Toerless: I would just make bad jokes like we now have to call everything in AI terms. Learning and inference.
+
+399
+00:58:27.920 --> 00:58:31.982
+Diego Lopez: So, no, that's it.
+
+400
+00:58:32.480 --> 00:58:33.690
+Peter Chunchi Liu: That's another way to turn.
+
+401
+00:58:33.690 --> 00:58:38.930
+Toerless: No, it's not too bad a joke right, because it's not too bad, but I don't think.
+
+402
+00:58:38.930 --> 00:58:54.389
+Diego Lopez: No, but but this is not about. I think it's a good analogy, you say. Well, this is similar to, or if you think in AI terms as as we are. We all do in these days, something like that, something that I would not put in written. But it's a is a very good analogy.
+
+403
+00:58:56.830 --> 00:58:59.610
+Peter Chunchi Liu: Yeah, yeah.
+
+404
+00:59:01.080 --> 00:59:11.210
+Luigi Iannone: I tend to to say that instead of past behavior, maybe past compliance, because this is what we we try to do so to.
+
+405
+00:59:12.050 --> 00:59:16.730
+Luigi Iannone: that is compliant with a certain set of requirements.
+
+406
+00:59:18.240 --> 00:59:21.039
+Diego Lopez: That's a that's good. Yes.
+
+407
+00:59:23.210 --> 00:59:23.900
+Peter Chunchi Liu: Yeah.
+
+408
+00:59:24.170 --> 00:59:24.949
+Toerless: We're not going
+
+409
+00:59:25.600 --> 00:59:34.569
+Toerless: cases like, you know, errors in the network. Rerouting path changes, and we go through the whole thing, maybe, or we do it upfront or so.
+
+410
+00:59:35.440 --> 00:59:36.360
+Toerless: It's a.
+
+411
+00:59:38.780 --> 00:59:39.590
+Peter Chunchi Liu: Well.
+
+412
+00:59:41.910 --> 00:59:48.679
+Peter Chunchi Liu: I think in charter we mentioned like we will start with a single path. So you know there will not
+
+413
+00:59:49.020 --> 00:59:52.699
+Peter Chunchi Liu: any, you know. Complex things like that. I think.
+
+414
+01:00:08.820 --> 01:00:15.855
+Toerless: So the explanation would also be that in the 1st step you typically would have a service that
+
+415
+01:00:16.890 --> 01:00:19.010
+Toerless: establishes a fixed path.
+
+416
+01:00:22.680 --> 01:00:23.330
+Peter Chunchi Liu: And then
+
+417
+01:00:23.600 --> 01:00:31.910
+Peter Chunchi Liu: well, in a charter. Yes, but you know fixed path will bring up some brittleness or some other questions.
+
+418
+01:00:36.390 --> 01:00:40.350
+Toerless: So you're trying to avoid going into that level of detail.
+
+419
+01:00:41.470 --> 01:00:53.799
+Peter Chunchi Liu: A little bit. Yeah. And you know, yeah, just trying to make this minimally usable. You know, for people to understand. Okay, this is, although this is very simple, it it's doable.
+
+420
+01:00:54.190 --> 01:01:03.999
+Peter Chunchi Liu: So I tried to. So so that's why I think we put it in the charter, but not, you know, emphasize that in the presentation. I don't know if that makes sense.
+
+421
+01:01:06.410 --> 01:01:16.139
+Luigi Iannone: There is also a question. I mean, if you attest a pass. So you have attestation of several bases and the pass changes. Let's say the operator.
+
+422
+01:01:16.540 --> 01:01:19.300
+Luigi Iannone: the routing system. Whoever tells you
+
+423
+01:01:19.430 --> 01:01:22.139
+Luigi Iannone: the password changed it. This is the new one.
+
+424
+01:01:22.761 --> 01:01:35.489
+Luigi Iannone: Then you don't need necessarily to re attest the whole path, but just the the notes that change it. Maybe it's always you have an incremental step.
+
+425
+01:01:37.160 --> 01:01:41.770
+Luigi Iannone: But you you I don't think we need to go
+
+426
+01:01:41.950 --> 01:02:01.269
+Luigi Iannone: into this kind of details. If anybody raises the questions that we are, yeah, this is something we have to to work on. And we have the incremental verification, or something like that as a possible approach.
+
+427
+01:02:02.540 --> 01:02:03.400
+Luigi Iannone: Yeah.
+
+428
+01:02:09.200 --> 01:02:09.980
+Peter Chunchi Liu: Yeah.
+
+429
+01:02:11.161 --> 01:02:16.150
+Toerless: Think the time is running out. So Ca-, can we go to the problem statement? Page.
+
+430
+01:02:18.700 --> 01:02:28.080
+Peter Chunchi Liu: Because you know no from page 10. So I don't know if everyone yeah.
+
+431
+01:02:28.080 --> 01:02:28.399
+Luigi Iannone: This one.
+
+432
+01:02:28.400 --> 01:02:32.550
+Peter Chunchi Liu: Just part. Yeah, I don't know if it makes sense for everyone.
+
+433
+01:02:33.950 --> 01:02:35.870
+Peter Chunchi Liu: So okay.
+
+434
+01:02:35.990 --> 01:02:42.700
+Peter Chunchi Liu: yeah, I try to write the problem statement in a more, you know, open-minded in a way of thinking this
+
+435
+01:02:42.930 --> 01:02:55.260
+Peter Chunchi Liu: like, why do we need Nazar like, and why do we do it now? And what what should be look like. I don't know if this play this page makes sense like.
+
+436
+01:02:55.390 --> 01:02:58.379
+Peter Chunchi Liu: why not so right now? I kind of to write
+
+437
+01:02:58.880 --> 01:03:14.170
+Peter Chunchi Liu: because the client of the, you know, connectivity service. They cannot choose geolocation, you know, compliance requirements. They cannot, you know, you know. Basically, we'll see in the charter, you know, choose those security requirements
+
+438
+01:03:14.420 --> 01:03:18.070
+Peter Chunchi Liu: and operators and clients don't have such tool to to do that.
+
+439
+01:03:20.200 --> 01:03:20.613
+Luigi Iannone: So
+
+440
+01:03:22.290 --> 01:03:30.340
+Luigi Iannone: my personal opinion, I I find the slide nice. I always just avoid using the term client, because to to
+
+441
+01:03:30.610 --> 01:03:32.659
+Luigi Iannone: to avoid confusion with with.
+
+442
+01:03:33.060 --> 01:03:35.309
+Peter Chunchi Liu: Web client. Something like that.
+
+443
+01:03:35.827 --> 01:03:38.930
+Peter Chunchi Liu: Yeah, right? I forgot that. Yes.
+
+444
+01:03:38.930 --> 01:03:54.609
+Luigi Iannone: To be honest, what I would find nice is something like that. You have this slide, and right away you have something like this, which is a a clear application of what you just said. Okay.
+
+445
+01:03:54.610 --> 01:03:57.340
+Toerless: Go back to the to the slide. Sorry I was just.
+
+446
+01:03:57.340 --> 01:03:57.900
+Luigi Iannone: Yes.
+
+447
+01:03:59.940 --> 01:04:00.790
+Toerless: So
+
+448
+01:04:04.110 --> 01:04:09.819
+Toerless: do you have for all of the points a left to right equivalency.
+
+449
+01:04:09.940 --> 01:04:16.750
+Toerless: because then maybe you want to change it to a table, you know, control which geolocation.
+
+450
+01:04:17.760 --> 01:04:18.500
+Peter Chunchi Liu: Well.
+
+451
+01:04:18.500 --> 01:04:25.380
+Toerless: The traffic, so that that is the one to one relationship. Right? So so if this was a table with 2 columns.
+
+452
+01:04:25.550 --> 01:04:30.160
+Toerless: and the 1st column said, you know, cannot control
+
+453
+01:04:30.640 --> 01:04:36.160
+Toerless: which geolocation of the traffic transits, you know, can control. Right? So
+
+454
+01:04:36.430 --> 01:04:48.300
+Toerless: is it for the others as well. Right so means to provide enhanced service and assurance, deterministic forwarding
+
+455
+01:04:49.950 --> 01:04:53.729
+Toerless: more secure crap clients implicitly trust.
+
+456
+01:04:55.380 --> 01:04:59.660
+Toerless: Yeah. So, except for the visibility you are trying to, to, you know.
+
+457
+01:05:01.500 --> 01:05:05.320
+Toerless: Say what you have in before and what you have afterwards, and I don't think
+
+458
+01:05:05.490 --> 01:05:12.170
+Toerless: the current formatting makes it very clear. This this relationship from where you are kind of on a point by point basis, right?
+
+459
+01:05:14.430 --> 01:05:18.780
+Peter Chunchi Liu: Yeah, if a table is more clear, I can change it to a table.
+
+460
+01:05:19.710 --> 01:05:24.720
+Toerless: Yeah, maybe so. I'm just. I'm just trying to look at it. Right? So quest.
+
+461
+01:05:25.300 --> 01:05:28.759
+Toerless: So the visibility is is is new. That's fine.
+
+462
+01:05:29.730 --> 01:05:38.380
+Toerless: Implicitly trust the connection more secure and carefree, compliant connectivity.
+
+463
+01:05:41.320 --> 01:05:47.750
+Toerless: So if you're going from implicit trust to, you know, automatically.
+
+464
+01:05:47.750 --> 01:05:50.940
+Peter Chunchi Liu: The verifiability. And you know, automate, yeah.
+
+465
+01:05:52.660 --> 01:05:58.580
+Toerless: But I think the the whole point, the carefree, compliant connectivity is,
+
+466
+01:06:02.930 --> 01:06:08.629
+Toerless: yeah, yeah, this this wording is is is, I mean, these are all excellent points. It's just.
+
+467
+01:06:08.830 --> 01:06:12.980
+Toerless: you know, a good exercise to try to make it as crisp as possible.
+
+468
+01:06:13.710 --> 01:06:17.819
+Peter Chunchi Liu: Yeah, I think carefree here means visibility and verifiability.
+
+469
+01:06:18.670 --> 01:06:22.780
+Toerless: Yeah. But the whole point is that carefree means that
+
+470
+01:06:22.890 --> 01:06:28.520
+Toerless: you don't have to come up with a an elaborate
+
+471
+01:06:29.130 --> 01:06:35.970
+Toerless: additional labor verification process. But it's a fully automated verification, right.
+
+472
+01:06:36.940 --> 01:06:37.650
+Peter Chunchi Liu: Yeah.
+
+473
+01:06:37.650 --> 01:06:40.120
+Toerless: So 1st of all, you cannot trust today.
+
+474
+01:06:40.240 --> 01:06:44.370
+Toerless: And if you had to trust today with today's mechanisms, it would be a lot of work.
+
+475
+01:06:45.440 --> 01:06:48.409
+Toerless: And this solution automates this all
+
+476
+01:06:50.640 --> 01:06:59.890
+Toerless: right, it does verification, and it fully automates it. So that's that's a good before and after. So that's that's the on the right hand side, the 4th bullet point
+
+477
+01:07:02.250 --> 01:07:05.929
+Toerless: enhanced services. I'm not quite sure.
+
+478
+01:07:08.100 --> 01:07:09.839
+Toerless: If that's actually true.
+
+479
+01:07:14.600 --> 01:07:19.750
+Toerless: maybe maybe I'm I'm a little bit too picky again. Right so. But how does NASA
+
+480
+01:07:19.920 --> 01:07:22.960
+Toerless: help you to to get to deterministic forwarding.
+
+481
+01:07:26.626 --> 01:07:40.529
+Peter Chunchi Liu: Well, you you kind of verify if it's you know. Sorry, I just wanna say it again. So determine forwarding. If we have, you know, if we pick only the, you know, secure boot or integrity check devices.
+
+482
+01:07:40.570 --> 01:08:04.500
+Peter Chunchi Liu: And we we kind of have this path behavior attested. Then there should be like. No, you know, backdoors or or vulnerabilities, and just in all, each individual device, forwarding behavior should be deterministic, and when you only, you know, choose them to, you know, provide a connected
+
+483
+01:08:04.500 --> 01:08:10.679
+Peter Chunchi Liu: connect to the service, and then the service in all should be deterministic.
+
+484
+01:08:10.680 --> 01:08:19.799
+Toerless: Okay. But wait a second. So deterministic in the Ietf would most likely be read as what the deterministic working group does.
+
+485
+01:08:19.800 --> 01:08:26.089
+Luigi Iannone: Definite. It can be me misleading. The so would be better to find an order.
+
+486
+01:08:26.270 --> 01:08:27.250
+Luigi Iannone: Yes, another word.
+
+487
+01:08:27.250 --> 01:08:29.689
+Peter Chunchi Liu: Yeah, that's that's a, yeah.
+
+488
+01:08:31.170 --> 01:08:31.800
+Luigi Iannone: One.
+
+489
+01:08:31.800 --> 01:08:32.550
+Peter Chunchi Liu: That's right.
+
+490
+01:08:33.740 --> 01:08:36.006
+Peter Chunchi Liu: It's just I kind of presented this
+
+491
+01:08:36.439 --> 01:08:48.689
+Peter Chunchi Liu: so sorry. It's just. I kind of presented this deterministic behavior concept to what is that called one of the chairs in the Idr Working group, and he likes it very much. So
+
+492
+01:08:49.420 --> 01:08:54.259
+Peter Chunchi Liu: it should be a good concept. But a, you know different wording should be, should be good.
+
+493
+01:08:54.260 --> 01:08:58.760
+Luigi Iannone: Be accountable for wording, or something like that.
+
+494
+01:08:58.939 --> 01:09:02.629
+Peter Chunchi Liu: So so sorry! What accountable for me? Accountable!
+
+495
+01:09:02.982 --> 01:09:12.137
+Luigi Iannone: Yeah, so that you you at the end of the day, you can verify whether or not the forwarding has been done in a deterministic way.
+
+496
+01:09:14.109 --> 01:09:16.390
+Luigi Iannone: Yeah, it's just I think it's.
+
+497
+01:09:16.399 --> 01:09:24.549
+Toerless: It's it's the so on the left hand side. It's really no assurance for service properties.
+
+498
+01:09:24.859 --> 01:09:29.489
+Toerless: And here you have assurance through attestation.
+
+499
+01:09:31.470 --> 01:09:32.710
+Luigi Iannone: True, right.
+
+500
+01:09:34.040 --> 01:09:36.559
+Toerless: Right. So I think that's the that's the before and after.
+
+501
+01:09:36.560 --> 01:09:38.100
+Peter Chunchi Liu: That's a good way. This is. This is.
+
+502
+01:09:38.100 --> 01:09:49.669
+Toerless: All about assurance, you know, service assurance. Right? So now we we don't have service assurance, and then we're doing service assurance through attestation, cryptographic attestation.
+
+503
+01:09:50.710 --> 01:09:51.700
+Peter Chunchi Liu: Yep. Yeah.
+
+504
+01:09:53.010 --> 01:09:58.390
+Toerless: Basically, the word cryptographic in there will secure your place in the security area. So.
+
+505
+01:10:00.145 --> 01:10:01.999
+Peter Chunchi Liu: Yeah, that's a that's a good rule.
+
+506
+01:10:02.000 --> 01:10:02.849
+Peter Chunchi Liu: We'll call you Ashley.
+
+507
+01:10:08.390 --> 01:10:10.810
+Toerless: So then the new traffic left.
+
+508
+01:10:10.810 --> 01:10:13.289
+Toerless: Request that reverse devices
+
+509
+01:10:23.330 --> 01:10:26.360
+Toerless: terrific, perfect. So detour unauthorized.
+
+510
+01:10:38.250 --> 01:10:40.230
+Toerless: Yeah, maybe maybe the
+
+511
+01:10:41.730 --> 01:10:48.520
+Toerless: maybe all these these small bullet points on. You know the traffic leakage is is for the left hand side, right. So
+
+512
+01:10:48.730 --> 01:10:55.939
+Toerless: you know, traffic leakage causing security and service.
+
+513
+01:10:55.940 --> 01:10:56.440
+Peter Chunchi Liu: Second.
+
+514
+01:10:58.340 --> 01:10:59.270
+Toerless: Problems.
+
+515
+01:10:59.270 --> 01:11:05.710
+Toerless: Then on the right hand side is all leakage will be discovered and discarded and alerted.
+
+516
+01:11:08.010 --> 01:11:12.090
+Peter Chunchi Liu: Yeah, yeah.
+
+517
+01:11:12.090 --> 01:11:22.790
+Toerless: But yeah, I mean you. So it really depends, right? So how much time you want to spend on this. But yeah, I think it. It is a. It is a cool thing to to try to work this out as good as possible.
+
+518
+01:11:24.350 --> 01:11:28.235
+Peter Chunchi Liu: Yeah, yeah, I'll fix it asap.
+
+519
+01:11:29.620 --> 01:11:36.930
+Toerless: No, no, I mean, I have been too long around product management people. So please excuse me.
+
+520
+01:11:38.150 --> 01:11:45.739
+Peter Chunchi Liu: No, no, I mean it should be. It's about time that for for previews, right, we have a preview upcoming for relevant peoples. So
+
+521
+01:11:48.660 --> 01:11:49.869
+Peter Chunchi Liu: I'll fix very quick.
+
+522
+01:12:03.580 --> 01:12:10.429
+Peter Chunchi Liu: Okay, if that makes sense, you know. Maybe next I think there's another another page about, why do we do, Nasr? Now?
+
+523
+01:12:10.820 --> 01:12:12.949
+Peter Chunchi Liu: I think so I think it's a 12,
+
+524
+01:12:13.050 --> 01:12:16.870
+Peter Chunchi Liu: because I make, you know 4 reasons to that.
+
+525
+01:12:17.514 --> 01:12:34.929
+Peter Chunchi Liu: I don't know if it makes sense like number one, because it's rats. Our, you know, foundational technology is ready in our core products. I think Cisco have a products that supports rats. Us already have a core products that supports rats.
+
+526
+01:12:35.700 --> 01:12:49.259
+Peter Chunchi Liu: and the second one is that we allow, you know, some kind of a secure distinction, and you know, differentiated or security enhanced services because we can choose, we can orchestrate to verify.
+
+527
+01:12:49.970 --> 01:13:02.610
+Peter Chunchi Liu: And the 3rd one is, you know, behavioral assurance, like, I think, the the past behavior, the ones Diego mentioned. I will align with their words. But you know, that's basically what I'm trying to say.
+
+528
+01:13:02.830 --> 01:13:05.760
+Peter Chunchi Liu: You have path behavioral assurance.
+
+529
+01:13:10.710 --> 01:13:29.949
+Toerless: If you're too much worried, if if this this goes fully into this stuff of of red. So if you're worried about getting into 2 reds. Then maybe, you know, remove reds and replace it by. You know, attestation, technology, attestation technology. Right? So say, in the beginning, rats, you know.
+
+530
+01:13:31.783 --> 01:13:34.529
+Luigi Iannone: That's a good point. We we have several.
+
+531
+01:13:35.350 --> 01:13:37.860
+Toerless: Or or attestation, technologies.
+
+532
+01:13:38.050 --> 01:13:41.830
+Peter Chunchi Liu: Right? And so now we're driving attestation technologies. Further.
+
+533
+01:13:42.420 --> 01:13:46.529
+Toerless: If you want to say less red, just not to become a rat yourself.
+
+534
+01:13:47.860 --> 01:13:49.400
+Peter Chunchi Liu: Yes, yes, that's right.
+
+535
+01:13:49.400 --> 01:13:50.179
+Diego Lopez: So that's what we'll do.
+
+536
+01:13:50.180 --> 01:13:51.859
+Diego Lopez: Yeah, very good.
+
+537
+01:13:52.503 --> 01:13:53.790
+Peter Chunchi Liu: Noted. Yeah.
+
+538
+01:14:01.420 --> 01:14:03.960
+Meiling Chen: Yeah, and basically, yeah.
+
+539
+01:14:08.170 --> 01:14:13.369
+Peter Chunchi Liu: You know, you know, basically, the the choose orchestrate verify is is NASA.
+
+540
+01:14:14.160 --> 01:14:16.490
+Toerless: And again deterministic forwarding.
+
+541
+01:14:17.280 --> 01:14:20.670
+Toerless: Let's let's replace deterministic with something.
+
+542
+01:14:23.040 --> 01:14:26.360
+Peter Chunchi Liu: Yeah, how about just accountable forwarding
+
+543
+01:14:29.400 --> 01:14:30.119
+Peter Chunchi Liu: good for you?
+
+544
+01:14:30.120 --> 01:14:32.395
+Toerless: Another? A what was the other? A word?
+
+545
+01:14:35.610 --> 01:14:39.910
+Peter Chunchi Liu: Auditable, no.
+
+546
+01:14:43.050 --> 01:14:44.674
+Toerless: Too late! Here. Sorry.
+
+547
+01:14:46.610 --> 01:14:48.690
+Peter Chunchi Liu: Would appreciate your.
+
+548
+01:14:50.070 --> 01:14:54.379
+Luigi Iannone: How we can choose a different term later on. If we we find out.
+
+549
+01:14:54.380 --> 01:14:54.989
+Luigi Iannone: Yeah, yeah, sure.
+
+550
+01:14:54.990 --> 01:15:02.079
+Luigi Iannone: it's just one word. Let's let's go for accountable forwarding for now, maybe what's missing later on.
+
+551
+01:15:03.120 --> 01:15:07.980
+Peter Chunchi Liu: Yeah, I'll start a thread for for this thing.
+
+552
+01:15:08.640 --> 01:15:11.290
+Peter Chunchi Liu: Yeah. But I think in general, the the
+
+553
+01:15:11.410 --> 01:15:14.690
+Peter Chunchi Liu: these bullets are okay in general, right?
+
+554
+01:15:16.230 --> 01:15:18.029
+Peter Chunchi Liu: Yeah, yeah, yeah, okay.
+
+555
+01:15:24.250 --> 01:15:27.580
+Luigi Iannone: Okay, we are slightly over time.
+
+556
+01:15:29.910 --> 01:15:31.379
+Peter Chunchi Liu: Were sufficiently discussed.
+
+557
+01:15:31.650 --> 01:15:48.989
+Luigi Iannone: Yeah, I I think we are on the good path. We discussed. What is the the remaining steps to to finalize these slides? Everything looks on track, and we don't have any more interim meetings.
+
+558
+01:15:49.600 --> 01:15:54.399
+Luigi Iannone: I don't need to wake up at 5 o'clock in the morning.
+
+559
+01:15:54.800 --> 01:15:56.669
+Diego Lopez: Before 5 yes.
+
+560
+01:15:57.046 --> 01:16:12.109
+Luigi Iannone: No, but I mean we we I think we did a good job during the various interim meetings. We we just need to finalize the the slides and we are ready. We, we are scheduled on in Bangkok. So
+
+561
+01:16:12.290 --> 01:16:18.969
+Luigi Iannone: we are good. We we can do this the last mile through emails. And yeah.
+
+562
+01:16:19.540 --> 01:16:20.110
+Peter Chunchi Liu: So.
+
+563
+01:16:20.110 --> 01:16:30.789
+Diego Lopez: Yeah. And and we and we can. We can have a catch up. I mean, I will arrive. I will arrive. Personally, I will arrive in Bangkok at so on Friday evening.
+
+564
+01:16:31.270 --> 01:16:40.149
+Diego Lopez: so I guess that you will be around during the hackathon, or or on Monday or Sunday Sunday evening. We we can have a
+
+565
+01:16:40.540 --> 01:16:42.720
+Diego Lopez: a catch up just in case we need.
+
+566
+01:16:42.720 --> 01:16:46.840
+Toerless: Okay, and you won't have the the routing people bitch bitch to you.
+
+567
+01:16:48.550 --> 01:16:51.909
+Toerless: because it's same as as link state routing. So
+
+568
+01:16:52.560 --> 01:16:55.465
+Toerless: the call routing people are all.
+
+569
+01:16:55.950 --> 01:16:56.520
+Diego Lopez: Yeah.
+
+570
+01:16:58.020 --> 01:16:58.720
+Toerless: Good.
+
+571
+01:17:00.270 --> 01:17:00.920
+Peter Chunchi Liu: Yeah.
+
+572
+01:17:00.920 --> 01:17:01.379
+Diego Lopez: Very good.
+
+573
+01:17:01.776 --> 01:17:11.279
+Luigi Iannone: Would be a good idea if we we can catch up together Sunday or Monday, I mean, I will arrive on Saturday in Baku.
+
+574
+01:17:11.700 --> 01:17:12.720
+Luigi Iannone: Okay?
+
+575
+01:17:12.720 --> 01:17:16.090
+Luigi Iannone: So maybe some. Sometime on Sunday.
+
+576
+01:17:16.985 --> 01:17:18.489
+Diego Lopez: Yeah, freza will be.
+
+577
+01:17:18.490 --> 01:17:19.050
+Peter Chunchi Liu: Together.
+
+578
+01:17:19.880 --> 01:17:29.129
+Diego Lopez: I will be tied, I I will be tied to a to a table during the hackathon, so if you want to look for me it will be there, and in the afternoon, you know, there is a reception, so we'll have to.
+
+579
+01:17:29.270 --> 01:17:31.530
+Luigi Iannone: We will find you. Diego.
+
+580
+01:17:32.419 --> 01:17:37.510
+Diego Lopez: Know it's and difficult to hide. I know that.
+
+581
+01:17:38.500 --> 01:17:39.939
+Luigi Iannone: No, no, that's.
+
+582
+01:17:39.940 --> 01:17:40.960
+Peter Chunchi Liu: I'll be the heck.
+
+583
+01:17:40.960 --> 01:17:41.440
+Luigi Iannone: Yeah, yeah.
+
+584
+01:17:42.880 --> 01:17:44.490
+Peter Chunchi Liu: Yeah, I'll be there, too.
+
+585
+01:17:45.980 --> 01:17:46.910
+Diego Lopez: Very good.
+
+586
+01:17:47.120 --> 01:17:50.580
+Diego Lopez: So I think I'm gonna grab something for breakfast.
+
+587
+01:17:54.090 --> 01:17:55.840
+Luigi Iannone: Okay, so thank you very much.
+
+588
+01:17:56.160 --> 01:17:58.809
+Luigi Iannone: everybody, and see you in Bangkok.
+
+589
+01:17:59.240 --> 01:17:59.570
+Meiling Chen: See.
+
+590
+01:17:59.570 --> 01:17:59.930
+Diego Lopez: Okay.
+
+591
+01:17:59.930 --> 01:18:00.510
+Toerless: 5. Volts.
+
+592
+01:18:00.510 --> 01:18:03.090
+Diego Lopez: The flag.
+
+593
+01:18:04.410 --> 01:18:05.350
+Toerless: Are you there.
+
