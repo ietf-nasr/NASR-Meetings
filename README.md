@@ -4,7 +4,7 @@ This repository contains material and pointers to past and future NASR meetings.
 
 ## Next Upcoming Meeting:
 
-# NASR is meeting at next **[IETF 122 in Bangkok](https://datatracker.ietf.org/meeting/122/agenda)** - [18 March 2025 UTC 02:30](https://www.worldtimebuddy.com/?qm=1&lid=1850147,1816670,1609350,2988507,100,5128581,5391959&h=100&date=2025-3-18&sln=2.5-4.5&hf=1) 
+# NASR is meeting at next **[IETF 122 in Bangkok](https://datatracker.ietf.org/meeting/122/agenda)** - [18 March 2025 UTC 02:30](https://www.worldtimebuddy.com/?qm=1&lid=2147714,1850147,1816670,1609350,2988507,100,5128581,5391959&h=100&date=2025-3-18&sln=2.5-4.5&hf=0) 
 
 
 - Calendar Invitation: **[.ics file](https://datatracker.ietf.org/meeting/122/session/34026.ics)** 
